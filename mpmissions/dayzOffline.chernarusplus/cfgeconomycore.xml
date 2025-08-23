@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" /> <!-- boats -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>
+<!-- SECTION MMG - Mighty Military Gear Mod -->
+	<ce folder="ModTypes/MMG_Mightys_Military_Gear">
+		 <file name="types.xml" type="types" />
+		 <file name="cfgspawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+<!-- !SECTION MMG - Mighty Military Gear Mod End -->
+<!-- SECTION SNAFU Weapons Mod -->
+	<ce folder="ModTypes/SNAFU_Weapons">
+		 <file name="snafu-types.xml" type="types" />
+		 <file name="snafu-cfgspawnabletypes.xml" type="spawnabletypes" />
+	</ce>	
+<!-- !SECTION SNAFU Weapons Mod End -->
+<!-- SECTION Advanced Weapon Scopes Mod -->
+	<ce folder="ModTypes/AdvancedWeaponScopes">
+		 <file name="aws-types.xml" type="types" />
+	</ce>	
+<!-- !SECTION Advanced Weapon Scopes Mod End -->
+<!-- SECTION Mass'sManyItemsOverhaul Mod -->
+	<ce folder="ModTypes/MassManyItems">
+		 <file name="mass-types.xml" type="types" />
+		 <file name="mass-spawnabletypes.xml" type="spawnabletypes" />
+	</ce>	
+<!--!SECTION Mass'sManyItemsOverhaul Mod End -->
+<!-- SECTION CJ187-PokemonCards Mod -->
+	<ce folder="ModTypes/CJ187-PokemonTCG">
+		 <file name="pokemon-tcg-types.xml" type="types" />
+		 <file name="pokemon-tcg-spawnabletypes.xml" type="spawnabletypes" />
+	</ce>	
+<!-- !SECTION CJ187-PokemonCards Mod End -->
+<!-- SECTION CJ187-MoreCrashSites Mod -->
+	<ce folder="ModTypes/CJ187-MoreCrashSites">
+		 <file name="crashsite-types.xml" type="types" />
+	</ce>	
+<!-- !SECTION CJ187-MoreCrashSites Mod End -->
+<!-- SECTION Additional Medical Supplies Mod -->
+	<ce folder="ModTypes/AdditionalMedicalSupplies">
+		 <file name="ams-types.xml" type="types" />
+		 <file name="ams-spawnabletypes.xml" type="spawnabletypes" />
+	</ce>	
+<!-- !SECTION Additional Medical Supplies Mod End -->
+<!-- SECTION Building Fortifications Mod -->
+	<ce folder="ModTypes/BuildingFortifications">
+		 <file name="bf-types.xml" type="types" />
+	</ce>	
+<!-- !SECTION Building Fortifications Mod End -->
+<!-- SECTION Care Packages V2 Mod -->
+	<ce folder="ModTypes/CarePackagesV2">
+		 <file name="carepack-types.xml" type="types" />
+	</ce>	
+<!-- !SECTION Care Packages V2 End -->
+<!-- SECTION Code Lock Mod -->
+	<ce folder="ModTypes/CodeLock">
+		 <file name="codelock-types.xml" type="types" />
+	</ce>	
+<!-- !SECTION Code Lock V2 End -->
+<!-- SECTION Crocos Quad Bikes Mod -->
+	<ce folder="ModTypes/CrocosQuadBikes">
+		 <file name="CrocosQuadBikes-types.xml" type="types" />
+		 <file name="CrocosQuadBikes-spawnabletypes.xml" type="spawnabletypes" />
+	</ce>	
+<!-- !SECTION Crocos Quad Bikes Mod End -->
+<!-- SECTION DayZ-Expansion-Vehicles Mod -->
+	<ce folder="ModTypes/DayZ-Expansion-VehiclesDayZ-Expansion-Vehicles">
+		 <file name="expansion-vehicles-types.xml" type="types" />
+		 <file name="expansion-vehicles-spawnabletypes.xml" type="spawnabletypes" />
+	</ce>	
+<!-- !SECTION DayZ-Expansion-Vehicles Mod End -->
+<!-- REVIEW NEW -->
+<!-- SECTION Dogtag Mod -->
+	<ce folder="ModTypes/Dogtags">
+		 <file name="dogtag-types.xml" type="types" />
+	</ce>
+<!-- !SECTION Dogtag Mod End -->
+<!-- SECTION Dutch Military Clothing Mod -->
+	<ce folder="ModTypes/DutchMilitaryClothing">
+		 <file name="dmc-types.xml" type="types" />
+	</ce>
+<!-- !SECTION Dutch Military Clothing Mod End -->
+<!-- SECTION FlipTransport Mod -->
+	<ce folder="ModTypes/FlipTransport">
+		 <file name="flip-types.xml" type="types" />
+	</ce>
+<!-- !SECTION FlipTransport Mod End -->
+<!-- SECTION MMG Base Storage Mod -->
+	<ce folder="ModTypes/MMG_Base_Storage">
+		 <file name="mmg-base-storage-types.xml" type="types" />
+	</ce>
+<!-- !SECTION MMG Base Storage Mod End -->
+<!-- SECTION MuchStuffPack Mod -->
+	<ce folder="ModTypes/MuchStuffPack">
+		 <file name="muchstuff-types.xml" type="types" />
+	</ce>
+<!-- !SECTION MuchStuffPack Mod End -->
+<!-- SECTION Basebuilding Plus Mod -->
+	<ce folder="ModTypes/BaseBuildingPlus">
+		 <file name="bbp-types.xml" type="types" />
+	</ce>
+<!-- !SECTION BaseBuildingPlus Mod End -->
+<!-- SECTION Uncuepass Civilian Clothing Mod -->
+	<ce folder="ModTypes/UncuepassCivilianClothing">
+		 <file name="ucc-types.xml" type="types" />
+		 <file name="ucc-spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+<!-- !SECTION Uncuepass Civilian Clothing Mod End -->
+<!-- SECTION WindstridesClothingPack Mod -->
+	<ce folder="ModTypes/WindstridesClothingPack">
+		 <file name="wcp-types.xml" type="types" />
+	</ce>
+<!-- !SECTION WindstridesClothingPack Mod End -->
+<!-- SECTION BreachingCharge Mod -->
+	<ce folder="ModTypes/BreachingCharge">
+		 <file name="breach-types.xml" type="types" />
+	</ce>
+<!-- !SECTION BreachingCharge Mod End -->
+<!-- SECTION DayZ Horse Mod -->
+	<ce folder="ModTypes/DayZ-Horse">
+		 <file name="horse-types.xml" type="types" />
+	</ce>
+<!-- !SECTION DayZ Horse Mod End -->
+<!-- SECTION Labubu Mod -->
+	<ce folder="ModTypes/Labubu">
+		 <file name="labubu-types.xml" type="types" />
+		 <file name="labubu-spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+<!-- !SECTION Labubu Mod End -->
+<!-- SECTION Techs Hilux Mod -->
+	<ce folder="ModTypes/Techs-Hilux">
+		 <file name="hilux-types.xml" type="types" />
+		 <file name="hilux-spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+<!-- !SECTION Techs Hilux Mod End -->
+<!-- SECTION Admirals Parachutes Mod -->
+	<ce folder="ModTypes/AdmiralsParachutes">
+		 <file name="parachute-types.xml" type="types" />
+	</ce>
+<!-- !SECTION Admirals Parachutes Mod End -->
+<!-- SECTION [CnG]UAZ_452 Mod -->
+	<ce folder="ModTypes/UAZ452">
+		 <file name="uaz-types.xml" type="types" />
+		 <file name="uaz-spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+<!-- !SECTION [CnG]UAZ_452 Mod End -->
+<!-- SECTION Zens Zippo Lighter Mod -->
+	<ce folder="ModTypes/ZensZippoLighter">
+		 <file name="zippo-types.xml" type="types" />
+	</ce>
+<!-- !SECTION Zens Zippo Lighter End -->
+<!-- SECTION Zens Treasure Mod -->
+	<ce folder="ModTypes/ZensTreasure">
+		 <file name="treasure-types.xml" type="types" />
+	</ce>
+<!-- !SECTION Zens Treasure Mod End -->
+<!-- SECTION Wooden Signs Mod -->
+	<ce folder="ModTypes/WoodenSigns">
+		 <file name="sign-types.xml" type="types" />
+	</ce>
+<!-- !SECTION Wooden Signs Mod End -->
+</economycore>

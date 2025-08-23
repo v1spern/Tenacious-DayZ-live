@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<!-- ANCHOR Crocos Quadbike Mod Start -->
+	<type name="Croco_QuadBike_Grey">
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<!-- NOTE Guadbike Yellow -->
+	<type name="Croco_QuadBike_Yellow">
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<!-- NOTE Quadbike Green -->
+	<type name="Croco_QuadBike_Green">
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<!-- NOTE Quadbike Red -->
+	<type name="Croco_QuadBike_Red">
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<!-- NOTE Quadbike Black -->
+	<type name="Croco_QuadBike_Black">
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="Croco_QuadBike_Wheel_Rear" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+<!-- ANCHOR Crocos Quadbike Mod End -->
+</spawnabletypes>

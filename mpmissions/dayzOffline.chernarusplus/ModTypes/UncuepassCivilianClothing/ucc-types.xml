@@ -1,0 +1,2080 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!-- ANCHOR Uncuepass Civilian Clothing Mod Start -->
+	<type name="Uncuepa_Beanie_BlueStripes">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Beanie_GreyStripes">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Beanie_BlackRed">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Beanie_Brown">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Beanie_DarkBrown">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Beanie_Yellow">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Beanie_White">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_ushanka_red">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_ushanka_greenlight">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_ushanka_blackfurw">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_ushanka_beige">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_ushanka_flt">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_ushanka_white">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_ushanka_whiteblackfur">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_ushanka_woodland">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_BaseballCap_greywhite">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BaseballCap_bluewhite">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BaseballCap_redwhite">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BaseballCap_blackwhite">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BaseballCap_livonia">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_CowboyHat_blackbrown">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_CowboyHat_white">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_CowboyHat_grey">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_CowboyHat_blue">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_FirefightersHelmet_PowerPlant">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Firefighter" />
+	</type>
+	<type name="Uncuepa_ChestHolster_black">
+		<nominal>32</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>24</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_Shirt_checkHero">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Shirt_StripedYellow">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Shirt_Hawaiian1">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Shirt_Hawaiian2">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_HikingJacket_greenalt">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HikingJacket_whitegreen">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HikingJacket_whiteblue">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HikingJacket_whiteblack">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HikingJacket_blackyellow">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HikingJacket_blackpink">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HikingJacket_blackblue">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HikingJacket_orangegrey">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_RidersJacket_BlackRed">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_RidersJacket_BlackWhite">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_RidersJacket_Brown">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_RidersJacket_Grey">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_HuntingJacket_White">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Hunting" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HuntingJacket_woodland">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>85</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Hunting" />
+        <value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HuntingJacket_maroon">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HuntingJacket_navy">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Coast" />
+	</type>
+	<type name="Uncuepa_HuntingJacket_beige">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>85</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Hunting" />
+        <value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_FirefightersJacket_red">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Firefighter" />
+	</type>
+	<type name="Uncuepa_FirefightersJacket_Powerplant">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Firefighter" />
+	</type>
+	<type name="Uncuepa_Sweater_browngrey">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_Sweater_greyblue">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_Sweater_grey2tone">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_Sweater_green2tone">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_Sweater_bluestriped">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_Sweater_festive">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_QuiltedJacket_WedgeWhite">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_QuiltedJacket_WedgeOrange">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_QuiltedJacket_WedgeGreen">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_QuiltedJacket_WedgeBlue">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_QuiltedJacket_BlueOrange">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_BomberJacket_greyblack">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_BomberJacket_red">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_MiniDress_Lilac">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+	</type>
+	<type name="Uncuepa_MiniDress_Floral">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+	</type>
+	<type name="Uncuepa_MiniDress_Floraldark">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+	</type>
+	<type name="Uncuepa_MiniDress_Cherry">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+	</type>
+	<type name="Uncuepa_MiniDress_Purple">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+	</type>
+	<type name="Uncuepa_MiniDress_Green">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+	</type>
+	<type name="Uncuepa_PoliceJacket_Livonia">
+		<nominal>0</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Police" />
+	</type>
+	<type name="Uncuepa_PolicePants_Livonia">
+		<nominal>0</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Police" />
+	</type>
+	<type name="Uncuepa_CargoPants_white">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HunterPants_woodland">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>85</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Hunting" />
+        <value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HunterPants_maroon">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_HunterPants_navy">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Coast" />
+	</type>
+	<type name="Uncuepa_HunterPants_beige">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_FirefightersPants_red">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Firefighter" />
+	</type>
+	<type name="Uncuepa_FirefightersPants_Powerplant">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Firefighter" />
+	</type>
+	<type name="Uncuepa_Breeches_Blend">
+		<nominal>24</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Skirt_Black">
+		<nominal>24</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Skirt_darkblue">
+		<nominal>24</nominal>
+		<lifetime>2700</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_HikingBoots_white">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="floor" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TaloonBag_Black">
+		<nominal>24</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TaloonBag_Red">
+		<nominal>24</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TaloonBag_Yellow">
+		<nominal>24</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TaloonBag_Woodland">
+		<nominal>24</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TaloonBag_Winter">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TaloonBag_Navy">
+		<nominal>24</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TaloonBag22_Black">
+		<nominal>24</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TaloonBag22_Navy">
+		<nominal>24</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TaloonBag22_White">
+		<nominal>24</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_MountainBag_Winter">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_MountainBag_Summer">
+		<nominal>20</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_MountainBag_Autumn">
+		<nominal>20</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_MountainBag_Grey">
+		<nominal>20</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_MountainBag_Brown">
+		<nominal>20</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_MountainBag_FLT">
+		<nominal>20</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_CivilianBelt_Blue">
+		<nominal>24</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_CivilianBelt_Grey">
+		<nominal>24</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_CivilianBelt_Red">
+		<nominal>24</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Blouse_black">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TelnyashkaShirt_Red">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TelnyashkaShirt_Blue">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TelnyashkaShirt_Brown">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_TelnyashkaShirt_Green">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Jeans_Wounded">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_Jeans_Acidwash">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_NioshFaceMask_black">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Medic" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Uncuepa_NioshFaceMask_green">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Medic" />
+		<usage name="Industrial" />
+	</type>
+	<type name="Uncuepa_SurgicalMask_black">
+		<nominal>12</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_SurgicalMask_blood">
+		<nominal>12</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_WorkingGloves_White">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+	</type>
+	<type name="Uncuepa_TacticalGloves_White">
+		<nominal>7</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="Uncuepa_Wellies_White">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="floor" />
+		<usage name="Farm" />
+	</type>
+	<type name="Uncuepa_Wellies_yellow">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="floor" />
+		<usage name="Farm" />
+	</type>
+	<type name="Uncuepa_Wellies_pink">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="floor" />
+		<usage name="Farm" />
+	</type>
+	<type name="Uncuepa_HuntingBag_Black">
+		<nominal>12</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Hunting" />
+	</type>
+	<type name="Uncuepa_HuntingBag_Green">
+		<nominal>12</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Hunting" />
+	</type>
+	<type name="Uncuepa_HuntingBag_White">
+		<nominal>12</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Hunting" />
+	</type>
+	<type name="Uncuepa_HuntingBag_Woodland">
+		<nominal>12</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Hunting" />
+	</type>
+	<type name="Uncuepa_DryBag_Brown">
+		<nominal>8</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Coast" />
+		<usage name="Hunting" />
+	</type>
+	<type name="Uncuepa_DryBag_White">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Coast" />
+		<usage name="Hunting" />
+	</type>
+	<type name="Uncuepa_JungleBoots_White">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="floor" />
+		<usage name="Military" />
+	</type>
+	<type name="Uncuepa_BaseballCap_Clementine">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BaseballCap_blackblue">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BaseballCap_blackred">
+		<nominal>24</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BoonieHat_BlackGreen">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BoonieHat_BlackTan">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BoonieHat_Fishmaster">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_PoliceJacket_American">
+		<nominal>16</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Police" />
+	</type>
+	<type name="Uncuepa_PolicePants_American">
+		<nominal>16</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Police" />
+	</type>
+	<type name="Uncuepa_Shirt_PlainRed">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Shirt_PlainBlue">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Shirt_PlainWhite">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_Mich2001Helmet_Black">
+		<nominal>4</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_GorkaHelmet_Tan">
+		<nominal>7</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Military" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_GorkaHelmet_Blue">
+		<nominal>7</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Military" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_TankerHelmet_Brown">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<tag name="shelves" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_GP5GasMask_Black">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>7</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_GasMask_Black">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>7</min>
+		<quantmin>20</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="Uncuepa_Bandana_Black">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>7</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_PoliceVest_Black">
+		<nominal>16</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Police" />
+	</type>
+	<type name="Uncuepa_RidersJacket_maroon">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_DenimJacket_Brown">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_DenimJacket_Grey">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_MiniDress_White">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_RidersJacket_blueblack">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+	</type>
+	<type name="Uncuepa_MiniDress_FloralPurple">
+		<nominal>24</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<usage name="School" />
+	</type>
+	<type name="Uncuepa_TacticalShirt_Flecktarn">
+		<nominal>7</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_CargoPants_Flecktarn">
+		<nominal>16</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+	</type>
+	<type name="Uncuepa_CivilianBelt_Brown">
+		<nominal>24</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>16</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+	</type>
+	<type name="Uncuepa_BallisticHelmet_Skull">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="Uncuepa_Headband_White">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+<!-- ANCHOR Uncuepass Civilian Clothing Mod End -->
+</types>

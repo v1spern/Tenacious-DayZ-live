@@ -1,0 +1,1541 @@
+{
+  "Locations": [
+    {
+      "Name": "Krasnostav Airstrip",
+      "Location": [
+        12055,
+        12607
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2,3
+      ]
+    },
+    {
+      "Name": "Northwest Airfield",
+      "Location": [
+        4500,
+        10350
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2
+      ]
+    },
+    {
+      "Name": "Novaya Petrovka",
+      "Location": [
+        3448,
+        13039
+      ],
+      "Accuracy": 20,
+      "AllowedPackageIDs": [
+        1,2,5,6
+      ]
+    },
+    {
+      "Name": "Novy Sobor",
+      "Location": [
+        7030,
+        7800
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2,5
+      ]
+    },
+    {
+      "Name": "VMC",
+      "Location": [
+        4555,
+        8160
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2,5
+      ]
+    },
+    {
+      "Name": "Gorka",
+      "Location": [
+        9588,
+        8722
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2,3,5,6
+      ]
+    },
+    {
+      "Name": "Elektrozavodsk",
+      "Location": [
+        10300,
+        2380
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        3,6
+      ]
+    },
+    {
+      "Name": "Chernogorsk",
+      "Location": [
+        6730,
+        3035
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        3,6
+      ]
+    },
+    {
+      "Name": "Novolseki Football Field",
+      "Location": [
+        6196,
+        2821
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        3,6
+      ]
+    },
+    {
+      "Name": "Staroye",
+      "Location": [
+        10024,
+        5376
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        3,5,6
+      ]
+    },
+    {
+      "Name": "Zelenogorsk",
+      "Location": [
+        2879,
+        5150
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2,5,6
+      ]
+    },
+    {
+      "Name": "Severograd",
+      "Location": [
+        7993,
+        12900
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        2,3,5,6
+      ]
+    },
+    {
+      "Name": "Berezino",
+      "Location": [
+        12495,
+        9634
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        3,6
+      ]
+    },
+    {
+      "Name": "Radio Zenit",
+      "Location": [
+        8300,
+        9260
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2,3,5,6
+      ]
+    },
+    {
+      "Name": "Stary Sobor",
+      "Location": [
+        6057,
+        7560
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2,5
+      ]
+    },
+    {
+      "Name": "Lopatino",
+      "Location": [
+        2815,
+        10009
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2,5
+      ]
+    },
+    {
+      "Name": "Tri Kresta Military",
+      "Location": [
+        322,
+        9350
+      ],
+      "Accuracy": 10,
+      "AllowedPackageIDs": [
+        1,2
+      ]
+    },
+    {
+      "Name": "Nadezhdino",
+      "Location": [
+        5986,
+        4873
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        3,5,6
+      ]
+    },
+    {
+      "Name": "Tisy Military Airstrip",
+      "Location": [
+        1252,
+        14515
+      ],
+      "Accuracy": 50,
+      "AllowedPackageIDs": [
+        1,2
+      ]
+    },
+    {
+      "Name": "Pavlovo Contamination Zone",
+      "Location": [
+        2165,
+        3324
+      ],
+      "Accuracy": 5,
+      "AllowedPackageIDs": [
+        4
+      ]
+    },
+    {
+      "Name": "Rify Contamination Zone",
+      "Location": [
+        13767,
+        11208
+      ],
+      "Accuracy": 20,
+      "AllowedPackageIDs": [
+        4
+      ]
+    }
+  ],
+  "Packages": [
+    {
+      "Package_name": "Military",
+      "object_type": "CarePackage_typhon",
+      "parachute_type": "ArmyParachute_typhon",
+      "MinWeapons": 1,
+      "MaxWeapons": 2,
+      "MinMiscItems": 7,
+      "MaxMiscItems": 14,
+      "AllowedPackageIDs": [
+        1
+      ],
+      "Items": [
+        {
+          "Item": "SNAFU_CMAG30556_Black",
+          "MinQty": 1,
+          "MaxQty": 30,
+          "Attachments": []
+        },
+        {
+          "Item": "AmmoBox_45ACP_25rnd",
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_Kabar",
+          "Attachments": []
+        },
+        {
+          "Item": "AmmoBox_556x45_20Rnd",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_supplybag_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_falcon_b1_belt_olive",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_MK_III_Armor_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_JPC_Vest_olive",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_Mag_Pouch_olive",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_triple_magpouch_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_multiple_magpouch_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_Med_Pouch_Olive",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_ammo_pouch_olive",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_tactical_pouch_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_holster_pouch_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_mk5_utility_pouch_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_mk5_grenade_pouch_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_tactical_helmet_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_headphones_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_sheath_olive",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_bottle_olive",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_operatorshirt_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_tactical_shirt_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_combatpants_olive",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_tactical_gloves_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_boots_green",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_balaclava_olive",
+          "Attachments": []
+        },
+        {
+          "Item": "Rangefinder",
+          "Attachments": []
+        },
+        {
+          "Item": "GhillieTop_Woodland",
+          "Attachments": []
+        },
+        {
+          "Item": "GhillieSuit_Woodland",
+          "Attachments": []
+        },
+        {
+          "Item": "GhillieHood_Woodland",
+          "Attachments": []
+        },
+        {
+          "Item": "GhillieBushrag_Woodland",
+          "Attachments": []
+        },
+        {
+          "Item": "GhillieAtt_Woodland",
+          "Attachments": []
+        }
+      ],
+      "Weapons": [
+        {
+          "Item": "SNAFU_AEK545_Gun",
+          "Attachments": [
+            "SA58_30RND_BK",
+            "SA58_FGrip",
+            "SA58_Stock",
+            "SNAFU_Tango6T_Black",
+            "SNAFU_Standardized_Suppressor_Black"
+          ]
+        },
+        {
+          "Item": "SNAFU_AK103A",
+          "Attachments": [
+            "SNAFU_RPK16_Black_Mag",
+            "SNAFU_Tango6T_Black",
+            "SNAFU_Standardized_Suppressor_Black"
+          ]
+        },
+        {
+          "Item": "SNAFU_AWM_Gun",
+          "Attachments": [
+            "SNAFU_AWM_Mag",
+            "SNAFU_HuntingOptic",
+            "SNAFUKivaari_338_Supp"
+          ]
+        },
+        {
+          "Item": "SNAFUVECTOR_45acp_GUN",
+          "Attachments": [
+            "SNAFUVECTOR_45acp_Mag",
+            "SNAFU_Walther",
+            "PistolSuppressor"
+          ]
+        },
+        {
+          "Item": "SNAFU_MP9_GUN",
+          "Attachments": [
+            "SNAFU_MP9_30rnd_Mag",
+            "SNAFU_Aimpoint_M5",
+            "PistolSuppressor"
+          ]
+        },
+        {
+          "Item": "SNAFU_M14",
+          "Attachments": [
+            "SNAFU_M14_Mag",
+            "SNAFU_M14Optic"
+          ]
+        },
+        {
+          "Item": "HK416_Gun",
+          "Attachments": [
+            "SNAFU_FGCR_Grip",
+            "SNAFU_FGCR_Grip",
+            "SNAFU_CMAG30556_Black",
+            "SNAFU_Tango6T_Black",
+            "SNAFU_Standardized_Suppressor_Black"
+          ]
+        },
+        {
+          "Item": "SN_Glock19",
+          "Attachments": [
+            "FNP45_MRDSOptic",
+            "PistolSuppressor",
+            "SNAFU_CMAG30556_Black",
+            "TLRLight",
+            "Mag_Glock_15Rnd"
+          ]
+        },
+        {
+          "Item": "SNAFU_AK19",
+          "Attachments": [
+            "SNAFU_AK_HG",
+            "SNAFU_AK19_Stock",
+            "SNAFU_AFG_02_Black",
+            "SNAFU_FGKAC_Grip",
+            "SNAFU_Tango6T_Black",
+            "Mag_AK101_30Rnd"
+          ]
+        },
+        {
+          "Item": "SNAFU_AK12A",
+          "Attachments": [
+            "SNAFU_AK_AR_Stock",
+            "SNAFU_Tango6T_Black",
+            "SNAFU_AK12_Mag",
+            "SNAFU_Standardized_Suppressor_Black"
+          ]
+        },
+        {
+          "Item": "SNAFU_AEK545_Gun",
+          "Attachments": [
+            "SNAFU_Tango6T_Black",
+            "SNAFU_RPK16_Black_Mag",
+            "SNAFU_Standardized_Suppressor_Black"
+          ]
+        }
+      ]
+    },
+    {
+      "Package_name": "Medical",
+      "object_type": "CarePackage_red",
+      "parachute_type": "ArmyParachute_green",
+      "MinWeapons": 1,
+      "MaxWeapons": 2,
+      "MinMiscItems": 10,
+      "MaxMiscItems": 20,
+      "AllowedPackageIDs": [
+        2
+      ],
+      "Items": [
+        {
+          "Item": "BAMS_FirstAidKit",
+          "Attachments": []
+        },
+        {
+          "Item": "TetracyclineAntibiotics",
+          "MinQty": 4,
+          "MaxQty": 10,
+          "Attachments": []
+        },
+        {
+          "Item": "VitaminBottle",
+          "MinQty": 10,
+          "MaxQty": 25,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_BandageBox",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Bandage",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Absorbent",
+          "MinQty": 20,
+          "MaxQty": 20,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_BandageTape",
+          "MinQty": 30,
+          "MaxQty": 70,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_AntiSept",
+          "MinQty": 20,
+          "MaxQty": 80,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Ai2",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Polaris",
+          "MinQty": 30,
+          "MaxQty": 70,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Aspirin",
+          "MinQty": 30,
+          "MaxQty": 70,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Poter",
+          "MinQty": 30,
+          "MaxQty": 70,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Vikasol",
+          "MinQty": 30,
+          "MaxQty": 70,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Energy",
+          "MinQty": 30,
+          "MaxQty": 70,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Narcotics",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Tourniquet",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Methadone",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_BandAid",
+          "MinQty": 30,
+          "MaxQty": 70,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Splint",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_MFAK",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_NBCPouch",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_NBCPouch_Green",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_NBCPouch_Black",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Whistle",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_WaterStraw",
+          "MinQty": 85,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_POX",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_GasMaskGP21",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_GasMaskGP21_Filter",
+          "MinQty": 70,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_Heatpack",
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_GoldenStar",
+          "MinQty": 50,
+          "MaxQty": 70,
+          "Attachments": []
+        },
+        {
+          "Item": "Ammo_Flare",
+          "Attachments": []
+        },
+        {
+          "Item": "Ammo_FlareBlue",
+          "Attachments": []
+        },
+        {
+          "Item": "Ammo_FlareGreen",
+          "Attachments": []
+        },
+        {
+          "Item": "Ammo_FlareRed",
+          "Attachments": []
+        },
+        {
+          "Item": "Roadflare",
+          "Attachments": []
+        }
+      ],
+      "Weapons": [
+        {
+          "Item": "Flaregun",
+          "Attachments": []
+        },
+        {
+          "Item": "SN_Glock19",
+          "Attachments": [
+            "FNP45_MRDSOptic",
+            "PistolSuppressor",
+            "SNAFU_CMAG30556_Black",
+            "TLRLight",
+            "Mag_Glock_15Rnd"
+          ]
+        },
+        {
+          "Item": "SNAFUChiappaRhino",
+          "Attachments": []
+        }
+      ]
+    },
+    {
+      "Package_name": "Civilian",
+      "object_type": "CarePackage_green",
+      "parachute_type": "ArmyParachute_cadpat",
+      "MinWeapons": 1,
+      "MaxWeapons": 3,
+      "MinMiscItems": 5,
+      "MaxMiscItems": 10,
+      "AllowedPackageIDs": [
+        3
+      ],
+      "Items": [
+        {
+          "Item": "PoliceVest",
+          "Attachments": []
+        },
+        {
+          "Item": "PressVest_LightBlue",
+          "Attachments": []
+        },
+        {
+          "Item": "LeatherStorageVest_Black",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_combatpants_police",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_combatshirt_police",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_tactical_helmet_police",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_tt_Vest_police",
+          "Attachments": []
+        },
+        {
+          "Item": "BakedBeansCan",
+          "Attachments": []
+        },
+        {
+          "Item": "BoxCerealCrunchin",
+          "Attachments": []
+        },
+        {
+          "Item": "MMG_bottle_black",
+          "Attachments": []
+        },
+        {
+          "Item": "Chips",
+          "Attachments": []
+        },
+        {
+          "Item": "CrabCan",
+          "Attachments": []
+        },
+        {
+          "Item": "Crackers",
+          "Attachments": []
+        },
+        {
+          "Item": "Honey",
+          "Attachments": []
+        },
+        {
+          "Item": "Lunchmeat",
+          "Attachments": []
+        },
+        {
+          "Item": "Marmalade",
+          "Attachments": []
+        },
+        {
+          "Item": "Pajka",
+          "Attachments": []
+        },
+        {
+          "Item": "PeachesCan",
+          "Attachments": []
+        },
+        {
+          "Item": "PorkCan",
+          "Attachments": []
+        },
+        {
+          "Item": "PowderedMilk",
+          "Attachments": []
+        },
+        {
+          "Item": "SodaCan_Cola",
+          "Attachments": []
+        },
+        {
+          "Item": "SodaCan_Fronta",
+          "Attachments": []
+        },
+        {
+          "Item": "SodaCan_Kvass",
+          "Attachments": []
+        },
+        {
+          "Item": "SodaCan_Pipsi",
+          "Attachments": []
+        },
+        {
+          "Item": "SodaCan_Spite",
+          "Attachments": []
+        },
+        {
+          "Item": "SpaghettiCan",
+          "Attachments": []
+        },
+        {
+          "Item": "AviatorGlasses",
+          "Attachments": []
+        },
+        {
+          "Item": "CombatKnife",
+          "Attachments": []
+        },
+        {
+          "Item": "HuntingKnife",
+          "Attachments": []
+        },
+        {
+          "Item": "AmmoBox_357_20Rnd",
+          "Attachments": []
+        },
+        {
+          "Item": "AmmoBox_9x19_25rnd",
+          "Attachments": []
+        },
+        {
+          "Item": "AmmoBox_308Win_20Rnd",
+          "Attachments": []
+        },
+        {
+          "Item": "AmmoBox_22_50Rnd",
+          "Attachments": []
+        },
+        {
+          "Item": "HipPack_Black",
+          "Attachments": []
+        },
+        {
+          "Item": "DrysackBag_Green",
+          "Attachments": []
+        },
+        {
+          "Item": "DuffelBagSmall_Green",
+          "Attachments": []
+        },
+        {
+          "Item": "MountainBag_Green",
+          "Attachments": []
+        },
+        {
+          "Item": "WG_CampingTent_Blue_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "WG_AdventurerTent_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Roadflare",
+          "Attachments": []
+        }
+      ],
+      "Weapons": [
+        {
+          "Item": "SNAFUChiappaRhino",
+          "Attachments": []
+        },
+        {
+          "Item": "Mosin9130",
+          "Attachments": [
+            "Mosin_Compensator",
+            "PUScopeOptic"
+          ]
+        },
+        {
+          "Item": "SNAFU_Agram_GUN",
+          "Attachments": [
+            "SNAFU_Agram_32rnd_Mag"
+          ]
+        },
+        {
+          "Item": "SN_M870",
+          "Attachments": [
+            "SNAFU_Shotgunchoke_Black",
+            "UniversalLight"
+          ]
+        },
+        {
+          "Item": "SN_Glock19",
+          "Attachments": [
+            "Mag_Glock_15Rnd",
+            "PistolSuppressor",
+            "FNP45_MRDSOptic",
+            "TLRLight"
+          ]
+        },
+        {
+          "Item": "Ruger1022",
+          "Attachments": [
+            "SportingOptic",
+            "Mag_Ruger1022_30Rnd"
+          ]
+        },
+        {
+          "Item": "Scout",
+          "Attachments": [
+            "Mag_Scout_5Rnd",
+            "MK4Optic_Black",
+            "M4_Suppressor"
+          ]
+        },
+        {
+          "Item": "Repeater",
+          "Attachments": []
+        }
+      ]
+    },
+    {
+      "Package_name": "Contamination",
+      "object_type": "CarePackage_blood_moon",
+      "parachute_type": "ArmyParachute_black_digital",
+      "MinWeapons": 1,
+      "MaxWeapons": 1,
+      "MinMiscItems": 6,
+      "MaxMiscItems": 12,
+      "AllowedPackageIDs": [
+        4
+      ],
+      "Items": [
+        {
+          "Item": "GasMask_Filter",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "AMS_POX",
+          "Attachments": []
+        },
+        {
+          "Item": "Ammo_40mm_Chemgas",
+          "MinQty": 10,
+          "MaxQty": 25,
+          "Attachments": []
+        },
+        {
+          "Item": "AntiChemInjector",
+          "Attachments": []
+        },
+        {
+          "Item": "Mag_CMAG_30Rnd",
+          "MinQty": 5,
+          "MaxQty": 30,
+          "Attachments": []
+        },
+        {
+          "Item": "Mag_CMAG_40Rnd",
+          "MinQty": 10,
+          "MaxQty": 40,
+          "Attachments": []
+        },
+        {
+          "Item": "GCGN_M200_Mag",
+          "MinQty": 5,
+          "MaxQty": 10,
+          "Attachments": []
+        },
+        {
+          "Item": "SA58_30RND_BK",
+          "MinQty": 10,
+          "MaxQty": 30,
+          "Attachments": []
+        },
+        {
+          "Item": "SA58_FGrip",
+          "Attachments": []
+        },
+        {
+          "Item": "SA58_Stock",
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_Ammo_145Cal",
+          "MinQty": 4,
+          "MaxQty": 12,
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_AS50_Mag",
+          "MinQty": 1,
+          "MaxQty": 5,
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_AWM_Mag",
+          "MinQty": 1,
+          "MaxQty": 5,
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_CMAG30556_Black",
+          "MinQty": 5,
+          "MaxQty": 30,
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_CMAG40556_Black",
+          "MinQty": 5,
+          "MaxQty": 40,
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_CMAG60556_Black",
+          "MinQty": 10,
+          "MaxQty": 40,
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_LNormalized_Suppressor_Black",
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_LStandardized_Suppressor_Black",
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_Normalized_Suppressor_Black",
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_Standardized_Suppressor_Black",
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFUAlligator_5rdMag",
+          "MinQty": 1,
+          "MaxQty": 5,
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFUAX50_Mag",
+          "MinQty": 1,
+          "MaxQty": 5,
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFUDSASA58_Stock",
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFUDVL10M2_5rdMag",
+          "MinQty": 1,
+          "MaxQty": 5,
+          "Attachments": []
+        },
+        {
+          "Item": "SNAFU_50bmg_Suppressor_B",
+          "Attachments": []
+        }
+      ],
+      "Weapons": [
+        {
+          "Item": "GCGN_M4A1",
+          "Attachments": [
+            "SNAFU_Trijicon_Docter",
+            "SNAFU_TACGripColtA2_BK",
+            "SNAFU_M4SS_Stock",
+            "SNAFU_Standardized_Suppressor_Black",
+            "SNAFU_CMAG40556_Black"
+          ]
+        },
+        {
+          "Item": "SNAFU_AS50_GUN",
+          "Attachments": [
+            "SNAFU_HuntingOptic",
+            "SNAFU_Bipod",
+            "SNAFU_50bmg_Suppressor_B",
+            "SNAFU_AS50_Mag"
+          ]
+        },
+        {
+          "Item": "SNAFU_AWM_Gun",
+          "Attachments": [
+            "SNAFU_HuntingOptic",
+            "SNAFUKivaari_338_Supp",
+            "SNAFU_AWM_Mag"
+          ]
+        },
+        {
+          "Item": "SNAFU_M4556_Modular16_GUN",
+          "Attachments": [
+            "SNAFU_MK15",
+            "SNAFU_PEQ1_Laser",
+            "SNAFU_Elcan",
+            "SNAFU_PRSGen3_Stock",
+            "SNAFU_Standardized_Suppressor_Black",
+            "SNAFU_TACGripColtA2_BK",
+            "SNAFU_CMAG40556_Black"
+          ]
+        },
+        {
+          "Item": "SNAFUAlligator",
+          "Attachments": [
+            "SNAFU_Nightforce",
+            "SNAFUAlligator_5rdMag"
+          ]
+        },
+        {
+          "Item": "SNAFUAUG_BK",
+          "Attachments": [
+            "SNAFU_Walther",
+            "SNAFU_Standardized_Suppressor_Black",
+            "SNAFU_AFG_02_Black",
+            "SNAFUAUG_30rdMag"
+          ]
+        },
+        {
+          "Item": "SNAFUAX50_GUN",
+          "Attachments": [
+            "SNAFU_HuntingOptic",
+            "SNAFU_50bmg_Suppressor_B",
+            "SNAFUAX50_Mag"
+          ]
+        },
+        {
+          "Item": "SNAFUDVL10M2",
+          "Attachments": [
+            "SNAFU_Nightforce",
+            "SNAFUKivaari_338_Supp",
+            "SNAFU_AtlasBipod",
+            "SNAFUDVL10M2_5rdMag"
+          ]
+        },
+        {
+          "Item": "SNSA58_Gun",
+          "Attachments": [
+            "SNAFU_Nightforce",
+            "SA58_FGrip",
+            "SA58_Stock",
+            "SNAFU_Standardized_Suppressor_Black",
+            "SA58_30RND_BK"
+          ]
+        }
+      ]
+    },  
+    {
+      "Package_name": "Base Building",
+      "object_type": "CarePackage_black",
+      "parachute_type": "ArmyParachute_green",
+      "MinWeapons": 3,
+      "MaxWeapons": 8,
+      "MinMiscItems": 10,
+      "MaxMiscItems": 20,
+      "AllowedPackageIDs": [
+        5
+      ],
+      "Items": [
+        {
+          "Item": "MediumTent",
+          "Attachments": []
+        },
+        {
+          "Item": "LargeTent",
+          "Attachments": []
+        },
+        {
+          "Item": "CarTent",
+          "Attachments": []
+        },
+        {
+          "Item": "MetalPlate",
+          "Attachments": []
+        },
+        {
+          "Item": "WoodenPlank",
+          "MinQty": 10,
+          "MaxQty": 10,
+          "Attachments": []
+        },
+        {
+          "Item": "WoodenPlank",
+          "MinQty": 10,
+          "MaxQty": 10,
+          "Attachments": []
+        },
+        {
+          "Item": "Fabric",
+          "MinQty": 4,
+          "MaxQty": 4,
+          "Attachments": []
+        },
+        {
+          "Item": "Hammer",
+          "Attachments": []
+        },
+        {
+          "Item": "Shovel",
+          "Attachments": []
+        },
+        {
+          "Item": "Pliers",
+          "Attachments": []
+        },
+        {
+          "Item": "WoodAxe",
+          "Attachments": []
+        },
+        {
+          "Item": "Crowbar",
+          "Attachments": []
+        },
+        {
+          "Item": "Hacksaw",
+          "Attachments": []
+        },
+        {
+          "Item": "Handsaw",
+          "Attachments": []
+        },
+        {
+          "Item": "SledgeHammer",
+          "Attachments": []
+        },
+        {
+          "Item": "Hatchet",
+          "Attachments": []
+        },
+        {
+          "Item": "BarbedWire",
+          "Attachments": []
+        },
+        {
+          "Item": "MetalWire",
+          "Attachments": []
+        },
+        {
+          "Item": "CombinationLock",
+          "Attachments": []
+        },
+        {
+          "Item": "CodeLock",
+          "Attachments": []
+        },
+        {
+          "Item": "CamoNet",
+          "Attachments": []
+        },
+        {
+          "Item": "Rope",
+          "Attachments": []
+        },
+        {
+          "Item": "SmallGasCanister",
+          "Attachments": []
+        },
+        {
+          "Item": "MediumGasCanister",
+          "Attachments": []
+        },
+        {
+          "Item": "LargeGasCanister",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_craftable_tent_kit",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_equipment_locker_green_kit",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_locker02_green_kit",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_gun_rack_kit_green",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_lockable_gun_rack_kit_grey",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_gun_wall_kit_wooden",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_gear_stand_kit",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_planter_box_kit",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_greenhouse_kit",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_solo_locker_green_kit",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_locker02_tan_kit",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_gun_rack_kit_tan",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_gun_wall_kit_metal",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_fridge_kit_beige",
+          "Attachments": []
+        },
+        {
+          "Item": "mmg_gear_stand_kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_StoneFireplace_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_Stove_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_MoskvaFridge_Cream_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_GunCabinet_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_DoubleGunRack_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_GunRack_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_Gunwall_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_MilitaryLocker_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_StorageBox_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_ToolsBench_Grey_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_Locker_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_SoloLocker_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_OldLocker_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_FourDoor_MilitaryLocker_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_WoodenGunRack_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_RifleSafe_Grey_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_MedicalBox_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_Wardrobe_Brown_Kit",
+          "Attachments": []
+        },
+        {
+          "Item": "Msp_Shelf_Kit",
+          "Attachments": []
+        }
+      ],
+      "Weapons": [
+        {
+          "Item": "NailBox",
+          "Attachments": []
+        }
+      ]
+    },
+    {
+      "Package_name": "Repairs",
+      "object_type": "CarePackage_digital_black",
+      "parachute_type": "ArmyParachute_cadpat",
+      "MinWeapons": 0,
+      "MaxWeapons": 0,
+      "MinMiscItems": 18,
+      "MaxMiscItems": 36,
+      "AllowedPackageIDs": [
+        6
+      ],
+      "Items": [
+        {
+          "Item": "SewingKit",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "LeatherSewingKit",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "WeaponCleaningKit",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "DuctTape",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "EpoxyPutty",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "Blowtorch",
+          "Attachments": [
+            "LargeGasCanister"
+          ]
+        },
+        {
+          "Item": "Whetstone",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "ElectronicRepairKit",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        },
+        {
+          "Item": "HydraulicJack",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        }
+      ],
+      "Weapons": [
+        {
+          "Item": "WeaponCleaningKit",
+          "MinQty": 100,
+          "MaxQty": 100,
+          "Attachments": []
+        }
+      ]
+    }
+  ],
+  "InfectedTypes": [
+    "ZmbM_CitizenASkinny_Blue",
+    "ZmbM_CitizenASkinny_Brown",
+    "ZmbM_CitizenASkinny_Grey",
+    "ZmbM_MotobikerFat_Beige",
+    "ZmbM_MotobikerFat_Black",
+    "ZmbM_MotobikerFat_Blue",
+    "ZmbM_JoggerSkinny_Red",
+    "ZmbM_SkaterYoung_Blue",
+    "ZmbM_SkaterYoung_Brown",
+    "ZmbM_SkaterYoung_Green",
+    "ZmbM_SkaterYoung_Grey",
+    "ZmbM_ClerkFat_Brown",
+    "ZmbM_ClerkFat_Khaki",
+    "ZmbF_JournalistNormal_White",
+    "ZmbF_Clerk_Normal_White",
+    "ZmbF_CitizenANormal_Blue",
+    "ZmbF_CitizenBSkinny",
+    "ZmbF_HikerSkinny_Grey",
+    "ZmbF_SurvivorNormal_Orange",
+    "ZmbF_HikerSkinny_Green",
+    "ZmbF_JoggerSkinny_Green",
+    "ZmbF_SkaterYoung_Striped",
+    "ZmbF_BlueCollarFat_Red",
+    "ZmbF_MechanicNormal_Beige",
+    "ZmbF_PatientOld",
+    "ZmbF_ShortSkirt_beige",
+    "ZmbF_VillagerOld_Red",
+    "ZmbF_JoggerSkinny_Red",
+    "ZmbF_MilkMaidOld_Beige",
+    "ZmbF_VillagerOld_Green",
+    "ZmbF_ShortSkirt_yellow",
+    "ZmbF_NurseFat",
+    "ZmbF_PoliceWomanNormal",
+    "ZmbF_HikerSkinny_Blue",
+    "ZmbF_ParamedicNormal_Green",
+    "ZmbF_JournalistNormal_Red",
+    "ZmbF_SurvivorNormal_White",
+    "ZmbF_JoggerSkinny_Brown",
+    "ZmbF_MechanicNormal_Grey",
+    "ZmbF_BlueCollarFat_Green",
+    "ZmbF_DoctorSkinny"
+  ],
+  "MinutesBetweenPackages": 121,
+  "DropHeight": 150,
+  "DropTime": 20,
+  "PackageCallDelay": 90,
+  "MinutesAway": 5,
+  "MinimumPlayers": -1,
+  "PackagesBeingRan": 6,
+  "ZombiesToSpawn": 25,
+  "LocationHistoryCheckRange": 5,
+  "LootSpawnType": 0,
+  "LockPackages": 1,
+  "Title": "Supply Crate",
+  "DroppedMessage": "The supply crate has been deployed at ",
+  "StartMessage": "A supply crate is on its way to ",
+  "MinutesAwayPrefix": "The supply crate is ",
+  "MinutesAwaySuffix": " minutes away from "
+}

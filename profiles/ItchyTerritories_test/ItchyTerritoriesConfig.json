@@ -1,0 +1,139 @@
+{
+    "ConfigVersion": "1",
+    "WhiteList": [
+        "Trap",
+        "Paper",
+        "Fireplace",
+        "WrittenNote",
+        "ClaymoreMine",
+        "PowerGenerator",
+        "Plastic_Explosive",
+        "WoodenCrate",
+        "RLF_WoodenSigns"
+    ],
+    "ServerAdmins": [
+        "76561197992870768"
+    ],
+    "TentRadius": 0.0,
+    "TentCESpawnLifeTime": 5600.0,
+    "BuildBonusSledgeDamage": 300.0,
+    "RequireTerritory": 0,
+    "PublicPermissions": 384,
+    "MemberPermissions": 510,
+    "Notifications": 1,
+    "NoBuildZones": [
+        {
+          "Name": "NWAF-Zone-Mid",
+          "X": 4300,
+          "Z": 10647,
+          "R": 600,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "NWAF-Zone-Lower",
+          "X": 4705,
+          "Z": 9981,
+          "R": 600,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "NWAF-Zone-Upper",
+          "X": 4006,
+          "Z": 11550,
+          "R": 450,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "NEAF-Zone-West",
+          "X": 11976,
+          "Z": 12577,
+          "R": 250,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "NEAF-Zone-East",
+          "X": 12255,
+          "Z": 12458,
+          "R": 250,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "Grozovy-Military",
+          "X": 3723,
+          "Z": 14860,
+          "R": 110,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "Tisy-MB-North",
+          "X": 1602,
+          "Z": 14315,
+          "R": 370,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "Tisy-MB-South",
+          "X": 1700,
+          "Z": 13805,
+          "R": 360,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "Tisy-Radar",
+          "X": 597,
+          "Z": 13652,
+          "R": 80,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "TriKresta-Military",
+          "X": 311,
+          "Z": 9339,
+          "R": 80,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "Zeleno-MB",
+          "X": 2498,
+          "Z": 5137,
+          "R": 110,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "Vybor-MB",
+          "X": 4529,
+          "Z": 8297,
+          "R": 110,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "Staroye-MB",
+          "X": 10437,
+          "Z": 5958,
+          "R": 45,
+          "DrawOnMap": 1
+        },
+        {
+          "Name": "Balota-Oilrig",
+          "X": 4350,
+          "Z": 1790,
+          "R": 150,
+          "DrawOnMap": 1
+        }
+    ],
+    "NoBuildZoneMessage": "You can't build here, you are trying to build in a designated no build zone!",
+    "TerritoryConflictMessage": "You can't build a territory this close to another territory!",
+    "WithinTerritoryWarning": "You can't build this close to an enemy territory!",
+    "DeSpawnWarningMessage": "You are building outside a territory, $ITEMNAME$ will despawn in $LIFETIME$ without a Territory Flag",
+    "BuildPartWarningMessage": "You don't have the right permissions to build in this area!",
+    "DismantleWarningMessage": "You can't dismantle anything this close to a raised flag!",
+    "LowerFlagWarningMessage": "You do not have permissions to lower the flag in this territory!",
+    "TerritoryRequiredWarningMessage": "Sorry, you are required to build a territory to be able to build",
+    "FlagRefreshFrequency": 432000,
+    "KitLifeTimes": {
+        "watchtowerkit": 3888000,
+        "fencekit": 3888000,
+        "bbp_": 3888000,
+        "msp_": 3888000
+    }
+}

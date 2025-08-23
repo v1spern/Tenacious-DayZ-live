@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<!-- ANCHOR [CnG]UAZ_452 Mod Start -->
+    <type name="UAZ_452_ambulance"> <!-- STUB UAZ-452 Ambulance -->
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.25" /> </attachments>
+        <attachments chance="1.00"> <item name="CarRadiator" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CarBattery" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="SparkPlug" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_driverdoor_ambulance" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_codriverdoor_ambulance" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo1_ambulance" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo2_ambulance" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_hood_ambulance" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_trunk_ambulance" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="Barrel_Red" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CanisterGasoline" chance="0.05" /> </attachments>
+    </type>
+    <type name="UAZ_452_gaz"> <!-- STUB UAZ-452 Gaz -->
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.25" /> </attachments>
+        <attachments chance="1.00"> <item name="CarRadiator" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CarBattery" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="SparkPlug" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_driverdoor_gaz" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_codriverdoor_gaz" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo1_gaz" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo2_gaz" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_hood_gaz" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_trunk_gaz" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="Barrel_Red" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CanisterGasoline" chance="0.05" /> </attachments>
+    </type>
+    <type name="UAZ_452_fire"> <!-- STUB UAZ-452 Fire -->
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_Wheel" chance="0.25" /> </attachments>
+        <attachments chance="1.00"> <item name="CarRadiator" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CarBattery" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="SparkPlug" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_driverdoor_fire" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_codriverdoor_fire" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo1_fire" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo2_fire" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_hood_fire" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_trunk_fire" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="Barrel_Red" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CanisterGasoline" chance="0.05" /> </attachments>
+    </type>
+    <type name="UAZ_452_offroad"> <!-- STUB UAZ-452 Offroad -->
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.25" /> </attachments>
+        <attachments chance="1.00"> <item name="CarRadiator" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CarBattery" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="SparkPlug" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_driverdoor" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_codriverdoor" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo1" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo2" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_hood" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_trunk" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="Barrel_Green" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CanisterGasoline" chance="0.05" /> </attachments>
+    </type>
+    <type name="UAZ_452_offroad"> <!-- STUB UAZ-452 Offroad Grey -->
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.25" /> </attachments>
+        <attachments chance="1.00"> <item name="CarRadiator" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CarBattery" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="SparkPlug" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_driverdoor_grey" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_codriverdoor_grey" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo1_grey" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo2_grey" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_hood_grey" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_trunk_grey" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="Barrel_Yellow" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CanisterGasoline" chance="0.05" /> </attachments>
+    </type>
+    <type name="UAZ_452_offroad_exp_wb"> <!-- STUB UAZ-452 Offroad Expedition Blue -->
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.25" /> </attachments>
+        <attachments chance="1.00"> <item name="CarRadiator" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CarBattery" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="SparkPlug" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_driverdoor_wb" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_codriverdoor_wb" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo1_wb" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo2_wb" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_hood_wb" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_trunk_wb" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="Barrel_Blue" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CanisterGasoline" chance="0.05" /> </attachments>
+    </type>
+    <type name="UAZ_452_offroad_exp_gw"> <!-- STUB UAZ-452 Offroad Expedition Yellow -->
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.25" /> </attachments>
+        <attachments chance="1.00"> <item name="CarRadiator" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CarBattery" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="SparkPlug" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_driverdoor_gw" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_codriverdoor_gw" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo1_gw" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo2_gw" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_hood_gw" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_trunk_gw" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="Barrel_Yellow" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CanisterGasoline" chance="0.05" /> </attachments>
+    </type>
+    <type name="UAZ_452_offroad_raid"> <!-- STUB UAZ-452 Offroad Raider -->
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.25" /> </attachments>
+        <attachments chance="1.00"> <item name="CarRadiator" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CarBattery" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="SparkPlug" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_driverdoor" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_codriverdoor" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo1" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo2" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_hood" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_trunk" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="Barrel_Red" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CanisterGasoline" chance="0.05" /> </attachments>
+    </type>
+    <type name="UAZ_452_offroad_raid_camos"> <!-- STUB UAZ-452 Offroad Raider Summer Camo -->
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.60" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_offroad_Wheel" chance="0.25" /> </attachments>
+        <attachments chance="1.00"> <item name="CarRadiator" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CarBattery" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="SparkPlug" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="HeadlightH7" chance="0.07" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_driverdoor_camos" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_codriverdoo_camos" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo1_camos" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_cargo2_camos" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_hood_camos" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="UAZ_452_doors_trunk_camos" chance="0.30" /> </attachments>
+        <attachments chance="1.00"> <item name="Barrel_Red" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="WoodenCrate" chance="0.05" /> </attachments>
+        <attachments chance="1.00"> <item name="CanisterGasoline" chance="0.05" /> </attachments>
+    </type>
+<!-- ANCHOR [CnG]UAZ_452 Mod End -->
+</spawnabletypes>

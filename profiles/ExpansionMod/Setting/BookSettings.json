@@ -1,0 +1,325 @@
+{
+    "m_Version": 5,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 0,
+    "EnableServerRulesTab": 0,
+    "EnableTerritoryTab": 0,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 1,
+    "ShowHaBStats": 0,
+    "ShowPlayerFaction": 0,
+    "RuleCategories": [
+        {
+            "CategoryName": "General",
+            "Rules": [
+                {
+                    "RuleParagraph": "General Info",
+                    "RuleText": "Check the Server Panel for server rules, mod info and guides."
+                }
+            ]
+        }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Map Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Party Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Discord",
+            "URL": "https://discord.gg/PWkv2GZRnu",
+            "IconName": "Discord",
+            "IconColor": -9270822
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "General Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Mod Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": ""
+                }
+            ]
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "Accessories",
+            "Results": [
+                "armband_",
+                "armband_white",
+                "eyepatch_improvised"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown",
+                "MassImprovisedBag_Black",
+                "MassRainCoatcourier_Yellow",
+                "Mass_BarrelHolder",
+                "Mass_SplitPipe",
+                "Mass_PairOpipes",
+                "Mass_UnfinishedBarrelRig"
+            ]
+        },
+        {
+            "CategoryName": "Base-Building",
+            "Results": [
+                "expansionbarbedwirekit",
+                "expansionfloorkit",
+                "expansionhelipadkit",
+                "expansionhescokit",
+                "expansionrampkit",
+                "shelterkit",
+                "expansionstairkit",
+                "territoryflagkit",
+                "expansionwallkit",
+                "RLF_WoodenSigns",
+                "Stable_dayz_kit",
+                "Msp_FireplaceRailing",
+                "Msp_Static_TrashCan",
+                "Msp_Shelf",
+                "Msp_WoodenChair"
+            ]
+        },
+        {
+            "CategoryName": "Simple Base",
+            "Results": [
+                "Chopper_Step_Ladder_2Kit",
+                "Chopper_PostKit",
+                "Chopper_Post_HalfKit",
+                "Chopper_RoofKit",
+                "Chopper_FloorKit",
+                "Chopper_StaircaseKit",
+                "Chopper_WallKit",
+                "Chopper_Wall_HalfKit",
+                "Chopper_DoorKit",
+                "Chopper_WindowKit",
+                "Chopper_GateKit",
+                "Chopper_StaircaseAttachment",
+                "ChopperStaircase"
+            ]
+        },
+        {
+            "CategoryName": "Building Fortifications",
+            "Results": [
+                "BF_DoorBarricadeKit",
+                "BF_DoorBarricade",
+                "BF_WindowBarricadeKit",
+                "BF_WindowBarricade",
+                "BF_WindowBarricadeMedKit",
+                "BF_WindowBarricadeMed",
+                "BF_SlottedPlank",
+                "BF_DoubleDoorBarricade",
+                "BF_DoubleDoorBarricadeKit"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Cooking",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit",
+                "Mass_LadsDryingRack",
+                "Mass_LadsDryingRackBundle",
+                "Mass_LadsDryingRackSticks"
+            ]
+        },
+        {
+            "CategoryName": "Explosives (Breaching Charges)",
+            "Results": [
+                "HDSN_Gunpowder",
+                "HDSN_Explosive",
+                "HDSN_BreachingCharge",
+                "HDSN_C4Sticks",
+                "HDSN_C4NoWiring",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "CategoryName": "Fishing",
+            "Results": [
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "expansionmilkbottle",
+                "potato",
+                "slicedpumpkin"
+            ]
+        },
+        {
+            "CategoryName": "Horticulture",
+            "Results": [
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds",
+                "Msp_EmptySquarePlanterBox",
+                "Msp_EmptyPlanterBox",
+                "Msp_EmptyPlanterPot",
+                "Msp_WaterBarrel_Stand",
+                "Msp_WaterBarrel_Stand_Darkwood"
+            ]
+        },
+        {
+            "CategoryName": "Lights",
+            "Results": [
+                "longtorch",
+                "torch"
+            ]
+        },
+        {
+            "CategoryName": "Improvised Armor",
+            "Results": [
+                "MassScrap",
+                "MassScrapR",
+                "MassPaintR",
+                "MassImprovArmor",
+                "MassImprovArmorlow",
+                "MassImprovArmormed",
+                "MassImprovArmor_Red",
+                "MassImprovArmor_low_Red",
+                "MassImprovArmormed_Red"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint"
+            ]
+        },
+        {
+            "CategoryName": "Melee Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "stoneknife",
+                "Msp_BaseballBat_SawBarbedWire",
+                "Msp_BaseballBat_Chain",
+                "Msp_BaseballBat_Nailed",
+                "Msp_BaseballBat_BarbedWire"
+            ]
+        },
+        {
+            "CategoryName": "Storage",
+            "Results": [
+                "woodencrate",
+                "MassDresser",
+                "MassDrawer",
+                "MassImprovGunRack",
+                "MassunfinishedImprovGunRack",
+                "SlottedWood",
+                "Msp_LargeAmmoBox",
+                "Msp_AmericanAppleCrate",
+                "Msp_AppleCrate"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "expansionlumber1",
+                "expansionlumber1_5",
+                "expansionlumber3",
+                "nails",
+                "netting",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Modifications",
+            "Results": [
+                "sawedoffizh18shotgun"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Attachments",
+            "Results": [
+                "improvisedsuppressor",
+                "MID_ImprovisedSuppressor"
+            ]
+        }
+    ],
+    "EnableCraftingRecipesTab": 0
+}

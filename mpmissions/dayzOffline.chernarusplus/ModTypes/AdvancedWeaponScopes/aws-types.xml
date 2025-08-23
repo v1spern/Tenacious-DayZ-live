@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!-- ANCHOR Advanced Weapon Scopes Mod Start -->
+    <!-- STUB Mounting Rails -->
+    <type name="AD_B13Mount">
+        <nominal>8</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="AD_MosinMount">
+        <nominal>8</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>			
+        <value name="Tier3"/>
+        <value name="Tier4"/>		
+    </type>
+    <!-- STUB ACOG -->	
+    <type name="AD_ACOG">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>			
+    </type>		
+    <type name="AD_ACOG_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>	
+    </type>			
+    <type name="AD_ACOG_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>				
+    </type>
+    <!-- STUB SpecterDR -->		
+    <type name="AD_SpecterDR">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>	
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>		
+    <type name="AD_SpecterDR_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>			
+    <type name="AD_SpecterDR_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>
+    <!-- STUB ACOG RMR -->		
+    <type name="AD_ACOG_RMR">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>	
+    </type>
+    <type name="AD_ACOG_RMR_MosinMount">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>		
+    </type>	
+    <type name="AD_ACOG_RMR_B13">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>		
+    </type>
+    <!-- STUB DHFS -->		
+    <type name="AD_DHF5">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>	
+        <value name="Tier4"/>			
+    </type>
+    <type name="AD_DHF5_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>	
+    <type name="AD_DHF5_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <!-- STUB MRS -->		
+    <type name="AD_MRS">
+        <nominal>8</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="AD_MRS_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>		
+    <type name="AD_MRS_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>				
+    </type>
+    <!-- STUB NFATACR -->			
+    <type name="AD_NFATACR">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="AD_NFATACR_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>		
+    <type name="AD_NFATACR_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <!-- STUB NFATACR 1-8 -->			
+    <type name="AD_NFATACR_1_8">
+        <nominal>6</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+    </type>		
+    <type name="AD_NFATACR_1_8_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>			
+    <type name="AD_NFATACR_1_8_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <!-- STUB OKP7 -->				
+    <type name="AD_OKP7">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>					
+    </type>		
+    <type name="AD_OKP7_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>		
+    </type>		
+    <type name="AD_OKP7_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>
+    <!-- STUB Pilad -->			
+    <type name="AD_Pilad">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Hunting"/>	
+        <value name="Tier2"/>		
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="AD_Pilad_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>		
+    <type name="AD_Pilad_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>		
+    </type>
+    <!-- STUB PVS4 -->			
+    <type name="AD_PVS4">
+        <nominal>3</nominal>
+        <lifetime>10800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="ContaminatedArea"/>				
+    </type>		
+    <type name="AD_PVS4_MosinMount">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>		
+    <type name="AD_PVS4_B13">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>	
+    </type>
+    <!-- STUB RMR -->			
+    <type name="AD_RMR">
+        <nominal>12</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>		
+        <usage name="Police"/>
+        <usage name="Military"/>		
+        <value name="Tier1"/>	
+        <value name="Tier2"/>		
+        <value name="Tier3"/>			
+    </type>			
+    <type name="AD_RMR_LM">
+        <nominal>3</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>		
+        <usage name="Military"/>		
+        <value name="Tier2"/>		
+        <value name="Tier3"/>			
+    </type>			
+    <type name="AD_RMR_TM">
+        <nominal>3</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>		
+        <usage name="Military"/>		
+        <value name="Tier3"/>		
+        <value name="Tier4"/>			
+    </type>
+    <type name="AD_RMR_LM_MosinMount">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>		
+    <type name="AD_RMR_LM_B13">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>		
+    </type>		
+    <type name="AD_RMR_TM_MosinMount">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>			
+    <type name="AD_RMR_TM_B13">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>		
+    </type>
+    <!-- STUB XPS34 -->	
+    <type name="AD_XPS34">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>	
+        <value name="Tier2"/>		
+        <value name="Tier3"/>				
+    </type>		
+    <type name="AD_XPS34_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>		
+    <type name="AD_XPS34_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>				
+    </type>
+    <!-- STUB XPS34 HHS -->	
+    <type name="AD_XPS34_HHS">
+        <nominal>8</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Hunting"/>	
+        <value name="Tier1"/>		
+        <value name="Tier2"/>				
+    </type>		
+    <type name="AD_XPS34_HHS_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>		
+    <type name="AD_XPS34_HHS_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>				
+    </type>
+    <!-- STUB G33 -->	
+    <type name="AD_G33">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Military"/>	
+        <value name="Tier3"/>		
+        <value name="Tier4"/>				
+    </type>		
+    <type name="AD_G33_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>				
+    </type>		
+    <type name="AD_G33_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>				
+    </type>	
+    <!-- STUB Leupold MK4 -->
+    <type name="AD_LeupoldMk4">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>		
+    </type>
+    <type name="AD_LeupoldMk4_MosinMount">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>		
+    </type>	
+    <type name="AD_LeupoldMk4_B13">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>			
+    </type>	
+    <!-- STUB M16A2 -->			
+    <type name="AD_M16A2"> <!-- An actual rifle. -->
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>		
+    </type>	
+<!-- ANCHOR Advanced Weapon Scopes Mod End -->
+</types>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!-- ANCHOR DayZ Labubu Mod Start -->
+<type name="LA_LabubuBox_SoyMilk">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_LabubuBox_GreenGrape">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_LabubuBox_SesameBean">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_LabubuBox_SugarPlum">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_LabubuBox_Toffee">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_LabubuBox_LycheeBerry">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_LabubuBox_ChestnutCocoa">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_LabubuBox_BurntSugar">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_LabubuBox_SeaSalt">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_Labubu_SoyMilk">
+        <nominal>0</nominal>
+        <lifetime>7257600</lifetime>
+        <restock>0</restock>
+        <min>0</min> 
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_Labubu_GreenGrape">
+        <nominal>0</nominal>
+        <lifetime>7257600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_Labubu_SesameBean">
+        <nominal>0</nominal>
+        <lifetime>7257600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_Labubu_SugarPlum">
+        <nominal>0</nominal>
+        <lifetime>7257600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_Labubu_Toffee">
+        <nominal>0</nominal>
+        <lifetime>7257600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_Labubu_LycheeBerry">
+        <nominal>0</nominal>
+        <lifetime>7257600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_Labubu_ChestnutCocoa">
+        <nominal>0</nominal>
+        <lifetime>7257600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_Labubu_BurntSugar">
+        <nominal>0</nominal>
+        <lifetime>7257600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+    <type name="LA_Labubu_SeaSalt">
+        <nominal>0</nominal>
+        <lifetime>7257600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+		<category name="clothes"/>
+    </type>
+<!-- ANCHOR DayZ Labubu Mod End -->
+</types>

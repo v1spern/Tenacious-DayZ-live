@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<!-- ANCHOR Mass'sManyItemsOverhaul Mod Start-->
+	<type name="MassKivaari">
+        <attachments chance="0.20">
+            <item name="HuntingOptic" chance="0.50" />
+            <item name="ACOGOptic" chance="0.50" />
+        </attachments>
+    </type>
+	<type name="Massm300">
+        <attachments chance="0.20">
+            <item name="HuntingOptic" chance="0.50" />
+            <item name="ACOGOptic" chance="0.50" />
+        </attachments>
+    </type>
+	<type name="Massarmsan">
+        <attachments chance="0.20">
+            <item name="HuntingOptic" chance="1.0" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="shotgunSuppressor" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="MassB52">
+        <attachments chance="0.20">
+            <item name="ACOGOptic" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="MassScout556">
+		<attachments chance="0.10">
+            <item name="MassScoutLRS" chance="0.06" />
+			<item name="MassScope" chance="0.06" />
+        </attachments>
+		<attachments chance="0.25">
+            <item name="Mag_Scout_5Rnd" chance="1.0" />
+        </attachments>
+    </type>
+<!-- ANCHOR Mass'sManyItemsOverhaul Mod End -->
+</spawnabletypes>

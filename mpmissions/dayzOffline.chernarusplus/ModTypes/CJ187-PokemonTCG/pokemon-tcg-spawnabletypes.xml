@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<!-- ANCHOR CJ187-PokemonCards Mod Start -->
+	<type name="DryBag_Orange">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="DryBag_Yellow">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="DryBag_Blue">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="DryBag_Green">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="DryBag_Black">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="DryBag_Red">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="HuntingBag">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MountainBag_Red">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MountainBag_Blue">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MountainBag_Orange">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MountainBag_Green">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ChildBag_Green">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ChildBag_Red">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ChildBag_Blue">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TaloonBag_Blue">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TaloonBag_Green">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TaloonBag_Orange">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TaloonBag_Violet">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasBag_Olive">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Slingbag_Black">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlingBag_Gray">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlingBag_Brown">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="HipPack_Black">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="HipPack_Green">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="HipPack_Party">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Bear_Beige">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Bear_Dark">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Bear_Pink">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Bear_White">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ShortJeans_Black">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ShortJeans_Blue">
+        <cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ShortJeans_Brown">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ShortJeans_Darkblue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ShortJeans_Green">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ShortJeans_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CargoPants_Beige">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CargoPants_Black">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CargoPants_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CargoPants_Green">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CargoPants_Grey">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPants_Beige">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPants_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPants_Grey">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPants_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPants_Violet">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPantsMidi_Beige">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPantsMidi_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPantsMidi_Grey">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPantsMidi_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="CanvasPantsMidi_Violet">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitPants_Black">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitPants_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitPants_Green">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitPants_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitPants_LightBlue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlacksPants_Beige">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlacksPants_Black">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlacksPants_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlacksPants_Brown">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlacksPants_DarkGrey">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlacksPants_Khaki">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlacksPants_LightGrey">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="SlacksPants_White">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_Pink">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_White">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_Green">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_Browncheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_Blackcheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_Black">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_Beige">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Breeches_Beetcheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Sweater_Gray">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Sweater_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Sweater_Green">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Sweater_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Shirt_BlueCheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Shirt_BlueCheckBright">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Shirt_GreenCheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Shirt_RedCheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Shirt_WhiteCheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Shirt_PlaneBlack">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Hoodie_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Hoodie_Black">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Hoodie_Brown">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Hoodie_Green">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Hoodie_Grey">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Hoodie_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="HikingJacket_Black">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="HikingJacket_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="HikingJacket_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="HikingJacket_Green">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Raincoat_Orange">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Raincoat_Green">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Raincoat_Yellow">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Raincoat_Pink">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Raincoat_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Raincoat_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Raincoat_Black">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="RidersJacket_Black">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_Black">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_Red">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_Blue">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_Green">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_Beige">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_RedCheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_BlackCheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_BlueCheck">
+		<cargo preset="PokemonBoosterPack" />
+        <cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_GreyCheck">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="WoolCoat_BrownCheck">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitJacket_Black">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitJacket_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitJacket_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitJacket_LightBlue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="TrackSuitJacket_Red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MiniDress_Pink">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MiniDress_PinkChecker">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MiniDress_RedChecker">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MiniDress_WhiteChecker">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MiniDress_GreenChecker">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MiniDress_BrownChecker">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MiniDress_BlueChecker">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="MiniDress_BlueWithDots">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="QuiltedJacket_Black">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="QuiltedJacket_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="QuiltedJacket_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="QuiltedJacket_Red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="QuiltedJacket_Grey">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="QuiltedJacket_Orange">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="QuiltedJacket_Yellow">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="QuiltedJacket_Violet">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="BomberJacket_Black">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="BomberJacket_Brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="BomberJacket_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="BomberJacket_Grey">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="BomberJacket_Maroon">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="BomberJacket_Olive">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="BomberJacket_SkyBlue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Blouse_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Blouse_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Blouse_Violet">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="Blouse_White">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<!-- Zombies -->
+	<!-- City -->
+    <type name="ZmbF_Clerk_Normal_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_White">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Beige">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_CitizenBSkinny">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_JournalistNormal_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_JournalistNormal_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_JournalistNormal_Red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_JournalistNormal_White">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_beige">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_black">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_checks">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_grey">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_stripes">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_white">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_ShortSkirt_yellow">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Striped">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Violet">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_Orange">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_Red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_White">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+	<type name="ZmbM_CitizenASkinny_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+	<type name="ZmbM_CitizenASkinny_Brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+	<type name="ZmbM_CitizenASkinny_Grey">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+	<type name="ZmbM_CitizenASkinny_Red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>	
+	<type name="ZmbM_CitizenBFat_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>	
+	<type name="ZmbM_CitizenBFat_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+	</type>
+	<type name="ZmbM_ClerkFat_Brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>	
+	<type name="ZmbM_ClerkFat_Grey">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>	
+	<type name="ZmbM_ClerkFat_Khaki">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_ClerkFat_White">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>	
+    <type name="ZmbM_CommercialPilotOld_Brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Grey">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Olive">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_beige">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_black">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_bluechecks">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_greenchecks">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_grey">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_khaki">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_magenta">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_Jacket_stripes">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_JournalistSkinny">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_MotobikerFat_Beige">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_MotobikerFat_Black">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_MotobikerFat_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Grey">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+	<!-- Village -->
+    <type name="ZmbF_MilkMaidOld_Beige">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Black">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Grey">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_VillagerOld_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_VillagerOld_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_VillagerOld_Red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_VillagerOld_White">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Red">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_FarmerFat_Beige">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_FarmerFat_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_FarmerFat_Brown">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_FarmerFat_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Red">
+    </type>
+    <type name="ZmbM_VillagerOld_Blue">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_VillagerOld_Green">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+    <type name="ZmbM_VillagerOld_White">
+		<cargo preset="PokemonBoosterPack" />
+		<cargo preset="PokemonCardBox" />
+    </type>
+<!-- ANCHOR CJ187-PokemonCards Mod End -->
+</spawnabletypes>

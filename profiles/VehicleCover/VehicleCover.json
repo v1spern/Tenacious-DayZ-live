@@ -1,0 +1,197 @@
+{
+    "Vehicles": [
+        {
+            "VehicleClassname": "CivilianSedan",
+            "CamonetClassname": "VehicleCover_CivilianSedan",
+            "DoorSlotsToCheck": [
+                "CivSedanDriverDoors",
+                "CivSedanCoDriverDoors",
+                "CivSedanCargo1Doors",
+                "CivSedanCargo2Doors",
+                "CivSedanTrunk",
+                "CivSedanHood"
+            ],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 1
+        },
+        {
+            "VehicleClassname": "OffroadHatchback",
+            "CamonetClassname": "VehicleCover_OffroadHatchback",
+            "DoorSlotsToCheck": [
+                "NivaDriverDoors",
+                "NivaCoDriverDoors",
+                "NivaHood",
+                "NivaTrunk"
+            ],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 1
+        },
+        {
+            "VehicleClassname": "Hatchback_02",
+            "CamonetClassname": "VehicleCover_Hatchback_02",
+            "DoorSlotsToCheck": [
+                "Hatchback_02_Door_1_1",
+                "Hatchback_02_Door_2_1",
+                "Hatchback_02_Door_1_2",
+                "Hatchback_02_Door_2_2",
+                "Hatchback_02_Hood",
+                "Hatchback_02_Trunk"
+            ],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 1
+        },
+        {
+            "VehicleClassname": "Sedan_02",
+            "CamonetClassname": "VehicleCover_Sedan_02",
+            "DoorSlotsToCheck": [
+                "Sedan_02_Door_1_1",
+                "Sedan_02_Door_2_1",
+                "Sedan_02_Door_1_2",
+                "Sedan_02_Door_2_2",
+                "Sedan_02_Hood",
+                "Sedan_02_Trunk"
+            ],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 1
+        },
+        {
+            "VehicleClassname": "Truck_01_Covered",
+            "CamonetClassname": "VehicleCover_Truck_01",
+            "DoorSlotsToCheck": [
+                "Truck_01_Door_1_1",
+                "Truck_01_Door_2_1",
+                "Truck_01_Hood"
+            ],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 1
+        },
+        {
+            "VehicleClassname": "Offroad_02",
+            "CamonetClassname": "VehicleCover_Offroad_02",
+            "DoorSlotsToCheck": [
+                "Offroad_02_Door_1_1",
+                "Offroad_02_Door_2_1",
+                "Offroad_02_Door_1_2",
+                "Offroad_02_Door_2_2",
+                "Offroad_02_Hood",
+                "Offroad_02_Trunk"
+            ],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 1
+        },
+        {
+            "VehicleClassname": "Boat_01_ColorBase",
+            "CamonetClassname": "VehicleCover_Boat_01",
+            "DoorSlotsToCheck": [],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 1
+        },
+        {
+            "VehicleClassname": "Expansion_Landrover",
+            "CamonetClassname": "Expansion_LandRover_Cover",
+            "DoorSlotsToCheck": [],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 0
+        },
+        {
+            "VehicleClassname": "ExpansionMh6",
+            "CamonetClassname": "ExpansionMh6_Cover",
+            "DoorSlotsToCheck": [],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 0,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 0
+        },
+        {
+            "VehicleClassname": "ExpansionUh1h",
+            "CamonetClassname": "ExpansionUh1h_Cover",
+            "DoorSlotsToCheck": [],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 0,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 0
+        },
+        {
+            "VehicleClassname": "ExpansionVodnik",
+            "CamonetClassname": "ExpansionVodnik_Cover",
+            "DoorSlotsToCheck": [],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 0
+        },
+        {
+            "VehicleClassname": "ExpansionGyrocopter",
+            "CamonetClassname": "ExpansionGyrocopter_Cover",
+            "DoorSlotsToCheck": [],
+            "CamonetShapeableSlot": "",
+            "CamonetShapeableClassname": "",
+            "DropCamonet": 1,
+            "SpeedToDrop": 10.0,
+            "BlockGettingInWithCamonet": 1,
+            "BlockDoorsWithCamonet": 1,
+            "BlockAttachmentsWithCamonet": 1,
+            "ShouldDoorsBeClosedToAttach": 0
+        }
+    ]
+}

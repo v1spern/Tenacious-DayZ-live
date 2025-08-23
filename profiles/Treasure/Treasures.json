@@ -1,0 +1,1181 @@
+{
+  "version": 2,
+  "EnableDebug": 0,
+  "LootRandomization": 0.2,
+  "EnableDynamicLocations": 0,
+  "RadioFreq": 94.6,
+  "RadioInterval": 30,
+  "RadioRange": 30000,
+  "SpawnRadioInDefinedBox": 0,
+  "RadioBoxMin": "0 0 0",
+  "RadioBoxMax": "10000 0 10000",
+  "TreasureLocations": [
+    {
+      "name": "ItemPhoto01",
+      "pos": "11579.4 0 6940",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "Hammer",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "CombatKnife",
+        "Rags",
+        "HandSaw",
+        "Hammer"
+      ]
+    },
+    {
+      "name": "ItemPhoto02",
+      "pos": "10935 0 9490",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "BandageDressing",
+        "NVGHeadstrap",
+        "DAC_TacticalPants_Green",
+        "DAC_FieldJacket_Green",
+        "TacticalBaconCan",
+        "mmg_gp_nvg_black",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "VSS"
+      ]
+    },
+    {
+      "name": "ItemPhoto03",
+      "pos": "8914.2 0 4456",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AK103",
+        "SNAFU_AK103_Mag",
+        "SNAFU_AK103_Mag",
+        "SNAFU_AK103_Mag",
+        "TR_predefined_AK12",
+        "SNAFU_AK12_Mag",
+        "SNAFU_AK12_Mag",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "BandageDressing",
+        "WeaponCleaningKit"
+      ]
+    },
+    {
+      "name": "ItemPhoto04",
+      "pos": "9948.75 0 3954",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_SKS",
+        "TacticalBaconCan",
+        "SodaCan_Cola",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto05",
+      "pos": "11031.7 0 1588",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_FAL",
+        "SA58_30RND_BK",
+        "SA58_30RND_BK",
+        "SA58_30RND_BK",
+        "OrienteeringCompass",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308WinTracer_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308WinTracer_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto06",
+      "pos": "5505.8 0 8817.4",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AK19",
+        "TR_predefined_VSS",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "TacticalBaconCan",
+        "SodaCan_Cola",
+        "TacticalBaconCan",
+        "SodaCan_Pipsi"
+      ]
+    },
+    {
+      "name": "ItemPhoto07",
+      "pos": "1186.2 0 5948",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_M700",
+        "GCGN_M700_Mag",
+        "SardinesCan",
+        "GCGN_M700_Mag",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308WinTracer_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308WinTracer_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto08",
+      "pos": "7934.23 0 8712",
+      "chest": "DryBag_Green",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AR15",
+        "AMS_BandageTape",
+        "TetracyclineAntibiotics",
+        "AMS_Bandage",
+        "AMS_Bandage",
+        "SNAFU_CMAG30556_Black",
+        "SNAFU_CMAG30556_Black",
+        "SNAFU_CMAG30556_Black",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto09",
+      "pos": "3999 0 6339",
+      "chest": "AmmoBox",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto10",
+      "pos": "9848.54 0 8603",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "SardinesCan",
+        "TunaCan",
+        "SardinesCan",
+        "BakedBeansCan",
+        "SodaCan_Kvass",
+        "SodaCan_Kvass",
+        "TR_predefined_CZ527",
+        "Mag_CZ527_5rnd",
+        "Mag_CZ527_5rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "SodaCan_Cola"
+      ]
+    },
+    {
+      "name": "ItemPhoto11",
+      "pos": "6019.22 0 6848",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "SardinesCan",
+        "BakedBeansCan",
+        "SodaCan_Kvass",
+        "SNAFU_AK103_Mag",
+        "TetracyclineAntibiotics",
+        "TR_predefined_AK103",
+        "SNAFU_AK103_Mag",
+        "WeaponCleaningKit",
+        "BandageDressing"
+      ]
+    },
+    {
+      "name": "ItemPhoto12",
+      "pos": "11496.6 0 4673",
+      "chest": "DryBag_Black",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TetracyclineAntibiotics",
+        "PurificationTablets",
+        "BandageDressing",
+        "SalineBag",
+        "CharcoalTablets",
+        "PainkillerTablets",
+        "BandageDressing",
+        "BandageDressing"
+      ]
+    },
+    {
+      "name": "ItemPhoto13",
+      "pos": "8042.41 0 5500",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_M700",
+        "TR_predefined_Blaze",
+        "SardinesCan",
+        "BakedBeansCan",
+        "GCGN_M700_Mag",
+        "GCGN_M700_Mag",
+        "GCGN_M700_Mag",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_762x39_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto14",
+      "pos": "10231.5 0 2099",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AR15",
+        "SNAFU_CMAG30556_Black",
+        "TacticalBaconCan",
+        "SodaCan_Cola",
+        "SNAFU_CMAG30556_Black",
+        "SNAFU_CMAG30556_Black",
+        "SardinesCan"
+      ]
+    },
+    {
+      "name": "ItemPhoto15",
+      "pos": "11616 0 8063",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AK19",
+        "SodaCan_Kvass",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "Whetstone",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "Hatchet",
+        "NailBox",
+        "NailBox",
+        "NailBox"
+      ]
+    },
+    {
+      "name": "ItemPhoto16",
+      "pos": "12350 0 10881",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_M700",
+        "AmmoBox_762x39_20Rnd",
+        "SardinesCan",
+        "GCGN_M700_Mag",
+        "GCGN_M700_Mag",
+        "HuntingBag",
+        "FishingRod",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto17",
+      "pos": "4384 0 3103",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "FishingRod",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "TR_predefined_Blaze",
+        "SodaCan_Cola",
+        "SpaghettiCan",
+        "BakedBeansCan"
+      ]
+    },
+    {
+      "name": "ItemPhoto18",
+      "pos": "2990 0 6562.5",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "SpaghettiCan",
+        "BakedBeansCan",
+        "TunaCan",
+        "SardinesCan",
+        "TunaCan",
+        "SardinesCan",
+        "BakedBeansCan",
+        "SodaCan_Kvass",
+        "SodaCan_Kvass"
+      ]
+    },
+    {
+      "name": "ItemPhoto19",
+      "pos": "9507 0 10309",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TetracyclineAntibiotics",
+        "PurificationTablets",
+        "BandageDressing",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AMS_FirstAidKit",
+        "BakedBeansCan",
+        "SardinesCan",
+        "SodaCan_Cola"
+      ]
+    },
+    {
+      "name": "ItemPhoto20",
+      "pos": "5815.37 0 4222",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "Hatchet",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "Hacksaw",
+        "HandSaw",
+        "Hammer",
+        "WoodenPlank",
+        "WorkingGloves_Beige",
+        "Whetstone"
+      ]
+    },
+    {
+      "name": "ItemPhoto21",
+      "pos": "11460.2 0 7395.9",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "Hammer",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "HuntingKnife",
+        "Rags",
+        "HandSaw",
+        "Hatchet",
+        "Whetstone"
+      ]
+    },
+    {
+      "name": "ItemPhoto22",
+      "pos": "4952.2 0 14847",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AK19",
+        "SodaCan_Kvass",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "Whetstone",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "Hatchet",
+        "NailBox",
+        "NailBox",
+        "NailBox"
+      ]
+    },
+    {
+      "name": "ItemPhoto23",
+      "pos": "577.5 0 8115.2",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "TR_predefined_Blaze",
+        "SodaCan_Cola",
+        "BoarSteakMeat",
+        "BoarSteakMeat",
+        "BoarSteakMeat",
+        "Uncuepa_HunterPants_woodland",
+        "Uncuepa_HuntingJacket_woodland"
+      ]
+    },
+    {
+      "name": "ItemPhoto24",
+      "pos": "13935 0 11261",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "BandageDressing",
+        "NVGHeadstrap",
+        "DAC_TacticalPants_Green",
+        "DAC_FieldJacket_Green",
+        "TacticalBaconCan",
+        "NVGoggles",
+        "SNAFUM98B_Mag",
+        "SNAFUM98B_Mag",
+        "TR_predefined_M98B"
+      ]
+    },
+    {
+      "name": "ItemPhoto25",
+      "pos": "14796.2 0 14027",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "SpaghettiCan",
+        "BakedBeansCan",
+        "TunaCan",
+        "SardinesCan",
+        "TunaCan",
+        "SardinesCan",
+        "BakedBeansCan",
+        "SodaCan_Kvass",
+        "SodaCan_Kvass"
+      ]
+    },
+    {
+      "name": "ItemPhoto26",
+      "pos": "7092.5 0 14668",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_SKS",
+        "TacticalBaconCan",
+        "SodaCan_Cola",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto27",
+      "pos": "11267.4 0 12128.3",
+      "chest": "WoodenCrate",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TetracyclineAntibiotics",
+        "PurificationTablets",
+        "BandageDressing",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AMS_FirstAidKit",
+        "BakedBeansCan",
+        "SardinesCan",
+        "SodaCan_Cola"
+      ]
+    },
+    {
+      "name": "ItemPhoto28",
+      "pos": "10259.6 0 12025.6",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_M700",
+        "TR_predefined_Blaze",
+        "SardinesCan",
+        "BakedBeansCan",
+        "GCGN_M700_Mag",
+        "GCGN_M700_Mag",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_762x39_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto29",
+      "pos": "2937.8 0 9982.8",
+      "chest": "DryBag_Green",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AR15",
+        "AMS_BandageBox",
+        "TetracyclineAntibiotics",
+        "AMS_BandageTape",
+        "AMS_Ai2",
+        "SNAFU_CMAG30556_Black",
+        "SNAFU_CMAG30556_Black",
+        "SNAFU_CMAG30556_Black",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto30",
+      "pos": "11561.7 0 13509",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AK103",
+        "SNAFU_AK103_Mag",
+        "SNAFU_AK103_Mag",
+        "SNAFU_AK103_Mag",
+        "TR_predefined_AK12",
+        "SNAFU_AK12_Mag",
+        "SNAFU_AK12_Mag",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "BandageDressing",
+        "WeaponCleaningKit"
+      ]
+    },
+    {
+      "name": "ItemPhoto31",
+      "pos": "10999.2 0 14355.4",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AK19",
+        "TR_predefined_VSS",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "TacticalBaconCan",
+        "SodaCan_Cola",
+        "TacticalBaconCan",
+        "SodaCan_Pipsi"
+      ]
+    },
+    {
+      "name": "ItemPhoto32",
+      "pos": "8034 0 9207.6",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_Blaze",
+        "BakedBeansCan",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "Mag_CZ527_5rnd",
+        "AmmoBox_762x39_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto33",
+      "pos": "10677 0 8065.5",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "SardinesCan",
+        "TunaCan",
+        "SardinesCan",
+        "BakedBeansCan",
+        "SodaCan_Kvass",
+        "SodaCan_Kvass",
+        "TR_predefined_CZ527",
+        "Mag_CZ527_5rnd",
+        "Mag_CZ527_5rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "SodaCan_Cola"
+      ]
+    },
+    {
+      "name": "ItemPhoto34",
+      "pos": "1326.2 0 10091",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "SardinesCan",
+        "BakedBeansCan",
+        "SodaCan_Kvass",
+        "SNAFU_AK103_Mag",
+        "TetracyclineAntibiotics",
+        "TR_predefined_AK103",
+        "SNAFU_AK103_Mag",
+        "WeaponCleaningKit",
+        "BandageDressing",
+        "AMS_FirstAidKit"
+      ]
+    },
+    {
+      "name": "ItemPhoto35",
+      "pos": "8813.4 0 12047",
+      "chest": "AmmoBox",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd"
+      ]
+    },
+    {
+      "name": "ItemPhoto36",
+      "pos": "11009 0 5686.1",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "BandageDressing",
+        "TacticalBaconCan",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_762x54_20Rnd",
+        "NVGoggles",
+        "SNAFUM98B_Mag",
+        "SNAFUM98B_Mag",
+        "TR_predefined_M98B"
+      ]
+    },
+    {
+      "name": "ItemPhoto37",
+      "pos": "9385.2 0 8968.1",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AK19",
+        "SodaCan_Kvass",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "Whetstone",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "Hatchet",
+        "NailBox",
+        "NailBox",
+        "NailBox"
+      ]
+    },
+    {
+      "name": "ItemPhoto38",
+      "pos": "6546.5 0 5549.4",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "FishingRod",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "TR_predefined_Blaze",
+        "SodaCan_Cola"
+      ]
+    },
+    {
+      "name": "ItemPhoto39",
+      "pos": "10291.7 0 2190.6",
+      "chest": "DryBag_Black",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TetracyclineAntibiotics",
+        "PurificationTablets",
+        "BandageDressing",
+        "SalineBag",
+        "CharcoalTablets",
+        "PainkillerTablets",
+        "BandageDressing",
+        "BandageDressing",
+        "AMS_FirstAidKit",
+        "AMS_Ai2",
+        "AMS_Splint",
+        "AMS_WaterStraw",
+        "AMS_POX"
+      ]
+    },
+    {
+      "name": "ItemPhoto40",
+      "pos": "2200.1 0 5248.8",
+      "chest": "SeaChest",
+      "haunted": 0,
+      "hidden": 0,
+      "buried": 1,
+      "loot": [
+        "TR_predefined_AK103",
+        "SNAFU_AK103_Mag",
+        "SNAFU_AK103_Mag",
+        "SNAFU_AK103_Mag",
+        "TR_predefined_AK12",
+        "SNAFU_AK12_Mag",
+        "SNAFU_AK12_Mag",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "BandageDressing",
+        "WeaponCleaningKit"
+      ]
+    }
+  ],
+  "LootCategories": [
+    {
+      "name": "Table_Weapon_Rifles",
+      "Loot": [
+        "TR_predefined_M98B",
+        "TR_predefined_VSS",
+        "TR_predefined_M700",
+        "TR_predefined_Blaze",
+        "TR_predefined_AR15",
+        "TR_predefined_SKS",
+        "TR_predefined_CZ527",
+        "TR_predefined_AK103",
+        "TR_predefined_AK12",
+        "TR_predefined_AK19",
+        "TR_predefined_FAL",
+        "TR_predefined_MP9",
+        "TR_predefined_HK416",
+        "TR_predefined_SCAR-L"
+      ]
+    },
+    {
+      "name": "Table_Item_Hunting",
+      "Loot": [
+        "Izh18",
+        "CZ550",
+        "Repeater",
+        "Mosin9130",
+        "B95",
+        "SawedoffMosin9130",
+        "SawedoffB95",
+        "CZ527",
+        "SNAFU_SKS",
+        "Mosin_Bayonet",
+        "Mosin_Compensator",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "PUScopeOptic",
+        "SNAFU_SKS_Bayonet",
+        "MMG_Mag_Pouch_dark_woodland",
+        "MMG_tt_Vest_dark_woodland",
+        "MMG_Med_Pouch_dark_woodland",
+        "SNAFU_Mosin_Mount_Base",
+        "SNAFU_Kahles",
+        "SNAFU_HuntingOptic"
+      ]
+    },
+    {
+      "name": "Table_Item_Medical",
+      "Loot": [
+        "Canteen",
+        "BandageDressing",
+        "Morphine",
+        "Epinephrine",
+        "AMS_FirstAidKit",
+        "AMS_BandageBox",
+        "AMS_Splint",
+        "AMS_MFAK",
+        "AMS_Ai2",
+        "TacticalBaconCan",
+        "VitaminBottle",
+        "PainkillerTablets",
+        "CharcoalTablets",
+        "SN_USP",
+        "SN_USP_Mag",
+        "Ammo_45ACP",
+        "AmmoBox_45ACP_25rnd",
+        "PistolSuppressor"
+      ]
+    },
+    {
+      "name": "Table_Item_Military",
+      "Loot": [
+        "SNAFU_Nightforce",
+        "SNAFU_Elcan",
+        "SNAFU_IRONMODOptic",
+        "M68Optic",
+        "AD_OKP7",
+        "AD_MRS",
+        "AD_ACOG",
+        "AD_Pilad",
+        "AD_G33",
+        "AD_XPS34",
+        "AD_SpecterDR",
+        "MMG_MK_III_Armor_dark_woodland",
+        "MMG_triple_magpouch_dark_woodland",
+        "MMG_Med_Pouch_dark_woodland",
+        "MMG_tactical_pouch_dark_woodland",
+        "MMG_carrier_backpack_dark_woodland",
+        "MMG_assault_pack_dark_woodland",
+        "MMG_falcon_b1_belt_dark_woodland",
+        "MMG_tactical_helmet_dark_woodland",
+        "MMG_sheath_dark_woodland",
+        "MMG_bottle_dark_woodland",
+        "MMG_Holster_dark_woodland",
+        "MMG_tactical_shirt_dark_woodland",
+        "MMG_combatshirt_dark_woodland",
+        "MMG_combatpants_dark_woodland",
+        "mmg_tactical_pants_dark_woodland",
+        "mmg_tactical_gloves_dark_woodland",
+        "MMG_boots_dark_woodland",
+        "MMG_facemask_dark_woodland",
+        "MMG_balaclava_dark_woodland",
+        "mmg_boonie_dark_woodland",
+        "MMG_nbc_pouch",
+        "mmg_gp_nvg_black",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "RGD2Grenade",
+        "M67Grenade",
+        "M18SmokeGrenade_Red",
+        "M18SmokeGrenade_Green",
+        "M18SmokeGrenade_Yellow",
+        "M18SmokeGrenade_Purple",
+        "M18SmokeGrenade_White",
+        "LandMineTrap",
+        "AmmoBox_556x45_20Rnd",
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAG_30Rnd",
+        "SNAFU_CMAG30556_Black",
+        "SNAFU_AK103_Mag",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "SNAFU_CMAG30556_Black",
+        "SNAFU_AK103_Mag",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "SNAFU_CMAG30556_Black",
+        "SNAFU_AK103_Mag",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_762x39_20Rnd"
+      ]
+    }
+  ],
+  "PredefinedWeapons": [
+    {
+      "defname": "TR_predefined_MP9",
+      "weapon": "SNAFU_MP9_GUN",
+      "magazine": "SNAFU_MP9_30rnd_Mag",
+      "attachments": [
+        "PistolSuppressor"
+      ],
+      "optic": "SNAFU_Kobra",
+      "opticbattery": 0
+    },
+    {
+      "defname": "TR_predefined_HK416",
+      "weapon": "HK416_Gun",
+      "magazine": "SNAFU_CMAG30556_Black",
+      "attachments": [
+        "SNAFU_FGCR_Grip"
+      ],
+      "optic": "SNAFU_Trijicon_Docter",
+      "opticbattery": 1
+    },
+    {
+      "defname": "TR_predefined_SCAR-L",
+      "weapon": "SCAR_Gun",
+      "magazine": "SNAFU_CMAG30556_Black",
+      "attachments": [
+        ""
+      ],
+      "optic": "SNAFU_Kobra",
+      "opticbattery": 1
+    },
+    {
+      "defname": "TR_predefined_M98B",
+      "weapon": "VSS",
+      "magazine": "SNAFUM98B_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "AD_Pilad",
+      "opticbattery": 1
+    },
+    {
+      "defname": "TR_predefined_VSS",
+      "weapon": "VSS",
+      "magazine": "Mag_VSS_10Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "AD_Pilad",
+      "opticbattery": 1
+    },
+    {
+      "defname": "TR_predefined_M700",
+      "weapon": "GCGN_M700",
+      "magazine": "GCGN_M700_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "SNAFU_Kahles",
+      "opticbattery": 0
+    },
+    {
+      "defname": "TR_predefined_Blaze",
+      "weapon": "B95",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "SNAFU_Kahles",
+      "opticbattery": 0
+    },
+    {
+      "defname": "TR_predefined_AR15",
+      "weapon": "SNAFU_LVOA556_GUN",
+      "magazine": "SNAFU_CMAG30556_Black",
+      "attachments": [
+        "SNAFU_TACGripColtA2_BK",
+        "SNAFU_PRSGen3_Stock"
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "TR_predefined_SKS",
+      "weapon": "SNAFU_SKS",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "SNAFU_MHuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "TR_predefined_CZ527",
+      "weapon": "CZ527",
+      "magazine": "Mag_CZ527_5rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "SNAFU_Kahles",
+      "opticbattery": 0
+    },
+    {
+      "defname": "TR_predefined_AK103",
+      "weapon": "SNAFU_AK103A",
+      "magazine": "SNAFU_AK103_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "SNAFU_AKAimpoint_M5",
+      "opticbattery": 1
+    },
+    {
+      "defname": "TR_predefined_AK12",
+      "weapon": "SNAFU_AK12A",
+      "magazine": "SNAFU_AK12_Mag",
+      "attachments": [
+        "SNAFU_AK_AR_Stock"
+      ],
+      "optic": "SNAFU_Aimpoint_M5",
+      "opticbattery": 1
+    },
+    {
+      "defname": "TR_predefined_AK19",
+      "weapon": "SNAFU_AK19",
+      "magazine": "Mag_AK101_30Rnd",
+      "attachments": [
+        "SNAFU_AK19_Stock",
+        "SNAFU_AFG_02_Black"
+      ],
+      "optic": "PSO11Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "TR_predefined_FAL",
+      "weapon": "SNSA58_Gun",
+      "magazine": "SA58_30RND_BK",
+      "attachments": [
+        "SA58_Stock",
+        "SA58_FGrip"
+      ],
+      "optic": "AD_ACOG",
+      "opticbattery": 0
+    }
+  ],
+  "HiddenCacheLoot": [
+    "Paper",
+    "TunaCan",
+    "Rag",
+    "SardinesCan",
+    "WaterBottle",
+    "SteakKnife",
+    "HuntingKnife",
+    "SmallStone",
+    "BoneHook",
+    "Ammo_12gaPellets",
+    "Ammo_762x39"
+  ],
+  "DynamicLocations": [
+    {
+      "name": "skalisty caravan",
+      "number": 2,
+      "pos": [
+        "14029.632813 22.454460 2912.702637",
+        "14030.186523 22.564730 2909.771973",
+        "14033.771484 22.277925 2909.979004"
+      ],
+      "chest": [
+        "SeaChest",
+        "WoodenCrate"
+      ],
+      "lootrandomize": 0.5,
+      "loot": [
+        "Table_Weapon_Rifles",
+        "Table_Item_Military",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "CombatKnife",
+        "Rag",
+        "HandSaw",
+        "Hammer"
+      ]
+    },
+    {
+      "name": "skalisty house",
+      "number": 1,
+      "pos": [
+        "13043.402344 19.640696 3235.786621",
+        "13046.821289 19.649776 3234.652344"
+      ],
+      "chest": [
+        "SeaChest",
+        "WoodenCrate"
+      ],
+      "lootrandomize": 0.5,
+      "loot": [
+        "Table_Weapon_Rifles",
+        "Hammer",
+        "Table_Item_Military",
+        "Table_Item_Military",
+        "NailBox",
+        "CombatKnife",
+        "Rag",
+        "HandSaw",
+        "Hammer"
+      ]
+    }
+  ]
+}
