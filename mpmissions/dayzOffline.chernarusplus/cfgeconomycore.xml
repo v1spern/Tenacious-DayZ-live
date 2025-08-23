@@ -108,11 +108,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		 <file name="dogtag-types.xml" type="types" />
 	</ce>
 <!-- !SECTION Dogtag Mod End -->
-<!-- SECTION Dutch Military Clothing Mod -->
-	<ce folder="ModTypes/DutchMilitaryClothing">
-		 <file name="dmc-types.xml" type="types" />
-	</ce>
-<!-- !SECTION Dutch Military Clothing Mod End -->
 <!-- SECTION FlipTransport Mod -->
 	<ce folder="ModTypes/FlipTransport">
 		 <file name="flip-types.xml" type="types" />
