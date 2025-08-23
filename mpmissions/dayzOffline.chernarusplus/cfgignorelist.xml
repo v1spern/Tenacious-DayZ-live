@@ -20,4 +20,11 @@
 	<type name="Mag_STANAGCoupled_30Rnd"></type>
 	<type name="Wreck_Mi8"></type>
 	<type name="BBP_Cement_Mixer_Static"></type>
+	<type name="SNAFUChiappaRhino"></type>
+	<type name="SNAFU_AS50_GUN"></type>
+	<type name="SNAFUAX50_GUN"></type>
+	<type name="SNAFUAlligator"></type>
+	<type name="SNAFUAlligator_5rdMag"></type>
+	<type name="SNAFUAX50_Mag"></type>
+	<type name="SNAFU_AS50_Mag"></type>
 </ignore>
