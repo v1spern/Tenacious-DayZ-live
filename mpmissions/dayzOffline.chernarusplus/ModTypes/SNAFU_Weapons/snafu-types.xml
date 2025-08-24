@@ -1808,6 +1808,59 @@
         <value name="Tier4"/>
     </type>
     <!-- STUB Sniper Rifles -->
+    <!-- NOTE Remington RSASS -->
+    <type name="SNAFURSASS_dkmc_GUN">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFURSASS_od_GUN">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFURSASS_Wood_GUN">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFURSASS_Mag">
+        <nominal>3</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
     <!-- NOTE AWM -->
     <type name="SNAFU_AWM_Gun">
         <nominal>1</nominal>
@@ -1970,31 +2023,6 @@
         <quantmax>70</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-    <!-- NOTE MAR-10 -->
-    <type name="SNAFU_MAR10_Black_GUN">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1"/>
-        <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-    <type name="SNAFU_Mar10_15rnd_Mag">
-        <nominal>3</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="ContaminatedArea"/>
     </type>
@@ -4662,60 +4690,6 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <!-- NOTE RSASS -->
-    <type name="SNAFURSASS_dkmc_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFURSASS_od_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFURSASS_Wood_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFURSASS_Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
     <!-- NOTE SA-80 -->
     <type name="SNAFUSA80">
         <nominal>0</nominal>
@@ -5178,25 +5152,34 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-<!-- !SECTION (Unused Weapons & Mags) -->
-<!-- !SECTION Weapons & Mags -->
-<!-- SECTION Ammo -->
-    <!-- NOTE 762x51 -->
-    <type name="GCGN_Ammo_762x51">
-        <nominal>50</nominal>
-        <restock>28800</restock>
-        <lifetime>1800</lifetime>
-        <min>40</min>
-        <quantmin>10</quantmin>
-        <quantmax>30</quantmax>
+    <!-- NOTE MAR-10 -->
+    <type name="SNAFU_MAR10_Black_GUN">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
+    <type name="SNAFU_Mar10_15rnd_Mag">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+<!-- !SECTION (Unused Weapons & Mags) -->
+<!-- !SECTION Weapons & Mags -->
+<!-- SECTION Ammo -->
     <!-- NOTE 338 -->
     <type name="SNAFU_Ammo_338">
         <nominal>10</nominal>
@@ -5231,6 +5214,22 @@
     </type>
 <!-- SECTION (Unused Ammo) -->
 <!-- !SECTION (Unused Ammo) -->
+    <!-- NOTE 762x51 -->
+    <type name="GCGN_Ammo_762x51">
+        <nominal>0</nominal>
+        <restock>28800</restock>
+        <lifetime>1800</lifetime>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>30</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
     <!-- NOTE .30-06 -->
     <type name="GCGN_Ammo_3006">
         <nominal>0</nominal>

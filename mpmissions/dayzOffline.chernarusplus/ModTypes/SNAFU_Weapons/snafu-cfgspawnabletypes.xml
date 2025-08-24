@@ -684,6 +684,32 @@
 			<item name="SNAFU_AWM_Mag" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="SNAFURSASS_dkmc_GUN"> <!-- NOTE Remington RSASS dkmc -->
+		<attachments chance="0.10">
+			<item name="SNAFU_HuntingOptic" chance="0.06" />
+			<item name="SNAFU_Nightforce" chance="0.06" />
+			<item name="SNAFU_Leupold_Mark8" chance="0.06" />
+			<item name="SNAFU_Kahles" chance="0.06" />
+			<item name="SNAFU_Aimpoint_ACO" chance="0.06" />
+			<item name="SNAFU_Elcan" chance="0.06" />
+			<item name="SNAFU_DHF5" chance="0.06" />
+			<item name="SNAFU_Pilad" chance="0.06" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFU_FGCR_Grip" chance="0.33" />
+			<item name="SNAFU_FGKAC_Grip" chance="0.33" />
+			<item name="SNAFU_AFG_02_Black" chance="0.33" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="0.03">
+			<item name="SNAFU_Standardized_Suppressor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFURSASS_Mag" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="SNAFU_MAR10_Black_GUN"> <!-- NOTE MAR-10 -->
 		<attachments chance="0.10">
 			<item name="SNAFU_HuntingOptic" chance="0.06" />
