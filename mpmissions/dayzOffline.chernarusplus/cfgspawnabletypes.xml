@@ -2657,7 +2657,6 @@
 			<item name="AD_ACOG" chance="0.00" />
 			<item name="ACOGOptic_6x" chance="0.00" />
 			<item name="AD_LeupoldMk4" chance="0.00" />
-			<item name="M4_Suppressor" chance="0.25" />
 		</attachments>
 	</type>
 	<type name="Scout_Chernarus">
@@ -2669,7 +2668,6 @@
 			<item name="SNAFU_Aimpoint_ACO" chance="0.0" />
 			<item name="AD_ACOG" chance="0.0" />
 			<item name="AD_SpecterDR" chance="0.0" />
-			<item name="M4_Suppressor" chance="0.25" />
 		</attachments>
 	</type>
 	<type name="Scout_Livonia">
@@ -2681,7 +2679,6 @@
 			<item name="SNAFU_Aimpoint_ACO" chance="0.25" />
 			<item name="AD_ACOG" chance="0.25" />
 			<item name="AD_SpecterDR" chance="0.25" />
-			<item name="M4_Suppressor" chance="0.25" />
 		</attachments>
 	</type>
 	<type name="CZ550">
