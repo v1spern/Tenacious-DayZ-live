@@ -584,6 +584,21 @@
 			<item name="HeadlightH7" chance="0.40" />
         </attachments>
 	</type>
+	<!-- NOTE Big Gyrocopter -->
+	<type name="ExpansionBigGyrocopter">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+        </attachments>
+	</type>
 	<!-- STUB CARS -->
 	<!-- NOTE UAZ -->
 	<type name="ExpansionUAZ">
