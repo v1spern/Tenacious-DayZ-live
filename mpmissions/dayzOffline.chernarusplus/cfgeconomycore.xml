@@ -172,6 +172,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		 <file name="uaz-spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
 <!-- !SECTION [CnG]UAZ_452 Mod End -->
+<!-- SECTION Wooden Signs Mod -->
+	<ce folder="ModTypes/WoodenSigns">
+		 <file name="sign-types.xml" type="types" />
+	</ce>
+<!-- !SECTION Wooden Signs Mod End -->
 <!-- SECTION Zens Zippo Lighter Mod -->
 	<ce folder="ModTypes/ZensZippoLighter">
 		 <file name="zippo-types.xml" type="types" />
@@ -182,9 +187,14 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		 <file name="treasure-types.xml" type="types" />
 	</ce>
 <!-- !SECTION Zens Treasure Mod End -->
-<!-- SECTION Wooden Signs Mod -->
-	<ce folder="ModTypes/WoodenSigns">
-		 <file name="sign-types.xml" type="types" />
+<!-- SECTION Zens Leftovers Mod -->
+	<ce folder="ModTypes/ZensLeftovers">
+		 <file name="zlo-types.xml" type="types" />
 	</ce>
-<!-- !SECTION Wooden Signs Mod End -->
+<!-- !SECTION Zens Leftovers Mod End -->
+<!-- SECTION Zens Notes Mod -->
+	<ce folder="ModTypes/ZensNotes">
+		 <file name="zno-types.xml" type="types" />
+	</ce>
+<!-- !SECTION Zens Notes Mod End -->
 </economycore>
