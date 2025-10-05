@@ -1,0 +1,1542 @@
+{
+    "Categories": {
+        "unmapped": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "general": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_cabinets_general": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.05, "DurationSeconds": 12.0, "HealthDamage": 10.0, "FlavorText": "As you rummage through the area you knock over a piece of furniture that hits your head! Your vision goes blurry..."
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_cabinets_small": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_bed_mattress": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_mailboxes": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.30,
+            "GloveDamageMin": 15,
+            "GloveDamageMax": 30,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 20.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your clattering with the mailbox attracts some nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_kitchen_cabinets": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.05, "DurationSeconds": 6.0, "HealthDamage": 25.0, "FlavorText": "As you open the overhead kitchen cabinets a cast iron skillet falls out and hits you in the face!"
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_medical_cabinet": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 1, "SpawnRadius": 5.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "You drop something on the floor that alerts an infected in the nearby room!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_kitchen_fridge": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.25,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_garage_tools": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.25,
+            "GloveDamageMin": 25,
+            "GloveDamageMax": 35,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_power_utility": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.20, "ShockAmount": 50.0, "HealthDamage": 25.0, "FlavorText": "Something here is still live; as you accidentally touch it, you feel a surge through your body!"
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_battery_appliance": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_electrical_appliance": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.20, "ShockAmount": 50.0, "HealthDamage": 20.0, "FlavorText": "A capacitor still carries charge; as you accidentally touch it, you feel a surge through your body!"
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_toilet": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.10,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 10.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_bird_cages": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 25,
+            "GloveDamageMax": 35,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 4, "SpawnRadius": 15.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_doghouses": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_fishing_gear": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 2, "SpawnRadius": 25.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_scarecrow": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.40,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_cemetery": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 5, "SpawnRadius": 25.0, "ZombieTypes": [ "ZmbF_MilkMaidOld_Black","ZmbF_MilkMaidOld_Grey","ZmbF_VillagerOld_White","Zmbm_Mummy","ZmbM_priestPopSkinny" ], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Whilst disturbing the dead, you alert nearby non-buried dead!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "residential_church_general": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 12.0, "ZombieTypes": [ "ZmbF_MilkMaidOld_Black","ZmbF_MilkMaidOld_Grey","ZmbF_VillagerOld_White","Zmbm_Mummy","ZmbM_priestPopSkinny" ], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Whilst robbing the holy house, you knock over some things that alerts nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "medical_master": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "hunting_general": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 12.0, "ZombieTypes": [ "ZmbF_VillagerOld_Green", "ZmbM_CitizenBFat_Green", "ZmbM_FarmerFat_Green", "ZmbM_HikerSkinny_Green", "ZmbM_Jacket_greenchecks", "ZmbM_HunterOld_Autumn", "ZmbM_HunterOld_Spring", "ZmbM_HunterOld_Summer" ], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "village_general_store": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "countertop_register": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.2, "CountMin": 2, "CountMax": 5, "SpawnRadius": 20.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 50.0, "FlavorText": "The register bell rings and alerts nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "town_supermarket_store": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "town_shack_display_fridge": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "town_office_general": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 12.0, "ZombieTypes": [ "ZmbM_Gamedev_Black","ZmbM_Gamedev_Blue","ZmbM_Gamedev_Gray","ZmbF_JournalistNormal_Blue","ZmbF_JournalistNormal_Green","ZmbF_JournalistNormal_Red","ZmbF_JournalistNormal_White" ], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "town_office_power_panel": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.2, "ShockAmount": 50.0, "HealthDamage": 20.0, "FlavorText": "Something here is still live; as you accidentally touch it, you feel a surge jolt through you!"
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "town_office_notice_board": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "soda_vendingmachine": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.20, "ShockAmount": 50.0, "HealthDamage": 20.0, "FlavorText": "Whilst reaching inside the vending machine to search for a last can, you touch something that electrocutes you!"
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "hotel_front_desk": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 2, "SpawnRadius": 15.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "hotel_airplane_wreckage": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.25, "DurationSeconds": 20.0, "HealthDamage": 15.0, "FlavorText": "Whilst searching inside the fuselage, something shifts and falls on your head! The world goes black..."
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "hotel_airplane_wreckage_engine": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.25, "DurationSeconds": 20.0, "HealthDamage": 15.0, "FlavorText": "Whilst searching the airplane wreckage, something shift and falls on your head! The world goes black..."
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "garbage_general": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 25.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 40.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "garbage_industrial": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 25.0, "ZombieTypes": ["ZmbF_MechanicNormal_Beige","ZmbF_MechanicNormal_Green","ZmbF_MechanicNormal_Grey","ZmbF_MechanicNormal_Orange","ZmbM_ConstrWorkerNormal_Beige","ZmbM_ConstrWorkerNormal_Black","ZmbM_ConstrWorkerNormal_Green","ZmbM_ConstrWorkerNormal_Grey"], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 40.0, "FlavorText": "Your rummaging noises alert nearby infected!"              },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "garbage_medical": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 25.0, "ZombieTypes": [ "ZmbM_DoctorFat","ZmbF_NurseFat","ZmbM_ParamedicNormal_Black","ZmbM_ParamedicNormal_Blue","ZmbM_ParamedicNormal_Green","ZmbM_ParamedicNormal_Red","ZmbF_ParamedicNormal_Blue","ZmbF_ParamedicNormal_Green","ZmbF_ParamedicNormal_Red" ], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "garbage_residential": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 25.0, "ZombieTypes": [ "ZmbF_VillagerOld_Blue","ZmbF_VillagerOld_Green","ZmbF_VillagerOld_Red","ZmbF_VillagerOld_White","ZmbM_CitizenASkinny_Blue","ZmbM_CitizenASkinny_Brown","ZmbM_CitizenASkinny_Grey","ZmbM_CitizenASkinny_Red","ZmbM_CitizenBFat_Blue","ZmbM_CitizenBFat_Green","ZmbM_CitizenBFat_Red","ZmbF_CitizenANormal_Beige","ZmbF_CitizenANormal_Blue","ZmbF_CitizenANormal_Brown","ZmbF_CitizenBSkinny" ], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 40.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_master": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "haystacks": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.80,
+            "GloveDamageMin": 30,
+            "GloveDamageMax": 50,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "manurepiles": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.80,
+            "GloveDamageMin": 30,
+            "GloveDamageMax": 50,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_electronic": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.20, "ShockAmount": 50.0, "HealthDamage": 2.0, "FlavorText": "Something here is still live; as you accidentally touch it, you feel a surge through your body!"
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_bundle_planks": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_bundle_logs": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 3, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.20, "DurationSeconds": 10.0, "HealthDamage": 10.0, "FlavorText": "As you lift the logs out of the way and put them upright, one of them slips and hit you over the head. Your vision goes blurry.."
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_bundle_firelogs": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.30,
+            "GloveDamageMin": 15,
+            "GloveDamageMax": 35,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_bundle_pipes": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.80,
+            "GloveDamageMin": 30,
+            "GloveDamageMax": 60,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_rubble_metal": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.80,
+            "GloveDamageMin": 60,
+            "GloveDamageMax": 80,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_rubble_wood": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 3, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_rubble_stone": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.20, "DurationSeconds": 15.0, "HealthDamage": 15.0, "FlavorText": "While looking through the stones and bricks, something loses its support and hits your head. Your world goes black.."
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_coil": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.80,
+            "GloveDamageMin": 50,
+            "GloveDamageMax": 80,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "industrial_woodworking": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 3, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "town_guardhouse_checkpoint": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.10, "FlavorText": "Whilst searching through the guard house, you somehow toggle the old air-raid alarm!"
+                }
+            }
+        },
+        "vehicle_tools": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.20, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "vehicle_tools_and_modparts": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "military_guardhouse": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.1, "CountMin": 1, "CountMax": 2, "SpawnRadius": 5.0, "ZombieTypes": ["ZmbM_PolicemanFat","ZmbM_PolicemanSpecForce","ZmbM_PolicemanSpecForce_Heavy","ZmbF_PoliceWomanNormal"], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "military_guardhouse_desk": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.1, "FlavorText": "Whilst searching through the guard house, you somehow toggle the old air-raid alarm!"
+                }
+            }
+        },
+        "vehicle_garbage_pile": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.35,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.1, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 12.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "vehicle_wheels_all": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 2, "SpawnRadius": 12.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.1, "DurationSeconds": 15.0, "HealthDamage": 20.0, "FlavorText": "Whilst rummaging, something comes loose and hits you over the head! Your vision goes blurry.."
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "forest_bone_pile": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.1, "CountMin": 1, "CountMax": 4, "SpawnRadius": 30.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": "You stumble whilst looting, making a lot of noise; You've attracted nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 15.0, "HealthDamage": 20.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        },
+        "military_ammo_boxes": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 0.15,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 15,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0.0, "CountMin": 1, "CountMax": 4, "SpawnRadius": 30.0, "ZombieTypes": [], "AlertNoiseStrength": 50.0, "AlertNoiseRange": 30.0, "FlavorText": " "
+                },
+                "Smoke": {
+                    "Chance": 0.2, "Classname": "M18SmokeGrenade_Green", "FuseSeconds": 1.0, "FlavorText": "As you open the ammo box, a smoke grenade pops out and starts gushing!"
+                },
+                "Gas": {
+                    "Chance": 0.0, "Classname": " ", "FuseSeconds": 1.0, "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 0.0, "DurationSeconds": 15.0, "HealthDamage": 20.0, "FlavorText": " "
+                },
+                "Shock": {
+                    "Chance": 0.0, "ShockAmount": 50.0, "HealthDamage": 0.0, "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0.0, "FlavorText": " "
+                }
+            }
+        }
+    },
+    "DefaultCooldownTime": 1800.0,
+    "CooldownScope": "Global",
+    "DefaultGroup": "unmapped",
+    "DebugMode": 1,
+    "EnableCsvLogging": 1
+}

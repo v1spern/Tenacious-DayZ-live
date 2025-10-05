@@ -1,0 +1,4658 @@
+[
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_pile1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Household garbage pile"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_pile2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Household garbage pile"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_pile3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_garbage_pile",
+        "Comment": "Large item garbage pile - tyres, hoods etc"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_pile4",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_general",
+        "Comment": "Large garbage pile - furniture, medical, pallets, household"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_pile5",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_medical",
+        "Comment": "Large Medical garbage pile - NBC bags, stretchers etc"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_pile6",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Large household garbage pile - chairs, sofas, bags etc"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_pile7",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_industrial",
+        "Comment": "Small Industrial garbage pile - Boxes, bags, cinder blocks etc"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_pile8",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_industrial",
+        "Comment": "Small Industrial garbage pile - Boxes and cinder blocks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_bin",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Small metal garbage bin"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "busstop_city_sign",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Bus stop with a small bin attached"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_bin2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Small plastic garbage bin"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_container",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Large metal garbage bin - General"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_container_glass",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Large metal garbage bin - Glass"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_container_paper",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Large metal garbage bin - Paper"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_container_plastic",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Large metal garbage bin - Plastic"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_container2_closed",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Large metal garbage bin - General (closed)"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "garbage_container2_open",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_residential",
+        "Comment": "Large metal garbage bin - General (opened)"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "decon_hazmatbag_01_f",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_medical",
+        "Comment": "A tied up hazmat garbage bag"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cartongarbage07",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_general",
+        "Comment": "dayzExpansion - Cardboard box pile - Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cartongarbage08",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_general",
+        "Comment": "dayzExpansion - Cardboard box pile - Medium"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cartongarbage09",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "garbage_general",
+        "Comment": "dayzExpansion - Cardboard box pile - Large"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_gcontainer_big",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_metal",
+        "Comment": "Large container skip - Industrial"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_tirepile",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_wheels_all",
+        "Comment": "Tirepile - Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_tirepile_group",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_wheels_all",
+        "Comment": "Tirepile - 3x stacks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_bricks1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Brick rubble - Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_bricks2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Brick rubble - Large"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_bricks3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Brick rubble - Medium"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_concrete1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Concrete rubble - Medium"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_metal1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_metal",
+        "Comment": "Metal rubble - Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_metal2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_metal",
+        "Comment": "Metal rubble - Medium"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_metal3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_metal",
+        "Comment": "Metal rubble - Sheets"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_wood1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_wood",
+        "Comment": "Wood rubble - Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_wood2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_wood",
+        "Comment": "Wood rubble - Planks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rubble_wood3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_wood",
+        "Comment": "Wood rubble - Large"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "mine_heap",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Large heap of stones from a quarry"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "mine_rail_tram",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "A small mine cart"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_boardspack1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "A large covered pile of planks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_boardspack2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "A small covered pile of planks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_boardspack3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "A medium covered pile of planks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_haybale",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "haystacks",
+        "Comment": "A bale of hay"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "farm_strawstack",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "haystacks",
+        "Comment": "A huge pile of hay"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_haybale_decayed",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "haystacks",
+        "Comment": "A bale of hay in a state of decay"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "1809199",
+        "ModelName": "misc_pipes",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Bundle of large pipes"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_pallet",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "A single pallet"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_pallets1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "A bundle of pallets"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_pallets2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "A bundle of pallets"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_pallets3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "A bundle of pallets"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_timbers1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_logs",
+        "Comment": "A pile of logs"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_timbers2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_logs",
+        "Comment": "A pile of logs"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_timbers3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_logs",
+        "Comment": "A pile of logs"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_timbers4",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_logs",
+        "Comment": "A pile of logs"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_woodreserve",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_firelogs",
+        "Comment": "A large pile for firewood, typically around houses"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_woodpile_forest1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_firelogs",
+        "Comment": "A pile of chopped logs"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_woodpile_forest2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_firelogs",
+        "Comment": "A pile of chopped logs"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_woodpile_forest3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_firelogs",
+        "Comment": "A pile of chopped logs"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_woodpile1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_firelogs",
+        "Comment": "A pile of chopped logs"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_woodpile2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_firelogs",
+        "Comment": "A pile of chopped logs"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_coil",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_coil",
+        "Comment": "An empty coil"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "farm_manurepile",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "manurepiles",
+        "Comment": "Big pile of shit"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cihly1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "A pallet of bricks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cihly2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "A pallet of bricks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cihly3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "A pallet of bricks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cihly4",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "A pallet of bricks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_cinderblocks",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "A pallet of cinderblocks"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "koz",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_woodworking",
+        "Comment": "A large saw horse"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "pipe-big",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "A large collection of big pipes"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "pipe-small",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "A large collection of small pipes"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "ytong",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "An unopened package of tiles"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "wheel_cart_dz",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_master",
+        "Comment": "A wheel cart"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "power_transformerstation_big",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_electronic",
+        "Comment": "A huge transformer station"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_transformer",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_electronic",
+        "Comment": "A medium sized transformer station"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_gasmetercabinet",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_electronic",
+        "Comment": "A small gas meter cabinet"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "fusebox",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_electronic",
+        "Comment": "A fusebox that can be attached to a building"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "transmitter_box",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_electronic",
+        "Comment": "A medium sized transmitter box that can be attached to a building"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rail_signals",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_electronic",
+        "Comment": "Railway signals with an electronic box"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "rail_crossing_barrier",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_electronic",
+        "Comment": "Railway crossing barrier with an electronic box"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "radio_panelpas",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_electronic",
+        "Comment": "Large PA radio"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "hotel_damaged_airplane_back",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "hotel_airplane_wreckage",
+        "Comment": "Crashed airplane fuselage near the hotel in Chernogorsk"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "hospital_transport_bed",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "medical_master",
+        "Comment": "A hospital transport bed"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "lekarnicka",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "medical_master",
+        "Comment": "A medical cabinet"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "hotel_damaged_airplane_wing",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "hotel_airplane_wreckage_engine",
+        "Comment": "Engine on the crashed airplane's left wing near hotel in Chernogorsk"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_hotel_damaged",
+        "ModelName": "__interior_tok__",
+        "Position": "-36 0 3",
+        "LootGroup": "hotel_airplane_wreckage_engine",
+        "Comment": "Engine on the crashed airplane's left wing inside hotels upper floors in Chernogorsk"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "vending_machine",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "soda_vendingmachine",
+        "Comment": "A Pipsi Cola vending machine"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_noticeboard1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Broken red public notice board"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_noticeboard2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Broken yellow public notice board"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "Land_Misc_Toilet_Dry",
+        "ModelName": "misc_toilet_dry",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_toilet",
+        "Comment": "Wooden outhouse"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "Land_Misc_Toilet_Mobile",
+        "ModelName": "misc_toilet_mobile",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_toilet",
+        "Comment": "Plastic portable toilet"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_hutch",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_bird_cages",
+        "Comment": "A large bird hutch"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_chickencoop",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_bird_cages",
+        "Comment": "A small chicken coop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "Land_Misc_DogHouse",
+        "ModelName": "misc_doghouse",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_doghouses",
+        "Comment": "Common dog house"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "2270245",
+        "ModelName": "shed_m2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big turquoise house-wagon trailer"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_postbox1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_mailboxes",
+        "Comment": "A red postbox"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "trailmap_noarrow",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Large board with hiker map and tourist information"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_feedrack",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "hunting_general",
+        "Comment": "An animal feedrack used by hunters"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "forest_deerskeleton_pile",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "forest_bone_pile",
+        "Comment": "A pile of deer bones"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "forest_deerskeleton_skull",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "forest_bone_pile",
+        "Comment": "A skull from a deer"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "forest_deerskeleton_dam",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "forest_bone_pile",
+        "Comment": "A damaged deer skeleton"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "forest_deerskeleton_full",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "forest_bone_pile",
+        "Comment": "A full skeleton from a deer"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "forest_humanskeleton",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "forest_bone_pile",
+        "Comment": "The upperhalf of a human skeleton"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_postbox2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_mailboxes",
+        "Comment": "A small blue postbox, usually attached to a house"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "box_c",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_master",
+        "Comment": "A single cardboard box"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "box_c_multi",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_master",
+        "Comment": "A bundle of cardboard boxes"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_woodencrate",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_master",
+        "Comment": "A single wooden crate"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_woodencrate_3x",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_master",
+        "Comment": "3 wooden crates"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_woodencrate_5x",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_master",
+        "Comment": "5 wooden crates"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_crabcages",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_fishing_gear",
+        "Comment": "a bundle of crabcages"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_fishinggear1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_fishing_gear",
+        "Comment": "A bundle of fishing gear"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_fishinggear2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_fishing_gear",
+        "Comment": "A bundle of fishing gear and crabcages"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "fuelstation_feed",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_coil",
+        "Comment": "A fuel pump from a fuel station"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "fuelstation_feed_enoch",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_coil",
+        "Comment": "A fuel pump from a fuel station - enoch"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "misc_boogieman",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_scarecrow",
+        "Comment": "Scarecrow with beige sun-hat and blue shirt with rope for belt"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cemetery_grave1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_cemetery",
+        "Comment": "A grave with cement border"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cemetery_grave2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_cemetery",
+        "Comment": "A grave with chunky cement border"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cemetery_grave3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_cemetery",
+        "Comment": "A grave with thin cement border"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "cemetery_grave4",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_cemetery",
+        "Comment": "A grave with no border"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "ammoboxes_single",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "military_ammo_boxes",
+        "Comment": "A single large ammo box"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "ammoboxes_stacked",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "military_ammo_boxes",
+        "Comment": "A stack of large ammo boxes"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "",
+        "ModelName": "ammoboxes_big",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "military_ammo_boxes",
+        "Comment": "A big stack of untidy large ammo boxes"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "Land_Misc_Scaffolding",
+        "ModelName": "misc_scaffolding",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Large scaffolding built of metal pipes"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w02",
+        "ModelName": "__interior_tok__",
+        "Position": "<-1.000000, -3.000000, -1.000000>",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Closet with box on top in hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w02",
+        "ModelName": "__interior_tok__",
+        "Position": "<0.000000, -3.000000, 6.000000>",
+        "LootGroup": "residential_medical_cabinet",
+        "Comment": "Medical closet in hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w02",
+        "ModelName": "__interior_tok__",
+        "Position": "<11.000000, -3.000000, 1.000000>",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large cupboard in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w02",
+        "ModelName": "__interior_tok__",
+        "Position": "<10.000000, -3.000000, -3.000000>",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small kitchen cabinets with sink"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w02",
+        "ModelName": "__interior_tok__",
+        "Position": "<10.000000, -3.000000, -4.000000>",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w02",
+        "ModelName": "__interior_tok__",
+        "Position": "<3.000000, -3.000000, -6.000000>",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Computer desk in the livingrooom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w02",
+        "ModelName": "__interior_tok__",
+        "Position": "<16.000000, 0.000000, -1.000000>",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Desk in small upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w02",
+        "ModelName": "__interior_tok__",
+        "Position": "<7.000000, 0.000000, 0.000000>",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Desk in big upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b01",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -3 -7",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cabinet-table in hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b01",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 0 4",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed in left corner on 2nd floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b01",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 0 7",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed in right corner on 2nd floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w12_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "11 -2 -2",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Large cupboard"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w12_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "13 -2 -3",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Toolbench with vice"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w12_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -2 -14",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small table with drawer"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w12_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -2 -16",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w12_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "8 -2 -11",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bedroom dresser"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_village_store",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 -1 10",
+        "LootGroup": "village_general_store",
+        "Comment": "Hemp sack in the back room of the village store"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_village_store",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -1 11",
+        "LootGroup": "village_general_store",
+        "Comment": "Hemp sack in the back room of the village store"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_village_store",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -2 10",
+        "LootGroup": "village_general_store",
+        "Comment": "Tall cabinet in the back room of the village store"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_village_store",
+        "ModelName": "__interior_tok__",
+        "Position": "3 -1 4",
+        "LootGroup": "countertop_register",
+        "Comment": "Countertop register in the village store"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_power_transformer_build",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -4 1",
+        "LootGroup": "residential_power_utility",
+        "Comment": "Cardboard boxes in the tall power transformer building"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_guardhouse",
+        "ModelName": "__interior_tok__",
+        "Position": "2 0 1",
+        "LootGroup": "town_guardhouse_checkpoint",
+        "Comment": "Desk with cabinet in the small guardhouse"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w02",
+        "ModelName": "__interior_tok__",
+        "Position": "1 -1 5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w02",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 2",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed in the bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w02",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -1 -1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w03",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 3",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w03",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -1 -12",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Right bedside table"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w03",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -1 -13",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Left bedside table"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w04",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -2 -8",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w04",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -2 -7",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w01",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -2 2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Desk with cabinet in the bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w01",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -2 6",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w01",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -2 9",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w01",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -2 9",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w01",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -2 2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w01",
+        "ModelName": "__interior_tok__",
+        "Position": "8 -2 5",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w01",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -2 7",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w01",
+        "ModelName": "__interior_tok__",
+        "Position": "8 -2 11",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1b01_pub",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -2 17",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the sittingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w10",
+        "ModelName": "__interior_tok__",
+        "Position": "3 0 0",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w10",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 0 -4",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w10",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 0 -5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w10",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 0 -5",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w10",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 0 -2",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w05",
+        "ModelName": "__interior_tok__",
+        "Position": "9 0 0",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w05",
+        "ModelName": "__interior_tok__",
+        "Position": "5 0 -1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w05",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 0 1",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w08_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -1 6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the corner of the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w08_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -1 2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w08_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 0",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w08_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -1 -1",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small kitchen cabinets with sink"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w08_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 7",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small dresser in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w07",
+        "ModelName": "__interior_tok__",
+        "Position": "-11 -2 -3",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Large kitchen cabinets with sink"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w07",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -2 -4",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w07",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 -2 1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w07",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 -2 -8",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large closed cabinet in the bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w06",
+        "ModelName": "__interior_tok__",
+        "Position": "8 0 0",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w06",
+        "ModelName": "__interior_tok__",
+        "Position": "7 0 2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w06",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 0 -1",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w01",
+        "ModelName": "__interior_tok__",
+        "Position": "13 -2 4",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w01",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -2 0",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w01",
+        "ModelName": "__interior_tok__",
+        "Position": "-9 -2 1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the bedroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w01",
+        "ModelName": "__interior_tok__",
+        "Position": "-11 -2 -1",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w01",
+        "ModelName": "__interior_tok__",
+        "Position": "-11 -2 -2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the bedroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w01",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 -2 -3",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w01",
+        "ModelName": "__interior_tok__",
+        "Position": "-10 -2 5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small cabinet in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b04",
+        "ModelName": "__interior_tok__",
+        "Position": "12 -5 5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b04",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -5 7",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Desk with cabinet in the sittingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b04",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -5 8",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -1 5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 -1 7",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small kitchen cabinets with sink"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -1 5",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-11 -1 1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet with bottom doors in the kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 -1 -2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the bedroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -1 -5",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -1 -6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the bedroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-12 -1 -7",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the bedroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 -1 -4",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-12 -1 -2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the bedroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-9 -1 -2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church1_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -5 10",
+        "LootGroup": "residential_church_general",
+        "Comment": "Tall green cabinet in the corner of the church"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church1_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "13 -5 0",
+        "LootGroup": "residential_church_general",
+        "Comment": "Church altar"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_city_stand_news1",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -1 -1",
+        "LootGroup": "town_shack_display_fridge",
+        "Comment": "Horizontal fridge unit with glass cover"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_city_stand_news1",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 -4",
+        "LootGroup": "countertop_register",
+        "Comment": "Countertop register in the news stand"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w08",
+        "ModelName": "__interior_tok__",
+        "Position": "12 -1 6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Closed cabinet in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w08",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -1 2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w08",
+        "ModelName": "__interior_tok__",
+        "Position": "1 -1 0",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w05_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "3 0 6",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small kitchen cabinets with sink"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w05_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "4 0 4",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w05_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "3 0 -1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w05_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 0 0",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w05_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 0 -1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w05_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "0 0 -1",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w11",
+        "ModelName": "__interior_tok__",
+        "Position": "1 -2 2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w11",
+        "ModelName": "__interior_tok__",
+        "Position": "3 -2 -2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w11",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -1 -9",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w11",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -2 -7",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w11",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -2 -3",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Large kitchen cabinets with sink"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w11",
+        "ModelName": "__interior_tok__",
+        "Position": "-12 -2 -1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large closed cabinet in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_chapel",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -3 0",
+        "LootGroup": "residential_church_general",
+        "Comment": "Church altar"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w12",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -2 -9",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w12",
+        "ModelName": "__interior_tok__",
+        "Position": "8 -2 -2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -3 3",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f1",
+        "ModelName": "__interior_tok__",
+        "Position": "1 -3 6",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Hemp sack in the stair hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f1",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -3 2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "White cabinet-bench in the downstairs washroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f1",
+        "ModelName": "__interior_tok__",
+        "Position": "10 -3 -5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Stack of things behind a curtain in the downstairs front hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f1",
+        "ModelName": "__interior_tok__",
+        "Position": "6 0 7",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Desk in the upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f1",
+        "ModelName": "__interior_tok__",
+        "Position": "8 0 8",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f1",
+        "ModelName": "__interior_tok__",
+        "Position": "8 0 5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Closed cabinet in the upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f1",
+        "ModelName": "__interior_tok__",
+        "Position": "9 0 -3",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f1",
+        "ModelName": "__interior_tok__",
+        "Position": "8 0 -6",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f3",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -4 -1",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Medium kitchen cabinets with sink"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f3",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -4 -6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f2",
+        "ModelName": "__interior_tok__",
+        "Position": "-13 -6 6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Stack of things behind a curtain in the downstairs front hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f2",
+        "ModelName": "__interior_tok__",
+        "Position": "8 -5 -8",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Blue lockers in the downstairs workshop room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f2",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -5 -8",
+        "LootGroup": "residential_medical_cabinet",
+        "Comment": "Medical closet in the downstairs workshop room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f2",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 11",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f2",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 -1 13",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f2",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -1 13",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Desk with cabinet in the upstairs room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-28 -4 1",
+        "LootGroup": "town_office_power_panel",
+        "Comment": "Power panel in the first floor hallway, near exit"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-24 -4 -5",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk with cabinet in a first floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -4 7",
+        "LootGroup": "town_office_general",
+        "Comment": "Cardboard boxes in the first floor center room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -4 8",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk with cabinet in the first floor center room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -4 7",
+        "LootGroup": "town_office_general",
+        "Comment": "Cardboard box on top of a desk in the first floor center room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "17 -4 2",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "27 -4 2",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "16 -4 11",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Desk with cabinet in a first floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "20 -4 11",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk with cabinet in a first floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "19 -4 14",
+        "LootGroup": "town_office_general",
+        "Comment": "Cardboard boxes in a first floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "26 -4 -3",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk with cabinet, flipped over in a first floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "30 -4 0",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk with cabinet in a first floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 -4 -1",
+        "LootGroup": "town_office_power_panel",
+        "Comment": "Power panel in the first floor hallway, near the center entrance"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -4 -5",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway, near the center entrance"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "26 -1 13",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk with cabinet in a second floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "30 -1 13",
+        "LootGroup": "town_office_general",
+        "Comment": "Cardboard boxes in a second floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -1 3",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "9 -1 12",
+        "LootGroup": "town_office_general",
+        "Comment": "Cardboard boxes in a second floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -1 10",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk with cabinet, flipped over in a second floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 12",
+        "LootGroup": "town_office_general",
+        "Comment": "Cardboard boxes in a second floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-12 -1 8",
+        "LootGroup": "town_office_general",
+        "Comment": "Cardboard boxes in a second floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-14 -1 12",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk with cabinet in a second floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-10 -1 14",
+        "LootGroup": "town_office_general",
+        "Comment": "Cardboard boxes in a second floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-9 -1 11",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk with cabinet in a second floor room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -1 2",
+        "LootGroup": "town_office_general",
+        "Comment": "Power panel in the second floor hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "-17 -1 3",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "9 0 3",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway on the third floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_office1",
+        "ModelName": "__interior_tok__",
+        "Position": "3 0 3",
+        "LootGroup": "town_office_power_panel",
+        "Comment": "Power panel in the third floor hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -4 5",
+        "LootGroup": "town_office_general",
+        "Comment": "Cardboard box in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 0 11",
+        "LootGroup": "town_office_general",
+        "Comment": "Huge pile of cabinets, cardboard boxes and dressers on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "5 0 8",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the upstairs bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "3 0 6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Closed cabinet in the upstairs bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "5 0 1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the upstairs bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04_yellow",
+        "ModelName": "__interior_tok__",
+        "Position": "13 0 13",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard box in upstairs room getting remodeled"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 -5 5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard boxes in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 0 3",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Medium kitchen cabinets with sink in the upstairs apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 0 0",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Medium kitchen cabinets in the upstairs apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "-9 0 3",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall green cabinet in the upstairs apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "-13 0 1",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the upstairs apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "-16 0 1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Dresser in the upstairs apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "-15 0 2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the upstairs apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "-17 0 7",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Cabinet with bottom doors in the upstairs apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03_brown",
+        "ModelName": "__interior_tok__",
+        "Position": "-13 0 7",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Computer desk in the upstairs apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f6",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -2 -2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the left room on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f6",
+        "ModelName": "__interior_tok__",
+        "Position": "0 1 6",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard boxes on the third floor, right side"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f6",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 1 1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard boxes on the third floor, left side"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop1",
+        "ModelName": "__interior_tok__",
+        "Position": "0 0 1",
+        "LootGroup": "industrial_master",
+        "Comment": "Big stack of cardboard boxes"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop1",
+        "ModelName": "__interior_tok__",
+        "Position": "3 0 -4",
+        "LootGroup": "industrial_master",
+        "Comment": "Stack of cardboard boxes"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_row_small",
+        "ModelName": "__interior_tok__",
+        "Position": "-11 -1 3",
+        "LootGroup": "industrial_master",
+        "Comment": "Third garage from left: Cardboard box, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_row_small",
+        "ModelName": "__interior_tok__",
+        "Position": "-11 -1 0",
+        "LootGroup": "industrial_master",
+        "Comment": "Third garage from left: Cardboard box, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_row_small",
+        "ModelName": "__interior_tok__",
+        "Position": "12 -1 3",
+        "LootGroup": "industrial_master",
+        "Comment": "First garage on left: Left cardboard box stack"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_row_small",
+        "ModelName": "__interior_tok__",
+        "Position": "12 -1 -1",
+        "LootGroup": "industrial_master",
+        "Comment": "First garage on left: Left cardboard box single"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_row_small",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -1 2",
+        "LootGroup": "industrial_master",
+        "Comment": "First garage on left: Right cardboard box"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_water_station",
+        "ModelName": "__interior_tok__",
+        "Position": "1 -1 2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard box stack"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f4",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -4 -2",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Large kitchen cabinets with sink, in right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f4",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -4 -6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the kitchen, in right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f4",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -4 -6",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Large kitchen cabinets with sink, in left apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f4",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -4 -6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the kitchen, in left apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04",
+        "ModelName": "__interior_tok__",
+        "Position": "5 0 7",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the upstairs sittingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04",
+        "ModelName": "__interior_tok__",
+        "Position": "9 0 6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Closed cabinet in the upstairs bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04",
+        "ModelName": "__interior_tok__",
+        "Position": "9 0 6",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w08",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -1 3",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w10",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 0 -4",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w10",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 0 -5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w10",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 0 -5",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w10",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 0 -3",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the livingroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f2",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -3 5",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Hemp sack in the workshop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f4",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 -6 1",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f_corner",
+        "ModelName": "__interior_tok__",
+        "Position": "-9 -5 -5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the first floor sittingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f_corner",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -5 4",
+        "LootGroup": "residential_toilet",
+        "Comment": "Toilet on the first floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f_corner",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -1 -1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Enormous stack of cardboard boxes in a room on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f_corner",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -1 -6",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Two cardboard boxes in a room on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_1f_corner",
+        "ModelName": "__interior_tok__",
+        "Position": "3 -1 6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the upstairs bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_row_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-21 -2 -2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall green cabinet at the end of the room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_city_stand_fastfood",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -1 -1",
+        "LootGroup": "town_shack_display_fridge",
+        "Comment": "Horizontal fridge unit with glass cover"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_city_stand_fastfood",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 -4",
+        "LootGroup": "countertop_register",
+        "Comment": "Countertop register in the fastfood stand"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -1 5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 7",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09",
+        "ModelName": "__interior_tok__",
+        "Position": "-10 -1 -5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the bedroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_1w09",
+        "ModelName": "__interior_tok__",
+        "Position": "-10 -1 0",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the bedroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_city_stand_grocery",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -1 -1",
+        "LootGroup": "town_shack_display_fridge",
+        "Comment": "Horizontal fridge unit with glass cover"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_city_stand_grocery",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 -4",
+        "LootGroup": "countertop_register",
+        "Comment": "Countertop register in the fastfood stand"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -9 15",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard box in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "17 -9 1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Hemp sack in the end of the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "17 -9 -2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Carboard box on top of an empty bookcase"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "-16 -9 -5",
+        "LootGroup": "residential_toilet",
+        "Comment": "Toilet in the first floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "-16 -9 -9",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Medium kitchen cabinets in the first floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "-13 -9 -10",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the first floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "-12 -9 -12",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "White cabinet-bench in the first floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -1 -8",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the third floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -1 -11",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in the third floor apartmenet livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "3 -1 -12",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Computer desk in the third floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -1 -11",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the third floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "10 -1 -10",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "TV cabinet in the third floor apartment bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "16 -1 -6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Big closed cabinet in the third floor apartment bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "15 -1 -8",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the third floor apartment bedroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "18 -1 -11",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the the third floor apartment bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner1",
+        "ModelName": "__interior_tok__",
+        "Position": "15 -1 -12",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the third floor apartment bedroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "-12 -9 4",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard boxes in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -9 -12",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in the first floor apartmenet livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 -9 -11",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the first floor apartmenet kitchen corner"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "-11 -9 -11",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "White cabinet-bench in the first floor apartment, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "-14 -9 -12",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "White cabinet-bench in the first floor apartment, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "-17 -9 -11",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small kitchen cabinets with sink in the first floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -1 -11",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Desk with cabinet in the third floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -1 -5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the third floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 -5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the third floor apartment livingroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "3 -1 -5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the third floor apartment livingroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "1 -1 -10",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Light brown leather sofa in the third floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f1",
+        "ModelName": "__interior_tok__",
+        "Position": "9 -1 -10",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the third floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "13 -1 -6",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small cabinet in the third floor apartmenet bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "16 -1 -6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the third floor apartmenet bedroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "20 -1 -6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the third floor apartmenet bedroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "18 -1 -7",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the the third floor apartment bedroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f_corner2",
+        "ModelName": "__interior_tok__",
+        "Position": "18 -1 -12",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Bedside table in the the third floor apartment bedroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f3",
+        "ModelName": "__interior_tok__",
+        "Position": "15 -6 2",
+        "LootGroup": "countertop_register",
+        "Comment": "Countertop register in the first floor shop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f3",
+        "ModelName": "__interior_tok__",
+        "Position": "17 -2 1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "interior"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f3",
+        "ModelName": "__interior_tok__",
+        "Position": "17 -2 1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the second floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f3",
+        "ModelName": "__interior_tok__",
+        "Position": "11 -2 -4",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "A large cabinet commode in the second floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f3",
+        "ModelName": "__interior_tok__",
+        "Position": "1 1 -4",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Big stack of cardboard boxes on the top floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f2",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 -7 8",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f2",
+        "ModelName": "__interior_tok__",
+        "Position": "-13 -7 -1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bar counter with sink in the first floor bar"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f2",
+        "ModelName": "__interior_tok__",
+        "Position": "-9 -7 0",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large cabinet in the first floor bar"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f2",
+        "ModelName": "__interior_tok__",
+        "Position": "13 -7 4",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard box in the first floor workshop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f2",
+        "ModelName": "__interior_tok__",
+        "Position": "9 -7 5",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Hemp sack in the first floor workshop, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f2",
+        "ModelName": "__interior_tok__",
+        "Position": "9 -7 1",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Hemp sack in the first floor workshop, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f2",
+        "ModelName": "__interior_tok__",
+        "Position": "12 -7 -3",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Blue lockers in the first floor workshop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -7 3",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f1",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -7 4",
+        "LootGroup": "residential_medical_cabinet",
+        "Comment": "Medical cabinet on the wall in the first floor workshop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f1",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -7 0",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Big row of 5 blue lockers in the first floor workshop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f1",
+        "ModelName": "__interior_tok__",
+        "Position": "9 -7 -5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard box in the first floor hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 0 5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the third floor stairwell"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 0 5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer on the third floor stairwell"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_3f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 3 5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall green cabinet in the top floor stairwell"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_hotel_damaged",
+        "ModelName": "__interior_tok__",
+        "Position": "11 -20 25",
+        "LootGroup": "soda_vendingmachine",
+        "Comment": "Soda vendingmachine in the hotel lobby (Pipsi, Spite, Cola, Kvass)"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_hotel_damaged",
+        "ModelName": "__interior_tok__",
+        "Position": "3 -20 11",
+        "LootGroup": "hotel_front_desk",
+        "Comment": "Hotelroom key cabinet, right side"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_hotel_damaged",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -20 12",
+        "LootGroup": "hotel_front_desk",
+        "Comment": "Hotelroom key cabinet, left side"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_hotel_damaged",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 -20 11",
+        "LootGroup": "hotel_front_desk",
+        "Comment": "Hotel lobby front desk"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_hotel_damaged",
+        "ModelName": "__interior_tok__",
+        "Position": "-17 -20 -3",
+        "LootGroup": "town_office_notice_board",
+        "Comment": "Notice-board in the hotel lobby"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f9",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -6 -2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the first floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f9",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 -6 -4",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in the first floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f9",
+        "ModelName": "__interior_tok__",
+        "Position": "10 -6 -1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the first floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f9",
+        "ModelName": "__interior_tok__",
+        "Position": "1 1 -1",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Large kitchen cabinets with sink in the third floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f5",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -5 7",
+        "LootGroup": "countertop_register",
+        "Comment": "Countertop register in the first floor shop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 1 9",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the third floor apartmenet kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 1 3",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "White cabinet-bench in the third floor apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 1 0",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small kitchen cabinets with sink in the third floor apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 1 -2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the third floor apartmenet livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f1",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 1 -3",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Computer desk in the third floor apartmenet livingrooom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b03",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -4 4",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the first floor hallway"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b03",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 -1 -7",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the second floor office, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b03",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -1 -10",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the second floor office, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b03",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 -10",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Desk in the second floor office"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04",
+        "ModelName": "__interior_tok__",
+        "Position": "6 0 7",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the second floor livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w04",
+        "ModelName": "__interior_tok__",
+        "Position": "9 0 5",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the corner of the second floor bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f8",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -6 3",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the first floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f8",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -6 2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the first floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f8",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -6 8",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in the first floor apartmenet livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f8",
+        "ModelName": "__interior_tok__",
+        "Position": "10 -2 2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Cardboard boxes in the hallway of the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f8",
+        "ModelName": "__interior_tok__",
+        "Position": "-16 1 0",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Large kitchen cabinets with sink in the third floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f7",
+        "ModelName": "__interior_tok__",
+        "Position": "10 -6 4",
+        "LootGroup": "countertop_register",
+        "Comment": "Countertop register in the first floor leftmost shop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f7",
+        "ModelName": "__interior_tok__",
+        "Position": "18 -6 4",
+        "LootGroup": "town_shack_display_fridge",
+        "Comment": "Horizontal fridge unit with glass cover, left in the first floor leftmost shop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f7",
+        "ModelName": "__interior_tok__",
+        "Position": "17 -6 0",
+        "LootGroup": "town_shack_display_fridge",
+        "Comment": "Horizontal fridge unit with glass cover, right in the first floor leftmost shop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f5",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -5 7",
+        "LootGroup": "countertop_register",
+        "Comment": "Countertop register in the first floor rightmost shop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f3",
+        "ModelName": "__interior_tok__",
+        "Position": "14 -6 2",
+        "LootGroup": "countertop_register",
+        "Comment": "Countertop register in the first floor shop"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f3",
+        "ModelName": "__interior_tok__",
+        "Position": "14 -6 2",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the second floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f3",
+        "ModelName": "__interior_tok__",
+        "Position": "11 -2 -3",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "A large cabinet commode in the second floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_houseblock_2f3",
+        "ModelName": "__interior_tok__",
+        "Position": "11 -2 -3",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Big stack of cardboard boxes on the top floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -6 -2",
+        "LootGroup": "residential_toilet",
+        "Comment": "Toilet in the first floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -6 10",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Medium kitchen cabinets in the first floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -6 12",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small extra kitchen cabinets in the first floor apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "19 -6 -2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in the first floor apartmenet livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -3 -6",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small kitchen cabinets with sink in the second floor apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "6 3 -2",
+        "LootGroup": "residential_toilet",
+        "Comment": "Toilet in the fourth floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "19 3 10",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the fourth floort apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "19 3 4",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large and wide cabinet in the fourth floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 6 5",
+        "LootGroup": "residential_toilet",
+        "Comment": "Toilet in the fifth floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "-17 6 5",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the fifth floort apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_small",
+        "ModelName": "__interior_tok__",
+        "Position": "1 6 -9",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Desk with cabinet in the fifth floor apartmenet livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b02",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -5 13",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall green cabinet in the corner of the left room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b02",
+        "ModelName": "__interior_tok__",
+        "Position": "-11 -5 -1",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall green cabinet along the wall of the left room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2b02",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -5 11",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall green cabinet in the corner of the right room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -5 -6",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small extra kitchen cabinets in the fifth floor right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-13 -5 -7",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the fifth floor right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-18 -5 -6",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the fifth floor right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-19 -5 -11",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Large cupboard in the fifth floor right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -5 -11",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the fifth floor right apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -5 -9",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Medium kitchen cabinets in the fifth floor right apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -5 10",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Medium kitchen cabinets in the fifth floor left apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -5 13",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small extra kitchen cabinets in the fifth floor left apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "19 -5 11",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the fifth floor left apartmenet livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "18 -5 7",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the fifth floor left apartmenet livingroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "20 -5 4",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the fifth floor left apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "18 -5 3",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the fifth floor left apartmenet livingroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -2 4",
+        "LootGroup": "residential_toilet",
+        "Comment": "Toilet in the sixth floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -2 9",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the sixth floor apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-18 -2 8",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase in the sixth floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-18 -2 -1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in the sixth floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-14 -2 0",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the sixth floor apartment livingroom, right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-14 -2 8",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the sixth floor apartment livingroom, left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "11 1 -2",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small kitchen cabinets with sink in the seventh floor apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "11 1 -10",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Medium kitchen cabinets in the seventh floor apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "17 1 -4",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Two tipped-over cabinets in the seventh floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "19 1 -10",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in the seventh floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-15 7 -6",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the ninth floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-17 7 -12",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the ninth floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "1 8 -10",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Desk with cabinet, with a bed on top of it, in the ninth floor apartment bedroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "19 11 11",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tall cabinet in the tenth floor apartment livingroom"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "7 11 10",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Medium kitchen cabinets in the tenth floor left apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "7 11 13",
+        "LootGroup": "residential_kitchen_cabinets",
+        "Comment": "Small extra kitchen cabinets in the tenth floor apartment kitchen"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 14 2",
+        "LootGroup": "residential_toilet",
+        "Comment": "Toilet in the eleventh floor right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-17 14 -1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Green sofa in the eleventh floor right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-18 14 9",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Tipped-over cabinets in the eleventh floor right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 14 9",
+        "LootGroup": "residential_kitchen_fridge",
+        "Comment": "Fridge in the eleventh floor right apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "7 14 -8",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Desk in the eleventh floor left apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "18 14 -3",
+        "LootGroup": "residential_bed_mattress",
+        "Comment": "Bed with colorful plaid sheets in the eleventh floor left apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "20 14 -6",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Small table with drawer in the eleventh floor left apartment"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_tenement_big",
+        "ModelName": "__interior_tok__",
+        "Position": "2 21 7",
+        "LootGroup": "residential_power_utility",
+        "Comment": "Elevator wire lift mechanism"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_silobig1a",
+        "ModelName": "__interior_tok__",
+        "Position": "-7 -4 0",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "1st Floor pallet bundle on left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_silobig1a",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -4 13",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "1st Floor pallet bundle on right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_silobig1a",
+        "ModelName": "__interior_tok__",
+        "Position": "-10 12 4",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "2nd Floor pallet bundle in corridor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_silobig1a",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 12 -4",
+        "LootGroup": "industrial_master",
+        "Comment": "2nd Floor lockers in room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_silobig1a",
+        "ModelName": "__interior_tok__",
+        "Position": "-13 22 10",
+        "LootGroup": "industrial_master",
+        "Comment": "Top floor cardboard box on left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_hall1",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -5 -41",
+        "LootGroup": "industrial_master",
+        "Comment": "Ground floor back room wooden box"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_hall1",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 0 -42",
+        "LootGroup": "industrial_master",
+        "Comment": "2nd floor wooden box right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_hall1",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 0 -40",
+        "LootGroup": "industrial_master",
+        "Comment": "2nd floor wooden box left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_hall1",
+        "ModelName": "__interior_tok__",
+        "Position": "7 0 -39",
+        "LootGroup": "industrial_master",
+        "Comment": "2nd floor wooden box in cage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_rotfurnace",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 -23 -4",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Ground floor pallets"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_rotfurnace",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -23 20",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Ground floor pallets 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_rotfurnace",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -4 -27",
+        "LootGroup": "industrial_electronic",
+        "Comment": "2nd floor workbench"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_rotfurnace",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 0 -24",
+        "LootGroup": "industrial_electronic",
+        "Comment": "3rd floor control panel"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_cementworks_rotfurnace",
+        "ModelName": "__interior_tok__",
+        "Position": "5 0 -19",
+        "LootGroup": "industrial_electronic",
+        "Comment": "3rd floor workbench"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_office",
+        "ModelName": "__interior_tok__",
+        "Position": "3 -2 14",
+        "LootGroup": "residential_toilet",
+        "Comment": "Box in toilet on the first floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_office",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 0 7",
+        "LootGroup": "town_office_general",
+        "Comment": "First desk on the right on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_office",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 0 1",
+        "LootGroup": "town_office_general",
+        "Comment": "Second desk on the right on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_office",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 0 -2",
+        "LootGroup": "town_office_general",
+        "Comment": "Boxes on the right on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_office",
+        "ModelName": "__interior_tok__",
+        "Position": "4 0 1",
+        "LootGroup": "town_office_general",
+        "Comment": "Desk on the left on the second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_barn_brick1",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 -4 13",
+        "LootGroup": "industrial_master",
+        "Comment": "First floor boxes 3x"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_barn_brick1",
+        "ModelName": "__interior_tok__",
+        "Position": "1 -4 13",
+        "LootGroup": "industrial_master",
+        "Comment": "First floor boxes 6x 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_barn_brick1",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -4 13",
+        "LootGroup": "industrial_master",
+        "Comment": "First floor boxes 6x 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_barn_brick1",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -4 -16",
+        "LootGroup": "industrial_master",
+        "Comment": "First floor boxes 8x 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_barn_brick1",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -4 -20",
+        "LootGroup": "industrial_master",
+        "Comment": "First floor boxes 8x 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_barn_brick1",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -4 -2",
+        "LootGroup": "industrial_master",
+        "Comment": "First floor stacked boxes middle"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_barn_brick1",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -4 -2",
+        "LootGroup": "industrial_master",
+        "Comment": "First floor stacked boxes start"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_barn_brick1",
+        "ModelName": "__interior_tok__",
+        "Position": "4 0 -11",
+        "LootGroup": "industrial_master",
+        "Comment": "Second floor boxes x3 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_barn_brick1",
+        "ModelName": "__interior_tok__",
+        "Position": "8 0 -14",
+        "LootGroup": "industrial_master",
+        "Comment": "Second floor boxes x3 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house2",
+        "ModelName": "__interior_tok__",
+        "Position": "-9 -2 -2",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Brick pile ground floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house2",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -2 0",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Pipe pile ground floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house2",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -2 7",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Covered tile stack ground floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house2",
+        "ModelName": "__interior_tok__",
+        "Position": "8 1 7",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Brick pile second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house2",
+        "ModelName": "__interior_tok__",
+        "Position": "-10 1 5",
+        "LootGroup": "industrial_woodworking",
+        "Comment": "Saw horse second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house2",
+        "ModelName": "__interior_tok__",
+        "Position": "-11 1 -1",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Pallet pile second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -1 0",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Pipe pile ground floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "-4 -1 0",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Brick pile ground floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -1 8",
+        "LootGroup": "industrial_woodworking",
+        "Comment": "Saw horse ground floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 2 0",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Pallet pile second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "5 2 -4",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Brick pile second floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "6 2 -2",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Covered tile stack ground floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-34 -6 -32",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Ground floor stairwell pipe bundle"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-32 -6 -31",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Ground floor stairwell tile stack"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-41 -5 -6",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Ground floor room tile stack"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-39 -5 3",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Ground floor back room tile stack"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-16 -5 -2",
+        "LootGroup": "industrial_woodworking",
+        "Comment": "Ground floor middle room saw horse"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -5 0",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Ground floor middle room pipe stack"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 -5 0",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Ground floor middle room tile stack 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 -5 -1",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Ground floor middle room tile stack 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "20 -5 2",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Ground floor middle room pipe stack"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-10 -2 -28",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Second floor outside pipe stack 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "31 -2 -27",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Second floor outside pipe stack 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-39 -2 -11",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Second floor inside room left pallet stack 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-44 -2 8",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Second floor inside room left pallet stack 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-8 -2 19",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Second floor inside back room tile stack"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "3 -2 17",
+        "LootGroup": "industrial_woodworking",
+        "Comment": "Second floor inside back room saw horse"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "6 -2 16",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Second floor inside back room pipe stack 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "12 -2 17",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Second floor inside back room pallet stack 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "37 -2 0",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Second floor inside back room pallet stack 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "33 -2 -12",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Second floor inside back room pallet stack 3"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -2 -18",
+        "LootGroup": "industrial_woodworking",
+        "Comment": "Second floor inside back room saw horse 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-9 2 -18",
+        "LootGroup": "industrial_woodworking",
+        "Comment": "Third floor inside back room saw horse 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "3 2 11",
+        "LootGroup": "industrial_woodworking",
+        "Comment": "Third floor inside back room saw horse 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "36 2 -1",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Third floor inside back room tile stack 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 2 22",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Third floor inside back room tile stack 2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "8 2 18",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Third floor inside back room pipe bundle 1"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 5 -7",
+        "LootGroup": "industrial_bundle_pipes",
+        "Comment": "Top floor pipe bundle"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_construction_building",
+        "ModelName": "__interior_tok__",
+        "Position": "19 5 -17",
+        "LootGroup": "industrial_bundle_planks",
+        "Comment": "Top floor pallet bundle"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_slum_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "1 0 0",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Box left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_slum_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "3 0 -1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Box middle"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_slum_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "4 0 -2",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Box right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_slum_house1",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 0 -1",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Workshop table"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_slum_house6",
+        "ModelName": "__interior_tok__",
+        "Position": "0 0 1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Boxes middle"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_slum_house6",
+        "ModelName": "__interior_tok__",
+        "Position": "1 0 1",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Box on table"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_slum_house3",
+        "ModelName": "__interior_tok__",
+        "Position": "2 0 3",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Box on top of shelf"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_slum_house3",
+        "ModelName": "__interior_tok__",
+        "Position": "3 0 4",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Table with Drill"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_slum_house3",
+        "ModelName": "__interior_tok__",
+        "Position": "1 0 5",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Boxes on the floor"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop3",
+        "ModelName": "__interior_tok__",
+        "Position": "0 0 -4",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Table with drawer left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop3",
+        "ModelName": "__interior_tok__",
+        "Position": "1 0 -7",
+        "LootGroup": "residential_cabinets_small",
+        "Comment": "Table with drawer right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop3",
+        "ModelName": "__interior_tok__",
+        "Position": "1 0 0",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Burlap bags"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop3",
+        "ModelName": "__interior_tok__",
+        "Position": "0 0 -8",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Box on table"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop3",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 0 -6",
+        "LootGroup": "residential_electrical_appliance",
+        "Comment": "TV furniture unit"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop3",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 0 -7",
+        "LootGroup": "residential_electrical_appliance",
+        "Comment": "TV"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop3",
+        "ModelName": "__interior_tok__",
+        "Position": "-1 0 -1",
+        "LootGroup": "residential_battery_appliance",
+        "Comment": "Small radio"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_workshop3",
+        "ModelName": "__interior_tok__",
+        "Position": "1 0 9",
+        "LootGroup": "residential_garage_tools",
+        "Comment": "Boxes in corner behind shelf"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_village_store_enoch",
+        "ModelName": "__interior_tok__",
+        "Position": "2 -1 4",
+        "LootGroup": "countertop_register",
+        "Comment": "Cash register"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_village_store_enoch",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -1 4",
+        "LootGroup": "countertop_register",
+        "Comment": "Scales on counter"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_village_store_enoch",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -1 10",
+        "LootGroup": "village_general_store",
+        "Comment": "Burlap bag right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_village_store_enoch",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -1 11",
+        "LootGroup": "village_general_store",
+        "Comment": "Burlap bag left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_village_store_enoch",
+        "ModelName": "__interior_tok__",
+        "Position": "-5 -2 10",
+        "LootGroup": "village_general_store",
+        "Comment": "Green cupboard"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church2_2",
+        "ModelName": "__interior_tok__",
+        "Position": "9 -11 -10",
+        "LootGroup": "residential_cemetery",
+        "Comment": "Big tomb grave"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church2_2",
+        "ModelName": "__interior_tok__",
+        "Position": "15 -10 -2",
+        "LootGroup": "residential_church_general",
+        "Comment": "Small sermon desk right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church2_2",
+        "ModelName": "__interior_tok__",
+        "Position": "14 -10 2",
+        "LootGroup": "residential_church_general",
+        "Comment": "Small sermon desk middle"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church2_2",
+        "ModelName": "__interior_tok__",
+        "Position": "15 -10 7",
+        "LootGroup": "residential_church_general",
+        "Comment": "Small sermon desk left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church3",
+        "ModelName": "__interior_tok__",
+        "Position": "4 -13 -11",
+        "LootGroup": "residential_cemetery",
+        "Comment": "Big tomb grave right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church3",
+        "ModelName": "__interior_tok__",
+        "Position": "5 -13 12",
+        "LootGroup": "residential_cemetery",
+        "Comment": "Big tomb grave left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church3",
+        "ModelName": "__interior_tok__",
+        "Position": "17 -13 -4",
+        "LootGroup": "residential_church_general",
+        "Comment": "Small sermon desk right"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church3",
+        "ModelName": "__interior_tok__",
+        "Position": "17 -13 0",
+        "LootGroup": "residential_church_general",
+        "Comment": "Small sermon desk middle"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_church3",
+        "ModelName": "__interior_tok__",
+        "Position": "17 -13 5",
+        "LootGroup": "residential_church_general",
+        "Comment": "Small sermon desk left"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_mil_guardhouse1",
+        "ModelName": "__interior_tok__",
+        "Position": "-2 -1 -4",
+        "LootGroup": "military_guardhouse_desk",
+        "Comment": "Computer desk in the right room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_mil_guardhouse1",
+        "ModelName": "__interior_tok__",
+        "Position": "3 -1 -3",
+        "LootGroup": "military_guardhouse",
+        "Comment": "Desk with cabinet in the middle of the right room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_mil_guardhouse1",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -1 -6",
+        "LootGroup": "military_guardhouse",
+        "Comment": "Desk with cabinet at the far end in the right room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_mil_guardhouse1",
+        "ModelName": "__interior_tok__",
+        "Position": "8 -1 -2",
+        "LootGroup": "military_guardhouse",
+        "Comment": "Bookcase in the far end of the right room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_mil_guardhouse1",
+        "ModelName": "__interior_tok__",
+        "Position": "7 -1 6",
+        "LootGroup": "military_guardhouse",
+        "Comment": "Big row of 5 blue lockers in the main room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_mil_guardhouse1",
+        "ModelName": "__interior_tok__",
+        "Position": "0 -1 6",
+        "LootGroup": "residential_toilet",
+        "Comment": "Toilet stalls"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "1801203",
+        "ModelName": "rubble_dirtpile_large",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_rubble_stone",
+        "Comment": "Medium sized pile of rubble and dirt, found in construction yard site"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_power_station",
+        "ModelName": "__interior_tok__",
+        "Position": "-6 -1 0",
+        "LootGroup": "industrial_master",
+        "Comment": "Grey lockers in the middle room"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "ExpansionPropShelf3",
+        "ModelName": "shelf3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools_and_modparts",
+        "Comment": "Tipped-over cabinet in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "ExpansionIndustrialProp_Hose",
+        "ModelName": "hose",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools",
+        "Comment": "Crate with hose in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "ExpansionIndustrialProp_CartonBox2",
+        "ModelName": "cartonbox02",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools",
+        "Comment": "Cardboard-box in the back of a garage in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_garage_row_small",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 -1 -8",
+        "LootGroup": "vehicle_tools_and_modparts",
+        "Comment": "Blue locker at the back of a garage in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Misc_WoodenCrate",
+        "ModelName": "misc_woodencrate",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools_and_modparts",
+        "Comment": "Wooden crate in a garage in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Misc_WoodenCrate_3x",
+        "ModelName": "misc_woodencrate_3x",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools_and_modparts",
+        "Comment": "Wooden crates in a garage in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Furniture_locker_closed_v3",
+        "ModelName": "locker_closed_v3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools",
+        "Comment": "White locker at the back of a garage in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "ExpansionPropWorkbench",
+        "ModelName": "workbench",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools_and_modparts",
+        "Comment": "White cabinet bench in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Furniture_locker_open_blue_v3",
+        "ModelName": "locker_open_blue_v3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_master",
+        "Comment": "Blue locker at the back of a garage in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Furniture_case_a",
+        "ModelName": "case_a",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools_and_modparts",
+        "Comment": "Brown cabinet in a garage in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "bldr_locker_closed_blue_v1",
+        "ModelName": "locker_closed_blue_v1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools_and_modparts",
+        "Comment": "Blue locker at the back of a garage in modded version of Land_Garage_Row_Small"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_ToolTrolley_02_F",
+        "ModelName": "tooltrolley_02_f",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools",
+        "Comment": "Land_Workshop2"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_PalletTrolley_01_yellow_F",
+        "ModelName": "pallettrolley_01_yellow_f",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools_and_modparts",
+        "Comment": "Land_Workshop4"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Misc_WoodenCrate_5x",
+        "ModelName": "misc_woodencrate_5x",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_master",
+        "Comment": "Land_Workshop4"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "ExpansionPropToolShelf",
+        "ModelName": "toolshelf",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools",
+        "Comment": "Land_Workshop4"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "ExpansionPropToolChest",
+        "ModelName": "toolchest",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools",
+        "Comment": "Land_Workshop5v"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Furniture_FuseBox",
+        "ModelName": "fusebox",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_electronic",
+        "Comment": "Land_Workshop5"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Furniture_bag_DZ",
+        "ModelName": "bag_dz",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools_and_modparts",
+        "Comment": "Land_Workshop5"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "ExpansionPropShelf6",
+        "ModelName": "shelf6",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "vehicle_tools",
+        "Comment": "Land_Workshop5"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "1664270",
+        "ModelName": "misc_boxwooden",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "industrial_master",
+        "Comment": ""
+    }
+]
