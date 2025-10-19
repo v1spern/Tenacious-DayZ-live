@@ -5271,7 +5271,7 @@
 				{ "type_range": ["AMS_MedChest_Green","AMS_MedChest_Red","mmg_army_box_medic","mmg_army_box_medic_grey","Msp_MedCase","Msp_MedicalBox_Kit"], "weight": 14, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_patch_fabric_medic","MMG_patch_rubber_medic"], "weight": 14, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["CanvasBag_Medical","DuffelBagSmall_Medical","HipPack_Medical"], "weight": 14, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type": ["MMG_Med_Pouch_Olive","MMG_Med_Pouch_atacs","MMG_Med_Pouch_black","MMG_Med_Pouch_dark_woodland"], "weight": 12, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_Med_Pouch_Olive","MMG_Med_Pouch_atacs","MMG_Med_Pouch_black","MMG_Med_Pouch_dark_woodland"], "weight": 12, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				
 				{ "type": "AMS_GasMaskGP21", "weight": 4, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "AMS_GasMaskGP21_Filter", "weight": 6, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
