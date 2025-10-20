@@ -2402,6 +2402,22 @@
         <value name="Tier3"/>
     </type>
 <!-- STUB Cases/Containers -->
+    <type name="Mass_LunchBox">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
     <type name="Mass_PistolCase">
         <nominal>5</nominal>
         <min>5</min>
@@ -2493,6 +2509,21 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
 <!-- STUB Medkit pouches -->
+    <type name="Mass_BandageDressingWrapper"><!-- Custom bandage wrapping -->
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
 	<type name="Mass_IFAK_TAN"> <!-- Medkit pouch -->
         <nominal>0</nominal>
         <lifetime>21600</lifetime>
@@ -2567,6 +2598,35 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
 		<usage name="Military"/>
+    </type>
+<!-- STUB Flags -->
+    <type name="Mass_Flag_GhostRiders">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="Mass_Flag_NSB">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
 <!-- ANCHOR Mass'sManyItemsOverhaul Mod End -->
 </types>
