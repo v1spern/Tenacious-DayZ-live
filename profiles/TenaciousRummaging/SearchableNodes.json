@@ -4297,7 +4297,7 @@
         "ClassName": "land_airfield_servicehangar_l",
         "ModelName": "__interior_tok__",
         "Position": "-13 0 -7",
-        "LootGroup": "genmilitary_office_deskseral",
+        "LootGroup": "military_office_desks",
         "Comment": "Main hangar office - desk",
         "PromptText": ""
     },
@@ -8347,7 +8347,7 @@
         "ClassName": "land_mil_tent_big1_1",
         "ModelName": "__interior_tok__",
         "Position": "-1 0 -3",
-        "LootGroup": "genmilitary_cardboard_boxeseral",
+        "LootGroup": "military_cardboard_boxes",
         "Comment": "Military tent 1_1 - Cardboard box on first left",
         "PromptText": "Rummage in the cardboard box"
     },
@@ -8374,7 +8374,7 @@
         "ClassName": "land_mil_tent_big1_1",
         "ModelName": "__interior_tok__",
         "Position": "-3 0 4",
-        "LootGroup": "genermilitary_cardboard_boxesal",
+        "LootGroup": "military_cardboard_boxes",
         "Comment": "Military tent 1_1 - Cardboard box on second left",
         "PromptText": "Rummage in the cardboard box"
     },
@@ -17824,7 +17824,7 @@
         "ClassName": "land_house_1w13_dam",
         "ModelName": "__interior_tok__",
         "Position": "4 -1 1",
-        "LootGroup": "geresidential_cabinets_smalleral",
+        "LootGroup": "residential_cabinets_small",
         "Comment": "Damaged overgrown house - half cabinet",
         "PromptText": ""
     },
