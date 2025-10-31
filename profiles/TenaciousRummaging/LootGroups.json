@@ -22,6 +22,7 @@
 	    	"chance": 0.20,
 	    	"minItems": 1,
 	    	"maxItems": 2,
+			"promptText": "Rummage in the trash",
 	    	"cooldownMessage": [
 	    	  	"Bags freshly torn, this trash has already been picked through.",
 	  			"Coffee grounds on top; someone searched here not long ago.",
@@ -70,6 +71,7 @@
 	    	"chance": 0.20,
 	    	"minItems": 1,
 	    	"maxItems": 3,
+			"promptText": "Rummage in this cabinet",
 	    	"cooldownMessage": [
 	    	  	"The cabinet stands empty, only a backpack strap left behind.",
 	    	  	"Fresh footprints and dust swipes - whoever came here already grabbed any goods.",
@@ -157,6 +159,7 @@
 	    	"chance": 0.20,
 	    	"minItems": 1,
 	    	"maxItems": 3,
+			"promptText": "Rummage in the small cabinet",
 	    	"cooldownMessage": [
 	    	  	"A bedside drawer sits ajar; only lint, receipts, and loose screws left behind.",
 	    	  	"Ring-shaped dust on the tabletop; something has been taken from here already.",
@@ -221,6 +224,7 @@
 	    	"chance": 0.20,
 	    	"minItems": 1,
 	    	"maxItems": 3,
+			"promptText": "Rummage in the mailbox",
 	    	"cooldownMessage": [
 	    	  	"The mailbox yawns empty - only dust rings where envelopes once sat.",
 	    	  	"Fresh scrape marks inside; someone already grabbed the mail not long ago.",
@@ -239,6 +243,7 @@
 	    	"chance": 0.20,
 	    	"minItems": 1,
 	    	"maxItems": 3,
+			"promptText": "Rummage in the kitchen cabinet",
 	    	"cooldownMessage": [
 	    	  	"Cupboard doors swing loose - fresh dust swipes show someone already combed these shelves.",
 	    	  	"Sticky rings on the wood and a missing opener; whoever came took the good stuff.",
@@ -285,6 +290,7 @@
 	    	"chance": 0.20,
 	    	"minItems": 1,
 	    	"maxItems": 2,
+			"promptText": "Rummage under the bed",
 	    	"cooldownMessage": [
 	    	  	"The mattress is skewed and the slats are dusty - someone already checked this hideaway.",
 	    	  	"You feel the telltale gap under the foam, but whatever was there is gone.",
@@ -337,6 +343,7 @@
 			"chance": 0.20,
 			"minItems": 1,
 			"maxItems": 2,
+			"promptText": "Rummage for medical supplies",
   			"cooldownMessage": [
   				"The medicine cabinet still swings; bandage wrappers and empty pill blisters remain.",
         		"Fresh fingerprints on the shelves - antiseptic, gauze, and painkillers cleaned out already.",
@@ -368,6 +375,7 @@
 			"chance": 0.20,
 			"minItems": 1,
 			"maxItems": 2,
+			"promptText": "Rummage in the fridge",
   			"cooldownMessage": [
   				"Fridge light still glows; sticky fingerprints and crumbs say scavengers beat you.",
         		"Cold air spills out; only wilted lettuce and greasy containers remain behind.",
@@ -395,6 +403,7 @@
       		"chance": 0.20,
       		"minItems": 1,
      		"maxItems": 1,
+			"promptText": "Rummage for tools",
         	"cooldownMessage": [
         	  	"Fresh scuff marks on the bench; someone grabbed the good tools.",
         	  	"Open drawers and missing sockets - this place's treasures were hauled off.",
@@ -435,6 +444,7 @@
       		"chance": 0.20,
       		"minItems": 1,
      		"maxItems": 1,
+			"promptText": "Rummage in this utility closet",
         	"cooldownMessage": [
         	  	"Breaker panel hangs open; fresh wire clippings and missing fuses say raided.",
         	  	"Utility closet reeks of ozone; extension cords gone, cardboard boxes empty.",
@@ -458,6 +468,7 @@
       		"chance": 0.20,
       		"minItems": 1,
       		"maxItems": 1,
+			"promptText": "Rummage around the porcelain throne",
         	"cooldownMessage": [
         		"Looks like someone flushed out all the valuables; there's nothing left.",
         		"Someone were here just now, but the question is if they found anything..",
@@ -1927,6 +1938,7 @@
       		"chance": 0.20,
       		"minItems": 1,
       		"maxItems": 1,
+			"promptText": "Rummage in the birdcages",
       		"cooldownMessage": [
   			  	"Loose feathers still on the breeze; someone searched here moments ago.",
   			  	"Feed scattered and doors ajar - these hutches were recently checked.",
@@ -1962,6 +1974,7 @@
 			"chance": 0.20,
 			"minItems": 1,
 			"maxItems": 1,
+			"promptText": "Rummage in the doghouse",
 			"cooldownMessage": [
   			  	"Straw is freshly pushed aside, this kennel was recently picked over.",
   			  	"Bowl tipped and collar tags missing, this has already been searched.",
@@ -2054,6 +2067,7 @@
 			"chance": 0.20,
 			"minItems": 1,
 			"maxItems": 1,
+			"promptText": "Rummage for fishing gear",
   			"cooldownMessage": [
   			  	"Wet footprints and tangled line; the tackle is gone.",
   			  	"Hooks missing and bait tins open, this was already picked clean.",
@@ -2091,6 +2105,7 @@
 			"chance": 0.20,
 			"minItems": 1,
 			"maxItems": 1,
+			"promptText": "Rummage around the scarecrow",
   			"cooldownMessage": [
   			  	"Straw scattered and prints in the mud, someone already checked the scarecrow.",
   			  	"Twine cut and pockets empty, crows cawing at nothing left to take."
@@ -2111,6 +2126,7 @@
 			"chance": 0.20,
 			"minItems": 1,
 			"maxItems": 1,
+			"promptText": "Rummage around this grave",
   			"cooldownMessage": [
         		"Fresh soil and scuffed stone - someone searched this grave already.",
         		"Wilted flowers and boot prints - whatever was left is now gone.",
@@ -2139,6 +2155,7 @@
 			"chance": 0.20,
 			"minItems": 1,
 			"maxItems": 1,
+			"promptText": "Rummage for churchly items",
   			"cooldownMessage": [
   			  	"Polished cloth disturbed, matches missing; a scavenger beat you to it.",
   			  	"Someone recently disturbed this holy place, leaving nothing but scraps.",
@@ -2162,6 +2179,7 @@
 			"chance": 0.20,
 			"minItems": 1,
 			"maxItems": 1,
+			"promptText": "Rummage in this appliance",
   			"cooldownMessage": [
   			  	"Someone already took any useful parts off this, leaving nothing for you."
   			],
@@ -2175,6 +2193,7 @@
 			"chance": 0.20,
 			"minItems": 1,
 			"maxItems": 2,
+			"promptText": "Rummage in this device",
   			"cooldownMessage": [
   			  	"Someone already took any useful parts off of this, leaving nothing for you."
   			],

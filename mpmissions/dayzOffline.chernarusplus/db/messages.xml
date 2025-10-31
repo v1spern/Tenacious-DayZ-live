@@ -46,11 +46,11 @@ Example messages:
 
     <message>
         <repeat>45</repeat>
-        <text>(#name), you're playing on Frostfall Gaming's Tenacious DayZ Chernarus server. Thank you! For questions, join discord.gg/eUEWSytc</text>
+        <text>(#name), you're playing on the Tenacious DayZ Chernarus server. Thank you! For questions, join discord.gg/WaCXkWSrwe</text>
     </message>
     <message>
         <repeat>60</repeat>
-        <text>To report cheaters you need video proof and timestamp! No video = no action. Report at discord.gg/eUEWSytc</text>
+        <text>To report cheaters you need video proof and timestamp! No video = no action. Report at discord.gg/WaCXkWSrwe</text>
     </message>
 
 </messages>

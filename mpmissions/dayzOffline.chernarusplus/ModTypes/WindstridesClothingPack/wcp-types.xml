@@ -727,10 +727,10 @@
         <usage name="Village"/>
     </type>
     <type name="Winter_Parka_Base">
-        <nominal>5</nominal>
+        <nominal>6</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -741,10 +741,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Winter_Parka_White">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -755,7 +755,7 @@
         <value name="Tier2"/>
     </type>
     <type name="Winter_Parka_Green">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>1</min>
