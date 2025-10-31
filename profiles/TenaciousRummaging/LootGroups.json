@@ -110,7 +110,7 @@
 	      		{ "type_range": ["JoggingShoes_Black","JoggingShoes_Blue","JoggingShoes_Red","JoggingShoes_Violet","JoggingShoes_White"], "weight": 56, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 	      		{ "type_range": ["HikingBoots_Black","HikingBoots_Brown","Uncuepa_HikingBoots_white","HikingBootsLow_Beige","HikingBootsLow_Black","HikingBootsLow_Blue","HikingBootsLow_Grey"], "weight": 56, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 
-	      		{ "type_range": ["CivilianBelt","LeatherBelt_Beige","LeatherBelt_Black","LeatherBelt_Brown","LeatherBelt_Natural"], "weight": 40, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type_range": ["CivilianBelt","Uncuepa_CivilianBelt_Blue","Uncuepa_CivilianBelt_Grey","Uncuepa_CivilianBelt_Red","Uncuepa_CivilianBelt_Brown","HipPack_Black","HipPack_Green","HipPack_Party"], "weight": 40, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 
 	      		{ "type_range": ["ThinFramesGlasses","Round_Glasses","Round_Glasses_Black","SportGlasses_Black","SportGlasses_Blue","SportGlasses_Green","SportGlasses_Orange"], "weight": 32, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 
@@ -181,7 +181,7 @@
 	      		{ "type_range": ["TShirt_Beige","TShirt_Black","TShirt_Blue","TShirt_Green","TShirt_Grey","TShirt_OrangeWhiteStripes","TShirt_Red","TShirt_RedBlackStripes","TShirt_White"], "weight": 92, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 	      		{ "type_range": ["TrackSuitJacket_Black","TrackSuitJacket_Blue","TrackSuitJacket_Green","TrackSuitJacket_LightBlue","TrackSuitJacket_Red"], "weight": 44, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 
-	      		{ "type_range": ["CivilianBelt","LeatherBelt_Beige","LeatherBelt_Black","LeatherBelt_Brown","LeatherBelt_Natural"], "weight": 40, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type_range": ["CivilianBelt","CivilianBelt","Uncuepa_CivilianBelt_Blue","Uncuepa_CivilianBelt_Grey","Uncuepa_CivilianBelt_Red","Uncuepa_CivilianBelt_Brown","HipPack_Black","HipPack_Green","HipPack_Party"], "weight": 40, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 
 	      		{ "type_range": ["ThinFramesGlasses","Round_Glasses","Round_Glasses_Black","SportGlasses_Black","SportGlasses_Blue","SportGlasses_Green","SportGlasses_Orange"], "weight": 32, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 
@@ -2327,7 +2327,7 @@
     		  	{ "type_range": ["Battery9V","DuctTape","WeaponCleaningKit","PistolSuppressor","CombatKnife","Handcuffs","HandcuffKeys","Compass","Roadflare"], "weight": 8, "MinHealth": 0.35, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
     		  	{ "type_range": ["Chemlight_Blue","Chemlight_Green","Chemlight_Red","Chemlight_White","Chemlight_Yellow"], "weight": 8, "MinHealth": 0.60, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
 				
-    		  	{ "type_range": ["MilitaryBelt","Uncuepa_CivilianBelt_Brown","LeatherBelt_Black"], "weight": 4, "MinHealth": 0.35, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+    		  	{ "type_range": ["MilitaryBelt","CivilianBelt","Uncuepa_CivilianBelt_Blue","Uncuepa_CivilianBelt_Grey","Uncuepa_CivilianBelt_Red","Uncuepa_CivilianBelt_Brown","HipPack_Black","HipPack_Green","HipPack_Party"], "weight": 4, "MinHealth": 0.35, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				
     		  	{ "type_range": ["MMG_combatshirt_police","Sweater_Blue","Sweater_Gray","Sweater_Green","Sweater_Red"], "weight": 16, "MinHealth": 0.50, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
     		  	{ "type_range": ["MMG_combatpants_police","Jeans_Black","Jeans_Blue","Jeans_BlueDark","Jeans_Brown","Jeans_Green","Jeans_Grey"], "weight": 16, "MinHealth": 0.50, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 }
@@ -2359,7 +2359,7 @@
       			{ "type_range": ["Battery9V","DuctTape","WeaponCleaningKit","PistolSuppressor","CombatKnife","Handcuffs","HandcuffKeys","Compass","Roadflare"], "weight": 8, "MinHealth": 0.35, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
       			{ "type_range": ["Chemlight_Blue","Chemlight_Green","Chemlight_Red","Chemlight_White","Chemlight_Yellow"], "weight": 8, "MinHealth": 0.60, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
 
-      			{ "type_range": ["MilitaryBelt","Uncuepa_CivilianBelt_Brown","LeatherBelt_Black"], "weight": 4, "MinHealth": 0.35, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+      			{ "type_range": ["MilitaryBelt","CivilianBelt","Uncuepa_CivilianBelt_Blue","Uncuepa_CivilianBelt_Grey","Uncuepa_CivilianBelt_Red","Uncuepa_CivilianBelt_Brown","HipPack_Black","HipPack_Green","HipPack_Party"], "weight": 4, "MinHealth": 0.35, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
       			{ "type_range": ["MMG_combatshirt_police","Sweater_Blue","Sweater_Gray","Sweater_Green","Sweater_Red"], "weight": 16, "MinHealth": 0.50, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
       			{ "type_range": ["MMG_combatpants_police","Jeans_Black","Jeans_Blue","Jeans_BlueDark","Jeans_Brown","Jeans_Green","Jeans_Grey"], "weight": 16, "MinHealth": 0.50, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 }
@@ -4155,7 +4155,7 @@
 				{ "type": "NVGoggles", "weight": 3, "MinHealth": 0.40, "MaxHealth": 0.80, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": [ "Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type": "NVGHeadstrap", "weight": 3, "MinHealth": 0.40, "MaxHealth": 0.80, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": [ "NVGoggles"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type_range": ["TacticalBaconCan","Chips","Crackers"], "weight": 6, "MinHealth": 0.50, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["CivilianBelt","LeatherBelt_Black","LeatherBelt_Brown","LeatherBelt_Natural","Uncuepa_CivilianBelt_Blue","Uncuepa_CivilianBelt_Grey","Uncuepa_CivilianBelt_Red","Uncuepa_CivilianBelt_Brown","HipPack_Black","HipPack_Green","HipPack_Party"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["CivilianBelt","Uncuepa_CivilianBelt_Blue","Uncuepa_CivilianBelt_Grey","Uncuepa_CivilianBelt_Red","Uncuepa_CivilianBelt_Brown","HipPack_Black","HipPack_Green","HipPack_Party"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "MassScope", "weight": 5, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 
@@ -4299,7 +4299,7 @@
 				{ "type_range": ["Jeans_Black","Jeans_Blue","Jeans_BlueDark","Jeans_Brown","Jeans_Green","Jeans_Grey"], "weight": 16, "MinHealth": 0.40, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["OMNOGloves_Brown","OMNOGloves_Gray","PaddedGloves_Beige","PaddedGloves_Brown","PaddedGloves_Threat"], "weight": 14, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Raincoat_Black","Raincoat_Blue","Raincoat_Green","Raincoat_Orange","Raincoat_Pink","Raincoat_Red","Raincoat_Yellow"], "weight": 12, "MinHealth": 0.40, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["CivilianBelt","LeatherBelt_Black","LeatherBelt_Brown","LeatherBelt_Natural","Uncuepa_CivilianBelt_Blue","Uncuepa_CivilianBelt_Grey","Uncuepa_CivilianBelt_Red","Uncuepa_CivilianBelt_Brown","HipPack_Black","HipPack_Green","HipPack_Party"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["CivilianBelt","Uncuepa_CivilianBelt_Blue","Uncuepa_CivilianBelt_Grey","Uncuepa_CivilianBelt_Red","Uncuepa_CivilianBelt_Brown","HipPack_Black","HipPack_Green","HipPack_Party"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Headtorch_Black","Headtorch_Grey","Flashlight"], "weight": 8, "MinHealth": 0.55, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": [ "Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type": "LabCoat", "weight": 6, "MinHealth": 0.45, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "ReflexVest", "weight": 6, "MinHealth": 0.45, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },

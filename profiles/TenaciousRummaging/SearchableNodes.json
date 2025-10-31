@@ -17497,6 +17497,24 @@
     },
     {
         "IsClassWide": 1,
+        "ClassName": "land_house_2w03",
+        "ModelName": "__interior_tok__",
+        "Position": "-3 0 0",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "Bookcase on the left in the upstairs apartment",
+        "PromptText": ""
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "land_house_2w03",
+        "ModelName": "__interior_tok__",
+        "Position": "-15 0 0",
+        "LootGroup": "residential_cabinets_general",
+        "Comment": "interior",
+        "PromptText": "Bookcase on the right in the upstairs apartment"
+    },
+    {
+        "IsClassWide": 1,
         "ClassName": "land_house_2w03_brown",
         "ModelName": "__interior_tok__",
         "Position": "-3 -5 5",
