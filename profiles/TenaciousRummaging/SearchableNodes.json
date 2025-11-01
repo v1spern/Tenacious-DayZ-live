@@ -17203,7 +17203,7 @@
         "ClassName": "land_house_1w12_brown",
         "ModelName": "__interior_tok__",
         "Position": "11 -2 -2",
-        "LootGroup": "residential_kitchen_cabinets",
+        "LootGroup": "residential_cabinets_general",
         "Comment": "Large cupboard",
         "PromptText": ""
     },
@@ -17232,7 +17232,7 @@
         "Position": "7 -2 -16",
         "LootGroup": "residential_cabinets_small",
         "Comment": "Bedside table",
-        "PromptText": "Rummage in the bedside table"
+        "PromptText": "Rummage in the commode"
     },
     {
         "IsClassWide": 1,
