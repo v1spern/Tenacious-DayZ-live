@@ -5198,10 +5198,10 @@
     </type>
     <!-- NOTE 556x45 -->
     <type name="SNAFU_MD_Ammo_556x45mm_M855A1">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <restock>28800</restock>
         <lifetime>1800</lifetime>
-        <min>20</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>30</quantmax>
         <cost>100</cost>

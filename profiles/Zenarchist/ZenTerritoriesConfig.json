@@ -8,7 +8,6 @@
     "ClaymoreMine",
     "PowerGenerator",
     "Plastic_Explosive",
-    "Plastic_Explosive",
     "WoodenCrate",
     "RLF_WoodenSigns"
   ],
@@ -20,7 +19,7 @@
   "BuildBonusSledgeDamage": 300,
   "RequireTerritory": 0,
   "PublicPermissions": 384,
-  "MemberPermissions": 1,
+  "MemberPermissions": 510,
   "Notifications": 1,
   "NoBuildZones": [
     {
