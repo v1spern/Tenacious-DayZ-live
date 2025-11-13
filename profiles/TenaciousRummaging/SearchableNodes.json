@@ -18499,8 +18499,656 @@
         "ClassName": "2465696",
         "ModelName": "misc_postbox1",
         "Position": "<0.000000, 0.000000, 0.000000>",
-        "LootGroup": "unmapped",
+        "LootGroup": "residential_mailboxes",
         "Comment": "Red mailbox usually found outside residential houses",
         "PromptText": "Rummage the mailbox"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Wreck_Digger",
+        "ModelName": "wreck_digger",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "excavator_machine",
+        "Comment": "Digger - Wreck - Construction",
+        "PromptText": "Rummage the digger wreck"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "Land_Wreck_Mining_Excavator",
+        "ModelName": "wreck_mining_excavator",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "excavator_machine",
+        "Comment": "Mining Excavator - Wreck - Construction",
+        "PromptText": "Rummage the excavator"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "Land_Wreck_Mining_HaulTruck",
+        "ModelName": "wreck_mining_haultruck",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "excavator_machine",
+        "Comment": "Mining Haul Truck - Wreck - Construction",
+        "PromptText": "Rummage the mining truck"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "Land_Wreck_Mi8_Civilian",
+        "ModelName": "wreck_mi8_civilian",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked civilian Mi8 helicopter",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+     {
+        "IsClassWide": 1,
+        "ClassName": "Land_Static_Mi8_Civilian",
+        "ModelName": "static_mi8_civilian",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A rusty civilian Mi8 helicopter",
+        "PromptText": "Rummage the helicopter wreckage"
+     },
+    {
+        "IsClassWide": 1,
+        "ClassName": "StaticObj_Wreck_UH1Y",
+        "ModelName": "wreck_uh1y",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH1Y military helicopter",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "Wreck_Mi8",
+        "ModelName": "wreck_mi8",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crashhelicopter_crash",
+        "Comment": "A wrecked Mi8 military helicopter",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "Wreck_Mi8_Crashed",
+        "ModelName": "wreck_mi8_crashed",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi8 military helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_USMC_1",
+        "ModelName": "crashed_wreck_uh1y_usmc_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y USMC helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_Army_1",
+        "ModelName": "crashed_wreck_uh1y_army_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y Army helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_Black_1",
+        "ModelName": "crashed_wreck_uh1y_black_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y black helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_Civ_1",
+        "ModelName": "crashed_wreck_uh1y_civ_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y civilian helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_USMC_2",
+        "ModelName": "crashed_wreck_uh1y_usmc_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y USMC helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_Army_2",
+        "ModelName": "crashed_wreck_uh1y_army_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y Army helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_Black_2",
+        "ModelName": "crashed_wreck_uh1y_black_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y black helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_Civ_2",
+        "ModelName": "crashed_wreck_uh1y_civ_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y civilian helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_USMC_3",
+        "ModelName": "crashed_wreck_uh1y_usmc_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y USMC helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_Army_3",
+        "ModelName": "crashed_wreck_uh1y_army_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y Army helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_Black_3",
+        "ModelName": "crashed_wreck_uh1y_black_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y black helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_UH1Y_Civ_3",
+        "ModelName": "crashed_wreck_uh1y_civ_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked UH-1Y civilian helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_1_1",
+        "ModelName": "crashed_wreck_mi8_ru_1_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_2_1",
+        "ModelName": "crashed_wreck_mi8_ru_2_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_3_1",
+        "ModelName": "crashed_wreck_mi8_ru_3_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_4_1",
+        "ModelName": "crashed_wreck_mi8_ru_4_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_CDF_1",
+        "ModelName": "crashed_wreck_mi8_cdf_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 CDF helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Winter_1",
+        "ModelName": "crashed_wreck_mi8_winter_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 winter camo helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Civ_1",
+        "ModelName": "crashed_wreck_mi8_civ_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 civilian helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_UN_1",
+        "ModelName": "crashed_wreck_mi8_un_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 UN helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Desert_1",
+        "ModelName": "crashed_wreck_mi8_desert_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 desert camo helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Tropic_1",
+        "ModelName": "crashed_wreck_mi8_tropic_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 tropic camo helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_1_2",
+        "ModelName": "crashed_wreck_mi8_ru_1_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_2_2",
+        "ModelName": "crashed_wreck_mi8_ru_2_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_3_2",
+        "ModelName": "crashed_wreck_mi8_ru_3_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_4_2",
+        "ModelName": "crashed_wreck_mi8_ru_4_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_CDF_2",
+        "ModelName": "crashed_wreck_mi8_cdf_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 CDF helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Winter_2",
+        "ModelName": "crashed_wreck_mi8_winter_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 winter camo helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Civ_2",
+        "ModelName": "crashed_wreck_mi8_civ_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 civilian helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_UN_2",
+        "ModelName": "crashed_wreck_mi8_un_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 UN helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Desert_2",
+        "ModelName": "crashed_wreck_mi8_desert_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 desert camo helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Tropic_2",
+        "ModelName": "crashed_wreck_mi8_tropic_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 tropic camo helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_1_3",
+        "ModelName": "crashed_wreck_mi8_ru_1_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_2_3",
+        "ModelName": "crashed_wreck_mi8_ru_2_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_3_3",
+        "ModelName": "crashed_wreck_mi8_ru_3_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_RU_4_3",
+        "ModelName": "crashed_wreck_mi8_ru_4_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 RU helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_CDF_3",
+        "ModelName": "crashed_wreck_mi8_cdf_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 CDF helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Winter_3",
+        "ModelName": "crashed_wreck_mi8_winter_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 winter camo helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Civ_3",
+        "ModelName": "crashed_wreck_mi8_civ_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 civilian helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_UN_3",
+        "ModelName": "crashed_wreck_mi8_un_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 UN helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Desert_3",
+        "ModelName": "crashed_wreck_mi8_desert_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 desert camo helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_Mi8_Tropic_3",
+        "ModelName": "crashed_wreck_mi8_tropic_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked Mi-8 tropic camo helicopter with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_USMC_1",
+        "ModelName": "crashed_wreck_c130_usmc_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 USMC transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_USMC_2",
+        "ModelName": "crashed_wreck_c130_usmc_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 USMC transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_USAF_1",
+        "ModelName": "crashed_wreck_c130_usaf_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 USAF transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_USAF_2",
+        "ModelName": "crashed_wreck_c130_usaf_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 USAF transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_Camo_1",
+        "ModelName": "crashed_wreck_c130_camo_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 camo transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_Camo_2",
+        "ModelName": "crashed_wreck_c130_camo_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 camo transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_Camo_3",
+        "ModelName": "crashed_wreck_c130_camo_3",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 camo transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_AAF_1",
+        "ModelName": "crashed_wreck_c130_aaf_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 AAF transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_AAF_2",
+        "ModelName": "crashed_wreck_c130_aaf_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 AAF transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_CIV_1",
+        "ModelName": "crashed_wreck_c130_civ_1",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 civilian transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_CIV_2",
+        "ModelName": "crashed_wreck_c130_civ_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 civilian transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_USMC_1_2",
+        "ModelName": "crashed_wreck_c130_usmc_1_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 USMC transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_USMC_2_2",
+        "ModelName": "crashed_wreck_c130_usmc_2_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 USMC transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_USAF_1_2",
+        "ModelName": "crashed_wreck_c130_usaf_1_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 USAF transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_USAF_2_2",
+        "ModelName": "crashed_wreck_c130_usaf_2_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 USAF transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_Camo_1_2",
+        "ModelName": "crashed_wreck_c130_camo_1_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 camo transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_Camo_2_2",
+        "ModelName": "crashed_wreck_c130_camo_2_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 camo transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_Camo_3_2",
+        "ModelName": "crashed_wreck_c130_camo_3_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 camo transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_AAF_1_2",
+        "ModelName": "crashed_wreck_c130_aaf_1_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 AAF transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_AAF_2_2",
+        "ModelName": "crashed_wreck_c130_aaf_2_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 AAF transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_CIV_1_2",
+        "ModelName": "crashed_wreck_c130_civ_1_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 civilian transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
+    },
+    {
+        "IsClassWide": 1,
+        "ClassName": "crashed_Wreck_C130_CIV_2_2",
+        "ModelName": "crashed_wreck_c130_civ_2_2",
+        "Position": "<0.000000, 0.000000, 0.000000>",
+        "LootGroup": "helicopter_crash",
+        "Comment": "A wrecked C-130 civilian transport aircraft with smoke",
+        "PromptText": "Rummage the helicopter wreckage"
     }
 ]

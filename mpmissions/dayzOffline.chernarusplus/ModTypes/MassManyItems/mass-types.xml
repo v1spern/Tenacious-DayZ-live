@@ -2296,10 +2296,10 @@
         <value name="Tier2"/>
     </type>
 	<type name="MassNBC_Bag">
-        <nominal>12</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2312,7 +2312,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="MassMolleBagBlack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -2327,7 +2327,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="MassMolleBagGrey">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -2342,7 +2342,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="MassMolleBagDesert">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -2357,7 +2357,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="MassMolleBagGorka">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -2372,7 +2372,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="MassMolleBagGreen">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -2387,7 +2387,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="MassMolleBagTTSKO">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -2403,10 +2403,10 @@
     </type>
 <!-- STUB Cases/Containers -->
     <type name="Mass_LunchBox">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2420,7 +2420,7 @@
     </type>
     <type name="Mass_PistolCase">
         <nominal>5</nominal>
-        <min>5</min>
+        <min>2</min>
         <lifetime>7200</lifetime>
         <restock>10800</restock>
         <quantmin>-1</quantmin>
@@ -2463,8 +2463,8 @@
 		<value name="Tier4"/>
     </type>
     <type name="Mass_JunkBox">
-        <nominal>6</nominal>
-        <min>2</min>
+        <nominal>8</nominal>
+        <min>3</min>
         <lifetime>1209600</lifetime>
         <restock>10800</restock>
         <quantmin>-1</quantmin>
@@ -2510,19 +2510,16 @@
     </type>
 <!-- STUB Medkit pouches -->
     <type name="Mass_BandageDressingWrapper"><!-- Custom bandage wrapping -->
-        <nominal>0</nominal>
+        <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<type name="Mass_IFAK_TAN"> <!-- Medkit pouch -->
         <nominal>0</nominal>

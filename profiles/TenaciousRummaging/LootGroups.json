@@ -2022,7 +2022,7 @@
 
 				{ "type_range": ["Zagorky","ZagorkyChocolate","ZagorkyPeanuts"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MassMRE4","MassMRE9","MassMRE10", "MassMRE9Old"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["WaterBottle","Canteen","MMG_bottle_atacs","MMG_bottle_dark_woodland"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 100, "MaxQuantity": 750 },
+				{ "type_range": ["WaterBottle","Canteen","MMG_bottle_upc","MMG_bottle_dark_woodland"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 100, "MaxQuantity": 750 },
 
 				{ "type": "Rag", "weight": 55, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
 				{ "type": "AMS_Bandage", "weight": 55, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 100, "MaxQuantity": 100 },
@@ -2303,11 +2303,11 @@
     		  	"Open ammo tins and missing helmets. This guardhouse was looted not long ago."
     		],
     		"items": [
-    		  	{ "type_range": ["MMG_tactical_helmet_atacs","MMG_tactical_helmet_dark_woodland","MMG_tactical_helmet_green","MMG_tactical_helmet_police","mmg_armored_helmet_black","mmg_armored_helmet_green","mmg_armored_helmet_visor_black","mmg_armored_helmet_visor_green","MMG_striker_helmet_black"], "weight": 1, "MinHealth": 0.45, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+    		  	{ "type_range": ["MMG_tactical_helmet_upc","MMG_tactical_helmet_dark_woodland","MMG_tactical_helmet_alpine","MMG_tactical_helmet_police","mmg_armored_helmet_black","mmg_armored_helmet_green","mmg_armored_helmet_visor_black","mmg_armored_helmet_visor_green","MMG_striker_helmet_black"], "weight": 1, "MinHealth": 0.45, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				
-    		  	{ "type_range": ["MMG_JPC_Vest_atacs","MMG_JPC_Vest_black","MMG_JPC_Vest_dark_woodland","MMG_JPC_Vest_olive","MMG_tt_Vest_atacs","MMG_tt_Vest_black","MMG_tt_Vest_dark_woodland","MMG_tt_Vest_green","MMG_tt_Vest_police"], "weight": 2, "MinHealth": 0.45, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+    		  	{ "type_range": ["MMG_JPC_Vest_upc","MMG_JPC_Vest_black","MMG_JPC_Vest_dark_woodland","MMG_JPC_Vest_alpine","MMG_tt_Vest_upc","MMG_tt_Vest_black","MMG_tt_Vest_dark_woodland","MMG_tt_Vest_alpine","MMG_tt_Vest_police"], "weight": 2, "MinHealth": 0.45, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				
-    		  	{ "type_range": ["MMG_Mag_Pouch_Black","MMG_Mag_Pouch_atacs","MMG_Mag_Pouch_dark_woodland","MMG_Mag_Pouch_olive","MMG_Med_Pouch_Olive","MMG_Med_Pouch_atacs","MMG_Med_Pouch_black","MMG_Med_Pouch_dark_woodland","MMG_double_magpouch_atacs","MMG_double_magpouch_black","MMG_double_magpouch_dark_woodland","MMG_double_magpouch_green","MMG_triple_magpouch_atacs","MMG_triple_magpouch_black","MMG_triple_magpouch_dark_woodland","MMG_triple_magpouch_green","mmg_dump_pouch_black","mmg_dump_pouch_green"], "weight": 4, "MinHealth": 0.45, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
+    		  	{ "type_range": ["MMG_Mag_Pouch_Black","MMG_Mag_Pouch_upc","MMG_Mag_Pouch_dark_woodland","MMG_Mag_Pouch_alpine","MMG_Med_Pouch_alpine","MMG_Med_Pouch_upc","MMG_Med_Pouch_black","MMG_Med_Pouch_dark_woodland","MMG_double_magpouch_upc","MMG_double_magpouch_black","MMG_double_magpouch_dark_woodland","MMG_double_magpouch_alpine","MMG_triple_magpouch_upc","MMG_triple_magpouch_black","MMG_triple_magpouch_dark_woodland","MMG_triple_magpouch_alpine","mmg_dump_pouch_black","mmg_dump_pouch_green"], "weight": 4, "MinHealth": 0.45, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
 				
     		  	{ "type_range": ["mmg_tac_goggles_red_black","mmg_tac_goggles_red_green"], "weight": 8, "MinHealth": 0.45, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
 				
@@ -2780,7 +2780,7 @@
 				{ "type_range": ["WorkingGloves_Beige", "WorkingGloves_Black", "WorkingGloves_Brown", "WorkingGloves_Yellow", "Uncuepa_WorkingGloves_White", "Uncuepa_TacticalGloves_White"], "weight": 50, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "MMG_JPC_Vest_black", "weight": 6, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type": "MMG_JPC_Vest_olive", "weight": 6, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type": "MMG_JPC_Vest_alpine", "weight": 6, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "MMG_MK_V_Armor_black", "weight": 1, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "MMG_MK_III_Armor_black", "weight": 4, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 }
 			]
@@ -2980,7 +2980,7 @@
 				{ "type": "Paper", "weight": 12, "MinHealth": 0.45, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "ExpansionHydraulicHoses", "weight": 6, "MinHealth": 0.45, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_bottle_olive","WaterBottle","Canteen"], "weight": 12, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 100, "MaxQuantity": 750 },
+				{ "type_range": ["MMG_bottle_alpine","WaterBottle","Canteen"], "weight": 12, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 100, "MaxQuantity": 750 },
 
 				{ "type": "CarBattery", "weight": 8, "MinHealth": 0.45, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "TruckBattery", "weight": 6, "MinHealth": 0.45, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4669,9 +4669,9 @@
 				{ "type_range": ["PersonalRadio","MassBinocs","GPSReceiver"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": ["Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type_range": ["Rope","MetalWire","CableReel","Megaphone","Binoculars"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["WeaponCleaningKit","SewingKit","LeatherSewingKit","DuctTape","EpoxyPutty"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": 25, "MaxQuantity": 100 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
 
-				{ "type_range": ["TacticalGloves_Beige","TacticalGloves_Black","TacticalGloves_Green","mmg_tactical_gloves_atacs","mmg_tactical_gloves_black","mmg_tactical_gloves_dark_woodland","mmg_tactical_gloves_green"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["TacticalGloves_Beige","TacticalGloves_Black","TacticalGloves_Green","mmg_tactical_gloves_upc","mmg_tactical_gloves_black","mmg_tactical_gloves_dark_woodland","mmg_tactical_gloves_alpine"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_carbine_red", "MMG_carbine_green", "MMG_carbine_orange", "MMG_carbine_blue", "MMG_carbine_black", "MMG_carbine_grey"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["AK74_Hndgrd","AK74_WoodBttstck","AKS74U_Bttstck","AK_FoldingBttstck","AK_PlasticBttstck","AK_WoodBttstck","M4_CQBBttstck","M4_MPBttstck","M4_MPHndgrd","M4_OEBttstck","M4_PlasticHndgrd","M4_RISHndgrd","M9A1_Bayonet","PistolSuppressor","SA58_FGrip","SA58_Stock","SNAFUAR15_AFG","SNAFUDSASA58_Stock","SNAFUMPX_Grip","SNAFU_AFG_02_Black","SNAFU_AK19Muzzel","SNAFU_AK19_Stock","SNAFU_AK_HG","SNAFU_AtlasBipod","SNAFU_Bipod","SNAFU_FGCR_Grip","SNAFU_FGKAC_Grip","SNAFU_GIGripColtA2","SNAFU_LVOAHG","SNAFU_M249Bipod","SNAFU_M249Grip","SNAFU_M249HG","SNAFU_M249Stock","SNAFU_MK15","SNAFU_MOE_Stock","SNAFU_ModBipod","SNAFU_MuzzelFF","SNAFU_NPKPBIPOD","SNAFU_PEQ1_Laser","SNAFU_PRSGen3_Stock","SNAFU_PistolGripColtA2","SNAFU_SCQR_Stock","SNAFU_SKS_Bayonet","SNAFU_SR3Grip","SNAFU_SR3HG","SNAFU_TACGripColtA2_BK","SNAFU_TACGripColtA2_Grey","SNAFU_WSR3Stock"], "weight": 15, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4717,7 +4717,7 @@
 				{ "type_range": ["Screwdriver","Pliers","Wrench","Hacksaw","Crowbar"], "weight": 14, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["CombatKnife","HuntingKnife","FangeKnife","KukriKnife","FieldShovel"], "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["UniversalLight","TLRLight","SNAFUUniversalLight"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": ["Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
 
 				{ "type": "Battery9V", "weight": 14, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": 10, "MaxQuantity": 80 },
 				{ "type": "FieldShovel", "weight": 28, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4730,14 +4730,14 @@
 				{ "type_range": ["MassMREMCBeefStew","MassMREMCBeefTaco","MassMREMCChilliMac","MassMREMCSpaghetti","MassMREPB","MassMREDBBCobbler","MassMRETortillaUW","MassMREPoppySeedCakeUW"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["SodaCan_Cola","SodaCan_Fronta","SodaCan_Kvass","SodaCan_Pipsi","SodaCan_Spite","WaterBottle","Canteen"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_Mag_Pouch_atacs", "MMG_Mag_Pouch_Black", "MMG_Mag_Pouch_dark_woodland", "MMG_Mag_Pouch_olive"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_double_magpouch_atacs", "MMG_double_magpouch_black", "MMG_double_magpouch_dark_woodland", "MMG_double_magpouch_green"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_ammo_pouch_atacs", "MMG_ammo_pouch_black", "MMG_ammo_pouch_dark_woodland", "MMG_ammo_pouch_olive"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_pouch_atacs", "MMG_tactical_pouch_black", "MMG_tactical_pouch_dark_woodland", "MMG_tactical_pouch_green"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_Mag_Pouch_upc", "MMG_Mag_Pouch_Black", "MMG_Mag_Pouch_dark_woodland", "MMG_Mag_Pouch_alpine"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_double_magpouch_upc", "MMG_double_magpouch_black", "MMG_double_magpouch_dark_woodland", "MMG_double_magpouch_alpine"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_ammo_pouch_upc", "MMG_ammo_pouch_black", "MMG_ammo_pouch_dark_woodland", "MMG_ammo_pouch_alpine"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_pouch_upc", "MMG_tactical_pouch_black", "MMG_tactical_pouch_dark_woodland", "MMG_tactical_pouch_alpine"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["mmg_dump_pouch_black", "mmg_dump_pouch_green"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_holster_pouch_black", "MMG_holster_pouch_green"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_carrier_backpack_atacs", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_supplybag_atacs", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_carrier_backpack_upc", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_alpineive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_supplybag_upc", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4769,14 +4769,14 @@
 				{ "type_range": ["PersonalRadio","MassBinocs","GPSReceiver"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": ["Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type_range": ["Rope","MetalWire","CableReel","Megaphone","Binoculars"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["WeaponCleaningKit","SewingKit","LeatherSewingKit","DuctTape","EpoxyPutty"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": 25, "MaxQuantity": 100 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
 
 				{ "type_range": ["CombatKnife","HuntingKnife","FangeKnife","KukriKnife","FieldShovel"], "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["SNAFU_Ammo_338","Ammo_12gaPellets","Ammo_12gaRubberSlug","Ammo_12gaSlug","Ammo_22","Ammo_308Win","Ammo_308WinTracer","Ammo_357","Ammo_45ACP","Ammo_545x39","Ammo_545x39Tracer","Ammo_556x45","Ammo_556x45Tracer","Ammo_762x39","Ammo_762x39Tracer","Ammo_762x54","Ammo_762x54Tracer","Ammo_9x19","Ammo_9x39","Ammo_9x39AP"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["AmmoBox_00buck_10rnd","AmmoBox_12gaRubberSlug_10Rnd","AmmoBox_12gaSlug_10Rnd","AmmoBox_22_50Rnd","AmmoBox_308WinTracer_20Rnd","AmmoBox_308Win_20Rnd","AmmoBox_357_20Rnd","AmmoBox_45ACP_25rnd","AmmoBox_545x39Tracer_20Rnd","AmmoBox_545x39_20Rnd","AmmoBox_556x45Tracer_20Rnd","AmmoBox_556x45_20Rnd","AmmoBox_762x39Tracer_20Rnd","AmmoBox_762x39_20Rnd","AmmoBox_762x54Tracer_20Rnd","AmmoBox_762x54_20Rnd","AmmoBox_9x19_25rnd","AmmoBox_9x39AP_20Rnd","AmmoBox_9x39_20Rnd","MassAmmoBox_556x45_10Rnd"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["TacticalGloves_Beige","TacticalGloves_Black","TacticalGloves_Green","mmg_tactical_gloves_atacs","mmg_tactical_gloves_black","mmg_tactical_gloves_dark_woodland","mmg_tactical_gloves_green"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["TacticalGloves_Beige","TacticalGloves_Black","TacticalGloves_Green","mmg_tactical_gloves_upc","mmg_tactical_gloves_black","mmg_tactical_gloves_dark_woodland","mmg_tactical_gloves_alpine"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_carbine_red", "MMG_carbine_green", "MMG_carbine_orange", "MMG_carbine_blue", "MMG_carbine_black", "MMG_carbine_grey"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4816,7 +4816,7 @@
 				{ "type": "FieldShovel", "weight": 28, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "WeaponCleaningKit", "weight": 28, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Mass_BandageDressingWrapper", "weight": 30, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
 
 				{ "type_range": ["BDUJacket", "MassWinterBDUJacket"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["TTsKOJacket_Camo", "OMKPants_Navy", "NavyUniformJacket"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4825,9 +4825,9 @@
 				{ "type_range": ["M65Jacket_Tan", "M65Jacket_Khaki", "M65Jacket_Olive", "M65Jacket_Black"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Military_Sweater", "Military_Sweater_Red", "Military_Sweater_Blue", "Military_Sweater_Green", "Military_Sweater_Black", "Military_Sweater_White"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_operatorshirt_atacs", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_green"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_shirt_atacs", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_combatshirt_atacs", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_operatorshirt_upc", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_shirt_upc", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatshirt_upc", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["BDUPants", "MassWinterBDUPants"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["TTSKOPants", "OMKPants_Navy", "NavyUniformPants"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4835,19 +4835,19 @@
 				{ "type_range": ["GorkaPants_Flat", "GorkaPants_Autumn", "GorkaPants_Summer", "GorkaPants_PautRev", "GorkaPants_Winter", "MassBlackGorkabottom", "MassGorkaInvertWinterPants", "MassGorkaInvertWoodlandPants", "MassGorkaInvertFlecktarnPants"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Galife_Pants_Olive", "Galife_Pants_Navy"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_combatpants_atacs", "MMG_combatpants_black", "MMG_combatpants_dark_woodland", "MMG_combatpants_olive"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_pants_atacs", "mmg_tactical_pants_black", "mmg_tactical_pants_dark_woodland", "mmg_tactical_pants_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatpants_upc", "MMG_combatpants_black", "MMG_combatpants_dark_woodland", "MMG_combatpants_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_pants_upc", "mmg_tactical_pants_black", "mmg_tactical_pants_dark_woodland", "mmg_tactical_pants_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["MilitaryBoots_Beige", "MilitaryBoots_Brown", "MilitaryBoots_Black", "MilitaryBoots_Bluerock", "MilitaryBoots_Redpunk", "Kirza_Boots"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["TTSKOBoots"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["JungleBoots_Beige", "JungleBoots_Black", "JungleBoots_Brown", "JungleBoots_Green", "JungleBoots_Olive", "Uncuepa_JungleBoots_White"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_boots_atacs", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_green"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_boots_upc", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_alpine"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_JPC_Vest_atacs", "MMG_JPC_Vest_black", "MMG_JPC_Vest_dark_woodland", "MMG_JPC_Vest_olive"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tt_Vest_atacs", "MMG_tt_Vest_black", "MMG_tt_Vest_dark_woodland", "MMG_tt_Vest_green"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_chestrig_atacs", "MMG_chestrig_black", "MMG_chestrig_dark_woodland", "MMG_chestrig_green"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_III_Armor_atacs", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_green"], "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_V_Armor_atacs", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_green"], "weight": 5, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_JPC_Vest_upc", "MMG_JPC_Vest_black", "MMG_JPC_Vest_dark_woodland", "MMG_JPC_Vest_alpine"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tt_Vest_upc", "MMG_tt_Vest_black", "MMG_tt_Vest_dark_woodland", "MMG_tt_Vest_alpine"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_chestrig_upc", "MMG_chestrig_black", "MMG_chestrig_dark_woodland", "MMG_chestrig_alpine"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_III_Armor_upc", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_alpine"], "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_V_Armor_upc", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_alpine"], "weight": 5, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4891,11 +4891,11 @@
 				{ "type": "FieldShovel", "weight": 18, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "MetalWire", "weight": 28, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Mass_BandageDressingWrapper", "weight": 30, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
 
-				{ "type_range": ["MMG_JPC_Vest_atacs", "MMG_JPC_Vest_black", "MMG_JPC_Vest_dark_woodland", "MMG_JPC_Vest_olive"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_III_Armor_atacs", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_green"], "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_V_Armor_atacs", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_green"], "weight": 5, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_JPC_Vest_upc", "MMG_JPC_Vest_black", "MMG_JPC_Vest_dark_woodland", "MMG_JPC_Vest_alpine"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_III_Armor_upc", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_alpine"], "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_V_Armor_upc", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_alpine"], "weight": 5, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4926,13 +4926,13 @@
 
 				{ "type_range": ["mmg_armored_helmet_green", "mmg_armored_helmet_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["mmg_armored_helmet_visor_green", "mmg_armored_helmet_visor_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_helmet_green", "MMG_tactical_helmet_atacs", "MMG_tactical_helmet_dark_woodland", "MMG_tactical_helmet_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_helmet_alpine", "MMG_tactical_helmet_upc", "MMG_tactical_helmet_dark_woodland", "MMG_tactical_helmet_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_tactical_visor_green", "MMG_tactical_visor_black"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_striker_helmet_green", "MMG_striker_helmet_atacs", "MMG_striker_helmet_black", "MMG_striker_helmet_dark_woodland"], "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_striker_helmet_alpine", "MMG_striker_helmet_upc", "MMG_striker_helmet_black", "MMG_striker_helmet_dark_woodland"], "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["UniversalLight","TLRLight","SNAFUUniversalLight"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": ["Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type_range": ["PersonalRadio","GPSReceiver"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": ["Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
 
 				{ "type_range": ["RGD5Grenade","M67Grenade"], "weight": 30, "MinHealth": 0.40, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["LandMineTrap","ClaymoreMine"], "weight": 30, "MinHealth": 0.40, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -4972,22 +4972,22 @@
 
 				{ "type_range": ["mmg_armored_helmet_green", "mmg_armored_helmet_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["mmg_armored_helmet_visor_green", "mmg_armored_helmet_visor_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_helmet_green", "MMG_tactical_helmet_atacs", "MMG_tactical_helmet_dark_woodland", "MMG_tactical_helmet_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_helmet_alpine", "MMG_tactical_helmet_upc", "MMG_tactical_helmet_dark_woodland", "MMG_tactical_helmet_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_tactical_visor_green", "MMG_tactical_visor_black"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_striker_helmet_green", "MMG_striker_helmet_atacs", "MMG_striker_helmet_black", "MMG_striker_helmet_dark_woodland"], "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_striker_helmet_alpine", "MMG_striker_helmet_upc", "MMG_striker_helmet_black", "MMG_striker_helmet_dark_woodland"], "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["UniversalLight","TLRLight","SNAFUUniversalLight"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": ["Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type_range": ["PersonalRadio","MassBinocs","GPSReceiver"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": ["Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type_range": ["Rope","MetalWire","CableReel","Megaphone","Binoculars"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["WeaponCleaningKit","SewingKit","LeatherSewingKit","DuctTape","EpoxyPutty"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": 25, "MaxQuantity": 100 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
 
 				{ "type_range": ["CombatKnife","HuntingKnife","FangeKnife","KukriKnife","FieldShovel"], "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["SNAFU_Ammo_338","Ammo_12gaPellets","Ammo_12gaRubberSlug","Ammo_12gaSlug","Ammo_22","Ammo_308Win","Ammo_308WinTracer","Ammo_357","Ammo_45ACP","Ammo_545x39","Ammo_545x39Tracer","Ammo_556x45","Ammo_556x45Tracer","Ammo_762x39","Ammo_762x39Tracer","Ammo_762x54","Ammo_762x54Tracer","Ammo_9x19","Ammo_9x39","Ammo_9x39AP"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["AmmoBox_00buck_10rnd","AmmoBox_12gaRubberSlug_10Rnd","AmmoBox_12gaSlug_10Rnd","AmmoBox_22_50Rnd","AmmoBox_308WinTracer_20Rnd","AmmoBox_308Win_20Rnd","AmmoBox_357_20Rnd","AmmoBox_45ACP_25rnd","AmmoBox_545x39Tracer_20Rnd","AmmoBox_545x39_20Rnd","AmmoBox_556x45Tracer_20Rnd","AmmoBox_556x45_20Rnd","AmmoBox_762x39Tracer_20Rnd","AmmoBox_762x39_20Rnd","AmmoBox_762x54Tracer_20Rnd","AmmoBox_762x54_20Rnd","AmmoBox_9x19_25rnd","AmmoBox_9x39AP_20Rnd","AmmoBox_9x39_20Rnd","MassAmmoBox_556x45_10Rnd"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["TacticalGloves_Beige","TacticalGloves_Black","TacticalGloves_Green","mmg_tactical_gloves_atacs","mmg_tactical_gloves_black","mmg_tactical_gloves_dark_woodland","mmg_tactical_gloves_green"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["TacticalGloves_Beige","TacticalGloves_Black","TacticalGloves_Green","mmg_tactical_gloves_upc","mmg_tactical_gloves_black","mmg_tactical_gloves_dark_woodland","mmg_tactical_gloves_alpine"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_carbine_red", "MMG_carbine_green", "MMG_carbine_orange", "MMG_carbine_blue", "MMG_carbine_black", "MMG_carbine_grey"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5035,24 +5035,24 @@
 
 				{ "type_range": ["mmg_armored_helmet_green", "mmg_armored_helmet_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["mmg_armored_helmet_visor_green", "mmg_armored_helmet_visor_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_helmet_green", "MMG_tactical_helmet_atacs", "MMG_tactical_helmet_dark_woodland", "MMG_tactical_helmet_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_helmet_alpine", "MMG_tactical_helmet_upc", "MMG_tactical_helmet_dark_woodland", "MMG_tactical_helmet_black"], "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_tactical_visor_green", "MMG_tactical_visor_black"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_striker_helmet_green", "MMG_striker_helmet_atacs", "MMG_striker_helmet_black", "MMG_striker_helmet_dark_woodland"], "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_striker_helmet_alpine", "MMG_striker_helmet_upc", "MMG_striker_helmet_black", "MMG_striker_helmet_dark_woodland"], "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_operatorshirt_atacs", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_green"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_shirt_atacs", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_combatshirt_atacs", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_operatorshirt_upc", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_shirt_upc", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatshirt_upc", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_combatpants_atacs", "MMG_combatpants_black", "MMG_combatpants_dark_woodland", "MMG_combatpants_olive"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_pants_atacs", "mmg_tactical_pants_black", "mmg_tactical_pants_dark_woodland", "mmg_tactical_pants_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatpants_upc", "MMG_combatpants_black", "MMG_combatpants_dark_woodland", "MMG_combatpants_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_pants_upc", "mmg_tactical_pants_black", "mmg_tactical_pants_dark_woodland", "mmg_tactical_pants_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_falcon_b1_belt_atacs", "MMG_falcon_b1_belt_black", "MMG_falcon_b1_belt_dark_woodland", "MMG_falcon_b1_belt_olive"], "weight": 50, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_sheath_atacs", "MMG_sheath_black", "MMG_sheath_dark_woodland", "MMG_sheath_olive"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
-				{ "type_range": ["MMG_boots_atacs", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_green"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_falcon_b1_belt_upc", "MMG_falcon_b1_belt_black", "MMG_falcon_b1_belt_dark_woodland", "MMG_falcon_b1_belt_alpine"], "weight": 50, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_sheath_upc", "MMG_sheath_black", "MMG_sheath_dark_woodland", "MMG_sheath_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_boots_upc", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_alpine"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_MK_III_Armor_atacs", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_green"], "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_V_Armor_atacs", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_green"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_III_Armor_upc", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_alpine"], "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_V_Armor_upc", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_alpine"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5072,8 +5072,8 @@
 				"Fresh scrape marks where plates sat. You're too late."
 			],
 			"items": [
-				{ "type_range": ["MMG_facemask_atacs", "MMG_facemask_black", "MMG_facemask_skull", "MMG_facemask_joker", "MMG_facemask_dark_woodland", "MMG_facemask_green"], "weight": 40, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_balaclava_atacs", "MMG_balaclava_black", "MMG_balaclava_dark_woodland", "MMG_balaclava_olive"], "weight": 40, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_facemask_upc", "MMG_facemask_black", "MMG_facemask_skull", "MMG_facemask_joker", "MMG_facemask_dark_woodland", "MMG_facemask_alpine"], "weight": 40, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_balaclava_upc", "MMG_balaclava_black", "MMG_balaclava_dark_woodland", "MMG_balaclava_alpine"], "weight": 40, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["mmg_tac_goggles_red_black", "mmg_tac_goggles_red_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["BDUJacket", "MassWinterBDUJacket"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5083,9 +5083,9 @@
 				{ "type_range": ["M65Jacket_Tan", "M65Jacket_Khaki", "M65Jacket_Olive", "M65Jacket_Black"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Military_Sweater", "Military_Sweater_Red", "Military_Sweater_Blue", "Military_Sweater_Green", "Military_Sweater_Black", "Military_Sweater_White"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_operatorshirt_atacs", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_green"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_shirt_atacs", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_combatshirt_atacs", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_operatorshirt_upc", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_shirt_upc", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatshirt_upc", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["BDUPants", "MassWinterBDUPants"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["TTSKOPants", "OMKPants_Navy", "NavyUniformPants"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5093,40 +5093,40 @@
 				{ "type_range": ["GorkaPants_Flat", "GorkaPants_Autumn", "GorkaPants_Summer", "GorkaPants_PautRev", "GorkaPants_Winter", "MassBlackGorkabottom", "MassGorkaInvertWinterPants", "MassGorkaInvertWoodlandPants", "MassGorkaInvertFlecktarnPants"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Galife_Pants_Olive", "Galife_Pants_Navy"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_combatpants_atacs", "MMG_combatpants_black", "MMG_combatpants_dark_woodland", "MMG_combatpants_olive"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_pants_atacs", "mmg_tactical_pants_black", "mmg_tactical_pants_dark_woodland", "mmg_tactical_pants_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatpants_upc", "MMG_combatpants_black", "MMG_combatpants_dark_woodland", "MMG_combatpants_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_pants_upc", "mmg_tactical_pants_black", "mmg_tactical_pants_dark_woodland", "mmg_tactical_pants_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["MilitaryBoots_Beige", "MilitaryBoots_Brown", "MilitaryBoots_Black", "MilitaryBoots_Bluerock", "MilitaryBoots_Redpunk", "Kirza_Boots"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["TTSKOBoots"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["JungleBoots_Beige", "JungleBoots_Black", "JungleBoots_Brown", "JungleBoots_Green", "JungleBoots_Olive", "Uncuepa_JungleBoots_White"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_boots_atacs", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_green"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_boots_upc", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_alpine"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_JPC_Vest_atacs", "MMG_JPC_Vest_black", "MMG_JPC_Vest_dark_woodland", "MMG_JPC_Vest_olive"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tt_Vest_atacs", "MMG_tt_Vest_black", "MMG_tt_Vest_dark_woodland", "MMG_tt_Vest_green"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_chestrig_atacs", "MMG_chestrig_black", "MMG_chestrig_dark_woodland", "MMG_chestrig_green"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_III_Armor_atacs", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_green"], "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_V_Armor_atacs", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_green"], "weight": 5, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_JPC_Vest_upc", "MMG_JPC_Vest_black", "MMG_JPC_Vest_dark_woodland", "MMG_JPC_Vest_alpine"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tt_Vest_upc", "MMG_tt_Vest_black", "MMG_tt_Vest_dark_woodland", "MMG_tt_Vest_alpine"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_chestrig_upc", "MMG_chestrig_black", "MMG_chestrig_dark_woodland", "MMG_chestrig_alpine"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_III_Armor_upc", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_alpine"], "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_V_Armor_upc", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_alpine"], "weight": 5, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_operatorshirt_atacs", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_green"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_shirt_atacs", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_combatshirt_atacs", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_operatorshirt_upc", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_shirt_upc", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatshirt_upc", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_combatpants_atacs", "MMG_combatpants_black", "MMG_combatpants_dark_woodland", "MMG_combatpants_olive"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_pants_atacs", "mmg_tactical_pants_black", "mmg_tactical_pants_dark_woodland", "mmg_tactical_pants_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatpants_upc", "MMG_combatpants_black", "MMG_combatpants_dark_woodland", "MMG_combatpants_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_pants_upc", "mmg_tactical_pants_black", "mmg_tactical_pants_dark_woodland", "mmg_tactical_pants_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_falcon_b1_belt_atacs", "MMG_falcon_b1_belt_black", "MMG_falcon_b1_belt_dark_woodland", "MMG_falcon_b1_belt_olive"], "weight": 50, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_sheath_atacs", "MMG_sheath_black", "MMG_sheath_dark_woodland", "MMG_sheath_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
-				{ "type_range": ["MMG_boots_atacs", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_green"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_falcon_b1_belt_upc", "MMG_falcon_b1_belt_black", "MMG_falcon_b1_belt_dark_woodland", "MMG_falcon_b1_belt_alpine"], "weight": 50, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_sheath_upc", "MMG_sheath_black", "MMG_sheath_dark_woodland", "MMG_sheath_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_boots_upc", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_alpine"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_MK_III_Armor_atacs", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_green"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_V_Armor_atacs", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_green"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_III_Armor_upc", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_alpine"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_V_Armor_upc", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_alpine"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_carrier_backpack_atacs", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_supplybag_atacs", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_assault_pack_atacs", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_camelback_atacs", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_mmps_bag_atacs", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_carrier_backpack_upc", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_alpineive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_supplybag_upc", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_assault_pack_upc", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_camelback_upc", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_mmps_bag_upc", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5170,9 +5170,9 @@
 				{ "type_range": ["M65Jacket_Tan", "M65Jacket_Khaki", "M65Jacket_Olive", "M65Jacket_Black"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Military_Sweater", "Military_Sweater_Red", "Military_Sweater_Blue", "Military_Sweater_Green", "Military_Sweater_Black", "Military_Sweater_White"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_operatorshirt_atacs", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_green"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_shirt_atacs", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_combatshirt_atacs", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_operatorshirt_upc", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_shirt_upc", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatshirt_upc", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["BDUPants", "MassWinterBDUPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["TTSKOPants", "OMKPants_Navy", "NavyUniformPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5180,15 +5180,15 @@
 				{ "type_range": ["GorkaPants_Flat", "GorkaPants_Autumn", "GorkaPants_Summer", "GorkaPants_PautRev", "GorkaPants_Winter", "MassBlackGorkabottom", "MassGorkaInvertWinterPants", "MassGorkaInvertWoodlandPants", "MassGorkaInvertFlecktarnPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Galife_Pants_Olive", "Galife_Pants_Navy"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_falcon_b1_belt_atacs", "MMG_falcon_b1_belt_black", "MMG_falcon_b1_belt_dark_woodland", "MMG_falcon_b1_belt_olive"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_sheath_atacs", "MMG_sheath_black", "MMG_sheath_dark_woodland", "MMG_sheath_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_boots_atacs", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_green"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_falcon_b1_belt_upc", "MMG_falcon_b1_belt_black", "MMG_falcon_b1_belt_dark_woodland", "MMG_falcon_b1_belt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_sheath_upc", "MMG_sheath_black", "MMG_sheath_dark_woodland", "MMG_sheath_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_boots_upc", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_alpine"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_carrier_backpack_atacs", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_supplybag_atacs", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_assault_pack_atacs", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_camelback_atacs", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_mmps_bag_atacs", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_carrier_backpack_upc", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_alpineive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_supplybag_upc", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_assault_pack_upc", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_camelback_upc", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_mmps_bag_upc", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5222,7 +5222,7 @@
 				{ "type_range": ["PersonalRadio","MassBinocs","GPSReceiver"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": ["Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type_range": ["Rope","MetalWire","CableReel","Megaphone","Binoculars"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["WeaponCleaningKit","SewingKit","LeatherSewingKit","DuctTape","EpoxyPutty"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": 25, "MaxQuantity": 100 },
-				{ "type_range": ["MMG_bottle_atacs", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
+				{ "type_range": ["MMG_bottle_upc", "MMG_bottle_black", "MMG_bottle_dark_woodland", "MMG_bottle_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 0, "MaxQuantity": 1000 },
 
 				{ "type_range": ["CombatKnife","HuntingKnife","FangeKnife","KukriKnife","FieldShovel"], "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
@@ -5232,7 +5232,7 @@
 				{ "type_range": ["SNAFU_Ammo_338","Ammo_12gaPellets","Ammo_12gaRubberSlug","Ammo_12gaSlug","Ammo_22","Ammo_308Win","Ammo_308WinTracer","Ammo_357","Ammo_45ACP","Ammo_545x39","Ammo_545x39Tracer","Ammo_556x45","Ammo_556x45Tracer","Ammo_762x39","Ammo_762x39Tracer","Ammo_762x54","Ammo_762x54Tracer","Ammo_9x19","Ammo_9x39","Ammo_9x39AP"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["AmmoBox_00buck_10rnd","AmmoBox_12gaRubberSlug_10Rnd","AmmoBox_12gaSlug_10Rnd","AmmoBox_22_50Rnd","AmmoBox_308WinTracer_20Rnd","AmmoBox_308Win_20Rnd","AmmoBox_357_20Rnd","AmmoBox_45ACP_25rnd","AmmoBox_545x39Tracer_20Rnd","AmmoBox_545x39_20Rnd","AmmoBox_556x45Tracer_20Rnd","AmmoBox_556x45_20Rnd","AmmoBox_762x39Tracer_20Rnd","AmmoBox_762x39_20Rnd","AmmoBox_762x54Tracer_20Rnd","AmmoBox_762x54_20Rnd","AmmoBox_9x19_25rnd","AmmoBox_9x39AP_20Rnd","AmmoBox_9x39_20Rnd","MassAmmoBox_556x45_10Rnd"], "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["TacticalGloves_Beige","TacticalGloves_Black","TacticalGloves_Green","mmg_tactical_gloves_atacs","mmg_tactical_gloves_black","mmg_tactical_gloves_dark_woodland","mmg_tactical_gloves_green"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["TacticalGloves_Beige","TacticalGloves_Black","TacticalGloves_Green","mmg_tactical_gloves_upc","mmg_tactical_gloves_black","mmg_tactical_gloves_dark_woodland","mmg_tactical_gloves_alpine"], "weight": 15, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_carbine_red", "MMG_carbine_green", "MMG_carbine_orange", "MMG_carbine_blue", "MMG_carbine_black", "MMG_carbine_grey"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5261,7 +5261,7 @@
 				{ "type": "Rope", "weight": 8, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["TankerHelmet", "Uncuepa_TankerHelmet_Brown"], "weight": 14, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["mmg_tactical_gloves_atacs", "mmg_tactical_gloves_black", "mmg_tactical_gloves_dark_woodland", "mmg_tactical_gloves_green"], "weight": 16, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["mmg_tactical_gloves_upc", "mmg_tactical_gloves_black", "mmg_tactical_gloves_dark_woodland", "mmg_tactical_gloves_alpine"], "weight": 16, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				
 				{ "type_range": ["UniversalLight","TLRLight","SNAFUUniversalLight"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": ["Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
 				{ "type_range": ["Screwdriver","Pliers","Wrench"], "weight": 12, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5290,7 +5290,7 @@
 				{ "type_range": ["AMS_MedChest_Green","AMS_MedChest_Red","mmg_army_box_medic","mmg_army_box_medic_grey","Msp_MedCase","Msp_MedicalBox_Kit"], "weight": 14, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_patch_fabric_medic","MMG_patch_rubber_medic"], "weight": 14, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["CanvasBag_Medical","DuffelBagSmall_Medical","HipPack_Medical"], "weight": 14, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_Med_Pouch_Olive","MMG_Med_Pouch_atacs","MMG_Med_Pouch_black","MMG_Med_Pouch_dark_woodland"], "weight": 12, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_Med_Pouch_alpine","MMG_Med_Pouch_upc","MMG_Med_Pouch_black","MMG_Med_Pouch_dark_woodland"], "weight": 12, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				
 				{ "type": "AMS_GasMaskGP21", "weight": 4, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "AMS_GasMaskGP21_Filter", "weight": 6, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5539,10 +5539,10 @@
 				{ "type_range": ["GorkaPants_Flat", "GorkaPants_Autumn", "GorkaPants_Summer", "GorkaPants_PautRev", "GorkaPants_Winter", "MassBlackGorkabottom", "MassGorkaInvertWinterPants", "MassGorkaInvertWoodlandPants", "MassGorkaInvertFlecktarnPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Galife_Pants_Olive", "Galife_Pants_Navy"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_boots_atacs", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_green"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_boots_upc", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_alpine"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_carrier_backpack_atacs", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_mmps_bag_atacs", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_carrier_backpack_upc", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_alpineive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_mmps_bag_upc", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5626,9 +5626,9 @@
 				{ "type_range": ["M65Jacket_Tan", "M65Jacket_Khaki", "M65Jacket_Olive", "M65Jacket_Black"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Military_Sweater", "Military_Sweater_Red", "Military_Sweater_Blue", "Military_Sweater_Green", "Military_Sweater_Black", "Military_Sweater_White"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_operatorshirt_atacs", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_green"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_shirt_atacs", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_combatshirt_atacs", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_operatorshirt_upc", "MMG_operatorshirt_black", "MMG_operatorshirt_dark_woodland", "MMG_operatorshirt_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_shirt_upc", "MMG_tactical_shirt_black", "MMG_tactical_shirt_dark_woodland", "MMG_tactical_shirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatshirt_upc", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["BDUPants", "MassWinterBDUPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["TTSKOPants", "OMKPants_Navy", "NavyUniformPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5636,15 +5636,15 @@
 				{ "type_range": ["GorkaPants_Flat", "GorkaPants_Autumn", "GorkaPants_Summer", "GorkaPants_PautRev", "GorkaPants_Winter", "MassBlackGorkabottom", "MassGorkaInvertWinterPants", "MassGorkaInvertWoodlandPants", "MassGorkaInvertFlecktarnPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Galife_Pants_Olive", "Galife_Pants_Navy"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_falcon_b1_belt_atacs", "MMG_falcon_b1_belt_black", "MMG_falcon_b1_belt_dark_woodland", "MMG_falcon_b1_belt_olive"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_sheath_atacs", "MMG_sheath_black", "MMG_sheath_dark_woodland", "MMG_sheath_olive"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_boots_atacs", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_green"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_falcon_b1_belt_upc", "MMG_falcon_b1_belt_black", "MMG_falcon_b1_belt_dark_woodland", "MMG_falcon_b1_belt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_sheath_upc", "MMG_sheath_black", "MMG_sheath_dark_woodland", "MMG_sheath_alpine"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_boots_upc", "MMG_boots_black", "MMG_boots_dark_woodland", "MMG_boots_alpine"], "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_carrier_backpack_atacs", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_supplybag_atacs", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_assault_pack_atacs", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_camelback_atacs", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_mmps_bag_atacs", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_carrier_backpack_upc", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_alpineive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_supplybag_upc", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_assault_pack_upc", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_camelback_upc", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_mmps_bag_upc", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5778,7 +5778,7 @@
 				{ "type_range": ["GorkaEJacket_Summer", "GorkaEJacket_Flat", "GorkaEJacket_Autumn", "GorkaEJacket_PautRev", "GorkaEJacket_Winter", "MassBlackGorkatop", "MassGorkaInvertWinterTop", "MassGorkaInvertWoodlandTop", "MassGorkaInvertFlecktarnTop"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["M65Jacket_Tan", "M65Jacket_Khaki", "M65Jacket_Olive", "M65Jacket_Black"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_combatshirt_atacs", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_green"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_combatshirt_upc", "MMG_combatshirt_black", "MMG_combatshirt_dark_woodland", "MMG_combatshirt_alpine"], "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["BDUPants", "MassWinterBDUPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["TTSKOPants", "OMKPants_Navy", "NavyUniformPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5786,11 +5786,11 @@
 				{ "type_range": ["GorkaPants_Flat", "GorkaPants_Autumn", "GorkaPants_Summer", "GorkaPants_PautRev", "GorkaPants_Winter", "MassBlackGorkabottom", "MassGorkaInvertWinterPants", "MassGorkaInvertWoodlandPants", "MassGorkaInvertFlecktarnPants"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Galife_Pants_Olive", "Galife_Pants_Navy"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_carrier_backpack_atacs", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_supplybag_atacs", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_assault_pack_atacs", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_camelback_atacs", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_mmps_bag_atacs", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_carrier_backpack_upc", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_alpineive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_supplybag_upc", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_assault_pack_upc", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_camelback_upc", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_mmps_bag_upc", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5904,7 +5904,7 @@
 				
 				{ "type_range": ["SodaCan_Cola","SodaCan_Fronta","SodaCan_Kvass","SodaCan_Pipsi","SodaCan_Spite","WaterBottle","Canteen"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["mmg_tactical_gloves_atacs", "mmg_tactical_gloves_black", "mmg_tactical_gloves_dark_woodland", "mmg_tactical_gloves_green"], "weight": 50, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["mmg_tactical_gloves_upc", "mmg_tactical_gloves_black", "mmg_tactical_gloves_dark_woodland", "mmg_tactical_gloves_alpine"], "weight": 50, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5930,29 +5930,29 @@
 				{ "type_range": ["RGD5Grenade","M67Grenade"], "weight": 30, "MinHealth": 0.40, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["M18SmokeGrenade_White","M18SmokeGrenade_Green","M18SmokeGrenade_Red","M18SmokeGrenade_Yellow","M18SmokeGrenade_Purple","RDG2SmokeGrenade_White","RDG2SmokeGrenade_Black"], "weight": 40, "MinHealth": 0.60, "MaxHealth": 0.98, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_carrier_backpack_atacs", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_supplybag_atacs", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_assault_pack_atacs", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_olive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_camelback_atacs", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_mmps_bag_atacs", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_green"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_carrier_backpack_upc", "MMG_carrier_backpack_black", "MMG_carrier_backpack_dark_woodland", "MMG_carrier_backpack_alpineive"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_supplybag_upc", "MMG_supplybag_black", "MMG_supplybag_dark_woodland", "MMG_supplybag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_assault_pack_upc", "MMG_assault_pack_black", "MMG_assault_pack_dark_woodland", "MMG_assault_pack_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_camelback_upc", "MMG_camelback_black", "MMG_camelback_dark_woodland", "MMG_camelback_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_mmps_bag_upc", "MMG_mmps_bag_black", "MMG_mmps_bag_dark_woodland", "MMG_mmps_bag_alpine"], "weight": 30, "MinHealth": 0.2, "MaxHealth": 0.9, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_Mag_Pouch_atacs", "MMG_Mag_Pouch_Black", "MMG_Mag_Pouch_dark_woodland", "MMG_Mag_Pouch_olive"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_triple_magpouch_atacs", "MMG_triple_magpouch_black", "MMG_triple_magpouch_dark_woodland", "MMG_triple_magpouch_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_double_magpouch_atacs", "MMG_double_magpouch_black", "MMG_double_magpouch_dark_woodland", "MMG_double_magpouch_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_Mag_Pouch_upc", "MMG_Mag_Pouch_Black", "MMG_Mag_Pouch_dark_woodland", "MMG_Mag_Pouch_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_triple_magpouch_upc", "MMG_triple_magpouch_black", "MMG_triple_magpouch_dark_woodland", "MMG_triple_magpouch_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_double_magpouch_upc", "MMG_double_magpouch_black", "MMG_double_magpouch_dark_woodland", "MMG_double_magpouch_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_multiple_magpouch_black", "MMG_multiple_magpouch_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_Med_Pouch_atacs", "MMG_Med_Pouch_black", "MMG_Med_Pouch_dark_woodland", "MMG_Med_Pouch_Olive"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_ammo_pouch_atacs", "MMG_ammo_pouch_black", "MMG_ammo_pouch_dark_woodland", "MMG_ammo_pouch_olive"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tactical_pouch_atacs", "MMG_tactical_pouch_black", "MMG_tactical_pouch_dark_woodland", "MMG_tactical_pouch_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_mk5_utility_pouch_atacs", "MMG_mk5_utility_pouch_black", "MMG_mk5_utility_pouch_dark_woodland", "MMG_mk5_utility_pouch_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_mk5_grenade_pouch_atacs", "MMG_mk5_grenade_pouch_black", "MMG_mk5_grenade_pouch_dark_woodland", "MMG_mk5_grenade_pouch_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_Med_Pouch_upc", "MMG_Med_Pouch_black", "MMG_Med_Pouch_dark_woodland", "MMG_Med_Pouch_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_ammo_pouch_upc", "MMG_ammo_pouch_black", "MMG_ammo_pouch_dark_woodland", "MMG_ammo_pouch_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tactical_pouch_upc", "MMG_tactical_pouch_black", "MMG_tactical_pouch_dark_woodland", "MMG_tactical_pouch_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_mk5_utility_pouch_upc", "MMG_mk5_utility_pouch_black", "MMG_mk5_utility_pouch_dark_woodland", "MMG_mk5_utility_pouch_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_mk5_grenade_pouch_upc", "MMG_mk5_grenade_pouch_black", "MMG_mk5_grenade_pouch_dark_woodland", "MMG_mk5_grenade_pouch_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["mmg_dump_pouch_black", "mmg_dump_pouch_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["MMG_holster_pouch_black", "MMG_holster_pouch_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
-				{ "type_range": ["MMG_JPC_Vest_atacs", "MMG_JPC_Vest_black", "MMG_JPC_Vest_dark_woodland", "MMG_JPC_Vest_olive"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_tt_Vest_atacs", "MMG_tt_Vest_black", "MMG_tt_Vest_dark_woodland", "MMG_tt_Vest_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_chestrig_atacs", "MMG_chestrig_black", "MMG_chestrig_dark_woodland", "MMG_chestrig_green"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_III_Armor_atacs", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_green"], "weight": 40, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
-				{ "type_range": ["MMG_MK_V_Armor_atacs", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_green"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_JPC_Vest_upc", "MMG_JPC_Vest_black", "MMG_JPC_Vest_dark_woodland", "MMG_JPC_Vest_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_tt_Vest_upc", "MMG_tt_Vest_black", "MMG_tt_Vest_dark_woodland", "MMG_tt_Vest_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_chestrig_upc", "MMG_chestrig_black", "MMG_chestrig_dark_woodland", "MMG_chestrig_alpine"], "weight": 50, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_III_Armor_upc", "MMG_MK_III_Armor_black", "MMG_MK_III_Armor_dark_woodland", "MMG_MK_III_Armor_alpine"], "weight": 40, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_MK_V_Armor_upc", "MMG_MK_V_Armor_black", "MMG_MK_V_Armor_dark_woodland", "MMG_MK_V_Armor_alpine"], "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_C4Stick", "weight": 1, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Sulfur", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -5962,6 +5962,44 @@
 				{ "type_range": ["PokemonBoosterPack_Basic1_1x","PokemonBoosterPack_Basic1_3x","PokemonBoosterPack_Basic1_5x","PokemonBoosterPack_Basic2_1x","PokemonBoosterPack_Basic2_3x","PokemonBoosterPack_Basic2_5x","PokemonBoosterPack_Basic3_1x","PokemonBoosterPack_Basic3_3x","PokemonBoosterPack_Basic3_5x","PokemonBoosterPack_Fossil1_1x","PokemonBoosterPack_Fossil1_3x","PokemonBoosterPack_Fossil1_5x","PokemonBoosterPack_Fossil2_1x","PokemonBoosterPack_Fossil2_3x","PokemonBoosterPack_Fossil2_5x","PokemonBoosterPack_Fossil3_1x","PokemonBoosterPack_Fossil3_3x","PokemonBoosterPack_Fossil3_5x","PokemonBoosterPack_Jungle1_1x","PokemonBoosterPack_Jungle1_3x","PokemonBoosterPack_Jungle1_5x","PokemonBoosterPack_Jungle2_1x","PokemonBoosterPack_Jungle2_3x","PokemonBoosterPack_Jungle2_5x","PokemonBoosterPack_Jungle3_1x","PokemonBoosterPack_Jungle3_3x","PokemonBoosterPack_Jungle3_5x"], "weight": 20, "MinHealth": -1, "MaxHealth": -1, "MinQuantity": -1, "MaxQuantity": -1 },
 	      		{ "type_range": ["ZenTreasure_Photo26","ZenTreasure_Photo27","ZenTreasure_Photo28","ZenTreasure_Photo29","ZenTreasure_Photo30","ZenTreasure_Photo31","ZenTreasure_Photo32","ZenTreasure_Photo33","ZenTreasure_Photo34","ZenTreasure_Photo35","ZenTreasure_Photo36","ZenTreasure_Photo37","ZenTreasure_Photo38","ZenTreasure_Photo39","ZenTreasure_Photo40","ZenTreasure_Photo41","ZenTreasure_Photo42","ZenTreasure_Photo43","ZenTreasure_Photo44","ZenTreasure_Photo45","ZenTreasure_Photo46","ZenTreasure_Photo47","ZenTreasure_Photo48","ZenTreasure_Photo49","ZenTreasure_Photo50"], "weight": 5, "MinHealth": -1, "MaxHealth": -1, "MinQuantity": -1, "MaxQuantity": -1 }
 			]
+		},
+		"helicopter_crash": {
+			"chance": 0.20,
+			"minItems": 1,
+			"maxItems": 1,
+  			"cooldownMessage": [
+  			  "Someone has apparently already searched through this wreckage."
+  			],
+			"items": [ 
+				{ "type": "ExpansionHelicopterBattery", "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type": "ExpansionHydraulicHoses", "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type": "ExpansionIgniterPlug", "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type_range": ["ADM_ParachuteBag_ADM","ADM_ParachuteBag_Fabric","ADM_ParachuteBag_RWB","ADM_ParachuteBag_Skull","ADM_ParachuteBag_Target","ADM_TactiParaBag_Camo"], "weight": 25, "MinHealth": 0.60, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["MMG_patch_rubber_dayz","MMG_patch_rubber_511","MMG_patch_rubber_medic","MMG_patch_rubber_toxic","MMG_patch_rubber_bushcraft","MMG_patch_rubber_bushcraft1","MMG_patch_rubber_police","MMG_patch_rubber_punisher","MMG_patch_rubber_rangers","MMG_patch_rubber_eod","MMG_patch_rubber_mmg","MMG_patch_rubber_sniper1","MMG_patch_rubber_cherno_special","MMG_patch_rubber_livonia_special","MMG_patch_rubber_australia","MMG_patch_rubber_austria","MMG_patch_rubber_austria1","MMG_patch_rubber_germany","MMG_patch_rubber_sweden","MMG_patch_rubber_norway","MMG_patch_rubber_ukraine","MMG_patch_rubber_bulgaria","MMG_patch_rubber_switzerland","MMG_patch_rubber_czech_republic"], "weight": 10, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["PokemonBoosterPack_Basic1_1x","PokemonBoosterPack_Basic1_3x","PokemonBoosterPack_Basic1_5x","PokemonBoosterPack_Basic2_1x","PokemonBoosterPack_Basic2_3x","PokemonBoosterPack_Basic2_5x","PokemonBoosterPack_Basic3_1x","PokemonBoosterPack_Basic3_3x","PokemonBoosterPack_Basic3_5x","PokemonBoosterPack_Fossil1_1x","PokemonBoosterPack_Fossil1_3x","PokemonBoosterPack_Fossil1_5x","PokemonBoosterPack_Fossil2_1x","PokemonBoosterPack_Fossil2_3x","PokemonBoosterPack_Fossil2_5x","PokemonBoosterPack_Fossil3_1x","PokemonBoosterPack_Fossil3_3x","PokemonBoosterPack_Fossil3_5x","PokemonBoosterPack_Jungle1_1x","PokemonBoosterPack_Jungle1_3x","PokemonBoosterPack_Jungle1_5x","PokemonBoosterPack_Jungle2_1x","PokemonBoosterPack_Jungle2_3x","PokemonBoosterPack_Jungle2_5x","PokemonBoosterPack_Jungle3_1x","PokemonBoosterPack_Jungle3_3x","PokemonBoosterPack_Jungle3_5x"], "weight": 5, "MinHealth": -1, "MaxHealth": -1, "MinQuantity": -1, "MaxQuantity": -1 }
+		 	]
+		},
+		"excavator_machine": {
+			"chance": 0.20,
+			"minItems": 1,
+			"maxItems": 1,
+  			"cooldownMessage": [
+  			  "Someone has apparently already searched through this digger."
+  			],
+			"items": [ 
+				{ "type": "ExpansionHelicopterBattery", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type": "ExpansionHydraulicHoses", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type": "ExpansionIgniterPlug", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type": "CarBattery", "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type": "TruckBattery", "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type": "CarRadiator", "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type": "SparkPlug", "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type": "GlowPlug", "weight": 25, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
+				{ "type_range": ["DuctTape","MetalWire"], "weight": 35, "MinHealth": 0.25, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
+                { "type_range": ["ConstructionHelmet_Yellow","ConstructionHelmet_Blue","ConstructionHelmet_White"], "weight": 25, "MinHealth": 0.60, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
+                { "type_range": ["WorkingGloves_Yellow","WorkingGloves_Black","WorkingGloves_Beige","WorkingGloves_Brown"], "weight": 25, "MinHealth": 0.60, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
+				{ "type_range": ["PokemonBoosterPack_Basic1_1x","PokemonBoosterPack_Basic1_3x","PokemonBoosterPack_Basic1_5x","PokemonBoosterPack_Basic2_1x","PokemonBoosterPack_Basic2_3x","PokemonBoosterPack_Basic2_5x","PokemonBoosterPack_Basic3_1x","PokemonBoosterPack_Basic3_3x","PokemonBoosterPack_Basic3_5x","PokemonBoosterPack_Fossil1_1x","PokemonBoosterPack_Fossil1_3x","PokemonBoosterPack_Fossil1_5x","PokemonBoosterPack_Fossil2_1x","PokemonBoosterPack_Fossil2_3x","PokemonBoosterPack_Fossil2_5x","PokemonBoosterPack_Fossil3_1x","PokemonBoosterPack_Fossil3_3x","PokemonBoosterPack_Fossil3_5x","PokemonBoosterPack_Jungle1_1x","PokemonBoosterPack_Jungle1_3x","PokemonBoosterPack_Jungle1_5x","PokemonBoosterPack_Jungle2_1x","PokemonBoosterPack_Jungle2_3x","PokemonBoosterPack_Jungle2_5x","PokemonBoosterPack_Jungle3_1x","PokemonBoosterPack_Jungle3_3x","PokemonBoosterPack_Jungle3_5x"], "weight": 15, "MinHealth": -1, "MaxHealth": -1, "MinQuantity": -1, "MaxQuantity": -1 }
+		 	]
 		}
 	}
 }

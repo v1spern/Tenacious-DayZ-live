@@ -7688,6 +7688,103 @@
                     "FlavorText": " "
                 }
             }
+        },
+        "helicopter_crash": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 10,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 10,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 0,
+                    "CountMin": 1,
+                    "CountMax": 3,
+                    "SpawnRadius": 30.0,
+                    "ZombieTypes": [],
+                    "AlertNoiseStrength": 50.0,
+                    "AlertNoiseRange": 30.0,
+                    "FlavorText": ""
+                },
+                "Smoke": {
+                    "Chance": 20,
+                    "Classname": "M18SmokeGrenade_Red",
+                    "FuseSeconds": 1.0,
+                    "FlavorText": ""
+                },
+                "Gas": {
+                    "Chance": 10,
+                    "Classname": "Grenade_ChemGas",
+                    "FuseSeconds": 1.0,
+                    "FlavorText": ""
+                },
+                "KnockOut": {
+                    "Chance": 10,
+                    "DurationSeconds": 30.0,
+                    "HealthDamage": 20.0,
+                    "FlavorText": ""
+                },
+                "Shock": {
+                    "Chance": 10,
+                    "ShockAmount": 50.0,
+                    "HealthDamage": 0.0,
+                    "FlavorText": ""
+                },
+                "SirenAlarm": {
+                    "Chance": 0,
+                    "FlavorText": ""
+                }
+            }
+        },
+        "excavator_machine": {
+            "CooldownTime": 1800.0,
+            "HazardChance": 10,
+            "GloveDamageMin": 5,
+            "GloveDamageMax": 10,
+            "Events": {
+                "ZombieSpawn": {
+                    "Chance": 10,
+                    "CountMin": 1,
+                    "CountMax": 3,
+                    "SpawnRadius": 30.0,
+                    "ZombieTypes": [
+                        "ZmbM_ConstrWorkerNormal_Beige",
+                        "ZmbM_ConstrWorkerNormal_Black",
+                        "ZmbM_ConstrWorkerNormal_Green",
+                        "ZmbM_ConstrWorkerNormal_Grey"
+                    ],
+                    "AlertNoiseStrength": 50.0,
+                    "AlertNoiseRange": 30.0,
+                    "FlavorText": "Your rummaging noises alert nearby infected!"
+                },
+                "Smoke": {
+                    "Chance": 0,
+                    "Classname": "",
+                    "FuseSeconds": 1.0,
+                    "FlavorText": " "
+                },
+                "Gas": {
+                    "Chance": 0,
+                    "Classname": " ",
+                    "FuseSeconds": 1.0,
+                    "FlavorText": " "
+                },
+                "KnockOut": {
+                    "Chance": 10,
+                    "DurationSeconds": 15.0,
+                    "HealthDamage": 20.0,
+                    "FlavorText": ""
+                },
+                "Shock": {
+                    "Chance": 0,
+                    "ShockAmount": 50.0,
+                    "HealthDamage": 0.0,
+                    "FlavorText": " "
+                },
+                "SirenAlarm": {
+                    "Chance": 0,
+                    "FlavorText": " "
+                }
+            }
         }
     },
     "DefaultCooldownTime": 1800.0,
