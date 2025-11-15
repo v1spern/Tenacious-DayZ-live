@@ -197,4 +197,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		 <file name="zno-types.xml" type="types" />
 	</ce>
 <!-- !SECTION Zens Notes Mod End -->
+<!-- SECTION Unknown Ghillie Mod -->
+	<ce folder="ModTypes/UnknownGhillieMod">
+		 <file name="ugm-types.xml" type="types" />
+	</ce>
+<!-- !SECTION Unknown Ghillie Mod End -->
 </economycore>
