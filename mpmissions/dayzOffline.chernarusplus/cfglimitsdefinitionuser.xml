@@ -11,6 +11,17 @@
             <usage name="Office" />
             <usage name="School" />
         </user>
+        <user name="Civilian">
+            <usage name="Town" />
+            <usage name="Village" />
+            <usage name="Office" />
+            <usage name="School" />
+            <usage name="Farm" />
+            <usage name="Firefighter" />
+            <usage name="Coast" />
+            <usage name="Lunapark" />
+            <usage name="Historical" />
+        </user>
     </usageflags>
 
     <valueflags>
