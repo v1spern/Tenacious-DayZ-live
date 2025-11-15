@@ -1,6 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!-- ANCHOR Mass'sManyItemsOverhaul Mod Start (MMIO_Types.xml) -->
+<!-- STUB Ghillie Camonets -->
+    <type name="Mass_CamonetGhillie_Nato">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="Mass_CamonetGhillie_Winter">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="Mass_CamonetGhillie_East">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="Mass_CamonetGhillie_Urban">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="Mass_CamonetGhillie_Marpat">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+<!-- STUB Paint -->
+    <type name="MassPaint">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+<!-- STUB NBC Gear -->
+    <type name="Mass_MoppNBCTop">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="Mass_MoppNBCPants">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="Mass_MoppNBCHood">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="Mass_MoppNBCBoots">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
 <!-- STUB Clothes -->
     <type name="MassBlackGorkatop">
         <nominal>5</nominal>
@@ -706,7 +785,7 @@
 		<usage name="Military"/>
     </type>
 <!-- STUB Survivor Bags -->
-    <type name="Massbrownhuntingbp">
+    <type name="MassbrownHuntingbp">
         <nominal>8</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
@@ -2021,11 +2100,11 @@
         <usage />
         <value />
         <category name="clothes" />
-        <tag name="civilian" />
-        <tag name="hunting" />
+        <tag name="Civilian" />
+        <tag name="Hunting" />
     </type>
   <type name="Mass_GunMittensWhite">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <min>0</min>
         <lifetime>1800</lifetime>
         <restock>500</restock>
@@ -2036,11 +2115,11 @@
         <usage />
         <value />
         <category name="clothes" />
-        <tag name="civilian" />
-        <tag name="hunting" />
+        <tag name="Civilian" />
+        <tag name="Hunting" />
     </type>
   <type name="Mass_GunMittensBlack">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <min>0</min>
         <lifetime>1800</lifetime>
         <restock>500</restock>
@@ -2051,8 +2130,8 @@
         <usage />
         <value />
         <category name="clothes" />
-        <tag name="civilian" />
-        <tag name="hunting" />
+        <tag name="Civilian" />
+        <tag name="Hunting" />
     </type>
     <type name="Mass_GunMittensRed">
         <nominal>0</nominal>
@@ -2066,8 +2145,8 @@
         <usage />
         <value />
         <category name="clothes" />
-        <tag name="civilian" />
-        <tag name="hunting" />
+        <tag name="Civilian" />
+        <tag name="Hunting" />
     </type>
     <type name="Mass_GunMittensBlue">
         <nominal>0</nominal>
@@ -2081,11 +2160,11 @@
         <usage />
         <value />
         <category name="clothes" />
-        <tag name="civilian" />
-        <tag name="hunting" />
+        <tag name="Civilian" />
+        <tag name="Hunting" />
     </type>
     <type name="Mass_GunMittensBrown">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <min>0</min>
         <lifetime>1800</lifetime>
         <restock>500</restock>
@@ -2096,11 +2175,11 @@
         <usage />
         <value />
         <category name="clothes" />
-        <tag name="civilian" />
-        <tag name="hunting" />
+        <tag name="Civilian" />
+        <tag name="Hunting" />
     </type>
     <type name="Mass_GunMittensGrey">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <min>0</min>
         <lifetime>1800</lifetime>
         <restock>500</restock>
@@ -2111,8 +2190,8 @@
         <usage />
         <value />
         <category name="clothes" />
-        <tag name="civilian" />
-        <tag name="hunting" />
+        <tag name="Civilian" />
+        <tag name="Hunting" />
     </type>
 <!-- STUB Bags -->
      <type name="Massczech">

@@ -31,6 +31,7 @@
 	    	"items": [
 	      		{ "type": "Rag", "weight": 75, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": 2, "MaxQuantity": 4 },
 	      		{ "type": "Paper", "weight": 50, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "GlassBottle", "weight": 15, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": 1, "MaxQuantity": 15 },
 				{ "type": "WaterBottle", "weight": 15, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": 1, "MaxQuantity": 15 },
 				{ "type_range": ["Empty_SodaCan_Pipsi","Empty_SodaCan_Cola","Empty_SodaCan_Spite","Empty_SodaCan_Kvass","Empty_SodaCan_Fronta"], "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -147,6 +148,7 @@
 	      		{ "type": "Screwdriver", "weight": 20, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 	      		{ "type": "PetrolLighter", "weight": 20, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 	      		{ "type": "OrienteeringCompass", "weight": 20, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_Sulfur", "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Charcoal", "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -212,6 +214,7 @@
 	      		{ "type": "PetrolLighter", "weight": 40, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 	      		{ "type": "OrienteeringCompass", "weight": 20, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "CodeLock", "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "HDSN_Sulfur", "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "HDSN_Charcoal", "weight": 30, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -263,6 +266,7 @@
 	      		{ "type": "MediumGasCanister", "weight": 8,  "MinHealth": 0.45, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 	      		{ "type": "LargeGasCanister", "weight": 5,  "MinHealth": 0.45, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Mass_LunchBox", "weight": 30, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 	      		{ "type_range": ["PeachesCan","SardinesCan","TunaCan"], "weight": 50, "MinHealth": 0.55, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
 	      		{ "type_range": ["BakedBeansCan","SpaghettiCan","DogFoodCan","CatFoodCan","PowderedMilk","Rice"], "weight": 40, "MinHealth": 0.55, "MaxHealth": 0.95, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -384,6 +388,7 @@
 			"items": [
         		{ "type": "Rag", "weight": 55, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 6 },
         		{ "type": "Paper", "weight": 70, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": 1, "MaxQuantity": 3 },
+	      		{ "type": "MassPaint", "weight": 40, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
         		{ "type_range": ["Apple","Pear","Plum","Potato","Pumpkin","Tomato","Zucchini","GreenBellPepper"], "weight": 70, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
         		{ "type_range": ["AgaricusMushroom","AuriculariaMushroom","BoletusMushroom","CraterellusMushroom","LactariusMushroom","MacrolepiotaMushroom","PleurotusMushroom"], "weight": 70, "MinHealth": 0.20, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -423,6 +428,7 @@
         		{ "type": "Whetstone", "weight": 8, "MinHealth": 0.30, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Tarp", "weight": 30, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "CodeLock", "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["MediumTent_Green","MediumTent_Orange","WG_CampingTent_Blue","WG_CampingTent_Gray","WG_CampingTent_Gray_Kit"], "weight": 80, "MinHealth": 0.40, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
@@ -1116,6 +1122,7 @@
         		{ "type": "GasolineCanister", "weight": 5, "MinHealth": 0.2, "MaxHealth": 0.5, "MinQuantity": -1, "MaxQuantity": -1 },
         		{ "type": "NioshFaceMask", "weight": 35, "MinHealth": 0.2, "MaxHealth": 0.5, "MinQuantity": -1, "MaxQuantity": -1 },
         		{ "type": "ReflexVest", "weight": 35, "MinHealth": 0.2, "MaxHealth": 0.5, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["PokemonBoosterPack_Basic1_1x","PokemonBoosterPack_Basic1_3x","PokemonBoosterPack_Basic1_5x","PokemonBoosterPack_Basic2_1x","PokemonBoosterPack_Basic2_3x","PokemonBoosterPack_Basic2_5x","PokemonBoosterPack_Basic3_1x","PokemonBoosterPack_Basic3_3x","PokemonBoosterPack_Basic3_5x","PokemonBoosterPack_Fossil1_1x","PokemonBoosterPack_Fossil1_3x","PokemonBoosterPack_Fossil1_5x","PokemonBoosterPack_Fossil2_1x","PokemonBoosterPack_Fossil2_3x","PokemonBoosterPack_Fossil2_5x","PokemonBoosterPack_Fossil3_1x","PokemonBoosterPack_Fossil3_3x","PokemonBoosterPack_Fossil3_5x","PokemonBoosterPack_Jungle1_1x","PokemonBoosterPack_Jungle1_3x","PokemonBoosterPack_Jungle1_5x","PokemonBoosterPack_Jungle2_1x","PokemonBoosterPack_Jungle2_3x","PokemonBoosterPack_Jungle2_5x","PokemonBoosterPack_Jungle3_1x","PokemonBoosterPack_Jungle3_3x","PokemonBoosterPack_Jungle3_5x"], "weight": 30, "MinHealth": -1, "MaxHealth": -1, "MinQuantity": -1, "MaxQuantity": -1 },
 	      		{ "type_range": ["ZenTreasure_Photo26","ZenTreasure_Photo27","ZenTreasure_Photo28","ZenTreasure_Photo29","ZenTreasure_Photo30","ZenTreasure_Photo31","ZenTreasure_Photo32","ZenTreasure_Photo33","ZenTreasure_Photo34","ZenTreasure_Photo35","ZenTreasure_Photo36","ZenTreasure_Photo37","ZenTreasure_Photo38","ZenTreasure_Photo39","ZenTreasure_Photo40","ZenTreasure_Photo41","ZenTreasure_Photo42","ZenTreasure_Photo43","ZenTreasure_Photo44","ZenTreasure_Photo45","ZenTreasure_Photo46","ZenTreasure_Photo47","ZenTreasure_Photo48","ZenTreasure_Photo49","ZenTreasure_Photo50"], "weight": 5, "MinHealth": -1, "MaxHealth": -1, "MinQuantity": -1, "MaxQuantity": -1 }
@@ -1261,6 +1268,7 @@
 
 				{ "type": "Nail", "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": 10, "MaxQuantity": 15 },
 				{ "type": "NailBox", "weight": 20, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "MetalPlate", "weight": 8, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": 1, "MaxQuantity": 2 },
 				{ "type": "WoodenPlank", "weight": 8, "MinHealth": 1.00, "MaxHealth": 1.00, "MinQuantity": 1, "MaxQuantity": 5 },
@@ -1472,6 +1480,7 @@
 				{ "type": "Tarp", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Rope", "weight": 35, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "NioshFaceMask", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "WoodenPlank", "weight": 75, "MinHealth": 1.00, "MaxHealth": 1.00, "MinQuantity": 1, "MaxQuantity": 5 },
 				{ "type": "WoodenLog", "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
@@ -1520,6 +1529,7 @@
 				{ "type": "BurlapSack", "weight": 38, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Netting", "weight": 10, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": 1, "MaxQuantity": 4 },
 				{ "type": "Rope", "weight": 35, "MinHealth": 0.20, "MaxHealth": 0.35, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "WoodenPlank", "weight": 8, "MinHealth": 1.00, "MaxHealth": 1.00, "MinQuantity": 1, "MaxQuantity": 5 },
 
@@ -1566,6 +1576,7 @@
 				{ "type": "BurlapSack", "weight": 38, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Netting", "weight": 10, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": 1, "MaxQuantity": 4 },
 				{ "type": "NioshFaceMask", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["Machete","Hatchet","OrientalMachete","CrudeMachete","SplittingAxe"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.70, "MinQuantity": -1, "MaxQuantity": -1 },
 
@@ -1679,6 +1690,7 @@
 				{ "type": "CodeLock", "weight": 2, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Spotlight", "weight": 15, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Whetstone", "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.95, "MinQuantity": 15, "MaxQuantity": 50 },
+	      		{ "type": "MassPaint", "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type_range": ["Wrench","Pliers","Screwdriver","Hacksaw"], "weight": 25, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
@@ -1780,6 +1792,7 @@
 				{ "type": "Paper", "weight": 70, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": 1, "MaxQuantity": 3 },
 				{ "type": "SmallStone", "weight": 38, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Stone", "weight": 38, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["Chemlight_Blue","Chemlight_Green","Chemlight_Red","Chemlight_White", "Chemlight_Yellow"], "weight": 38, "MinHealth": 0.50, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 
 				{ "type": "Flashlight", "weight": 20, "MinHealth": 0.35, "MaxHealth": 0.85, "MinQuantity": -1, "MaxQuantity": -1, "Attachments": [ "Battery9V"], "AttachCountMin": 0, "AttachCountMax": 1 },
@@ -1898,6 +1911,7 @@
 				{ "type": "Nail", "weight": 35, "MinHealth": 0.35, "MaxHealth": 0.90, "MinQuantity": 2, "MaxQuantity": 50 },
 				{ "type": "Rag", "weight": 55, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": 1, "MaxQuantity": 3 },
 				{ "type": "Whetstone", "weight": 8, "MinHealth": 0.30, "MaxHealth": 0.75, "MinQuantity": 15, "MaxQuantity": 99 },
+	      		{ "type": "MassPaint", "weight": 8, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Paper", "weight": 70, "MinHealth": 0.20, "MaxHealth": 0.50, "MinQuantity": -1, "MaxQuantity": -1 }
 			]
 		},
@@ -2170,6 +2184,7 @@
 				{ "type_range": ["Pen_Black","Pen_Blue","Pen_Green","Pen_Red","Pen_Pink","Pen_Purple","Pen_Orange"], "weight": 80, "MinHealth": -1, "MaxHealth": -1, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "GlassBottle", "weight": 45, "MinHealth": 0.15, "MaxHealth": 0.35, "MinQuantity": 100, "MaxQuantity": 750 },
 				{ "type": "WaterBottle", "weight": 35, "MinHealth": 0.15, "MaxHealth": 0.35, "MinQuantity": 100, "MaxQuantity": 750 },
+	      		{ "type": "MassPaint", "weight": 20, "MinHealth": 0.30, "MaxHealth": 0.90, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type_range": ["DisinfectantAlcohol","DisinfectantSpray","IodineTincture"], "weight": 25, "MinHealth": 0.15, "MaxHealth": 0.70, "MinQuantity": 1, "MaxQuantity": 4 },
 				{ "type_range": ["KitchenKnife","HuntingKnife","StoneKnife"], "weight": 20, "MinHealth": 0.15, "MaxHealth": 0.70, "MinQuantity": -1, "MaxQuantity": -1 },
 				{ "type": "Rag", "weight": 45, "MinHealth": 0.15, "MaxHealth": 0.35, "MinQuantity": 1, "MaxQuantity": 4 }
