@@ -28,4 +28,7 @@
 	<type name="SNAFUAX50_Mag"></type>
 	<type name="SNAFU_AS50_Mag"></type>
 	<type name="M79"></type>
+	<type name="Ammo_40mm_Explosive"></type>
+	<type name="Ammo_40mm_Chemgas"></type>
+	<type name="GCGN_M200_Mag"></type>
 </ignore>
