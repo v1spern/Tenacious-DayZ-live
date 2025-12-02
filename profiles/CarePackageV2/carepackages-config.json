@@ -1241,12 +1241,6 @@
           "MaxQty": 1
         },
         {
-          "Item": "Ammo_40mm_Chemgas",
-          "MinQty": 10,
-          "MaxQty": 25,
-          "Attachments": []
-        },
-        {
           "Item": "AntiChemInjector",
           "Attachments": [],
           "MinQty": 1,
@@ -1262,12 +1256,6 @@
           "Item": "Mag_CMAG_40Rnd",
           "MinQty": 10,
           "MaxQty": 40,
-          "Attachments": []
-        },
-        {
-          "Item": "GCGN_M200_Mag",
-          "MinQty": 5,
-          "MaxQty": 10,
           "Attachments": []
         },
         {
